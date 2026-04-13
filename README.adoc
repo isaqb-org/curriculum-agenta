@@ -1,20 +1,12 @@
-= Template for https://isaqb.org[iSAQB] Advanced Level Curricula
+= https://isaqb.org[iSAQB] Advanced Level Curriculum AGENTA
 
 :toc:
 :toc-placement!:
 
-ifdef::env-github[]
-:tip-caption: :bulb:
-:note-caption: :information_source:
-:important-caption: :heavy_exclamation_mark:
-:caution-caption: :fire:
-:warning-caption: :warning:
-endif::[]
-
 == Status
 image:https://github.com/isaqb-org/curriculum-agenta/workflows/CI%20-%20Releases%20and%20Main/badge.svg?branch=main["CI – Releases and Main"]
 image:https://img.shields.io/github/last-commit/isaqb-org/curriculum-agenta/main.svg["Last commit"]
-image:https://img.shields.io/github/contributors/isaqb-org/advanced-template.svg["Contributors",link="https://github.com/isaqb-org/curriculum-agenta/graphs/contributors"]
+image:https://img.shields.io/github/contributors/isaqb-org/curriculum-agenta.svg["Contributors",link="https://github.com/isaqb-org/curriculum-agenta/graphs/contributors"]
 image:https://img.shields.io/github/issues/isaqb-org/curriculum-agenta.svg["Issues",link="https://github.com/isaqb-org/curriculum-agenta/issues"]
 image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-agenta.svg["Issues closed",link="https://github.com/isaqb-org/curriculum-agenta/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aclosed+"]
 
@@ -22,7 +14,7 @@ image:https://img.shields.io/github/issues-closed/isaqb-org/curriculum-agenta.sv
 This is <<copyrighted,copyrighted work>>.
 
 == Content
-This repository contains a template for iSAQB Advanced Level *curricula* in AsciiDoc.
+This repository contains the iSAQB Advanced Level curriuclum AGENTA in AsciiDoc.
 
 toc::[]
 
