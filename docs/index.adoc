@@ -9,7 +9,7 @@ The terminology used in the iSAQB curricula can be found as a (freely available)
 
 == Latest Release {release-version}
 
-The Advanced Level Template Curriculum is currently maintained and published in both English (EN) and German (DE).
+The Advanced Level curriculum AGENTA is currently maintained and published in both English (EN) and German (DE).
 Maintainers and volunteer reviewers collaborate on GitHub to improve the curriculum.
 
 [cols="<,^,^"]
@@ -23,9 +23,5 @@ Maintainers and volunteer reviewers collaborate on GitHub to improve the curricu
 | English
 | link:{curriculumFileName}-en.html[HTML]
 | link:{curriculumFileName}-en.pdf[PDF]
-
-| Español
-|
-| link:{curriculumFileName}-es.pdf[PDF]
 
 |===

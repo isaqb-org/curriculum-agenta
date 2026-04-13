@@ -1,5 +1,5 @@
 ext {
-    curriculumFileName = "curriculum-template"
+    curriculumFileName = "curriculum-agenta"
 
     // if you only have one single language, remove either DE or EN. If you want support for other
     // translations, make sure to add them here.
