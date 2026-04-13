@@ -1,0 +1,25 @@
+:doctype: book
+:icons: font
+:sectnumlevels: 2
+:imagesdir: images
+:!chapter-signifier:
+
+// ":language:" denotes the language or the target document.
+// currently only DE and EN are supported
+:language: DE
+
+// ":include_configuration:" always consists of the language, optionally
+// additional markers might be configured here!
+:include_configuration: tags=**;{language};!*
+
+:curriculum-short: MODULKUERZEL
+
+ifeval::["{language}" == "DE"]
+:curriculum-name: MODULNAME IN VOLLER LAENGE
+:curriculum-header-title: iSAQB-Curriculum für Advanced Level: {curriculum-short}
+endif::[]
+
+ifeval::["{language}" == "EN"]
+:curriculum-name: FULL NAME OF MODULE
+:curriculum-header-title: iSAQB curriculum for Advanced Level: {curriculum-short}
+endif::[]
