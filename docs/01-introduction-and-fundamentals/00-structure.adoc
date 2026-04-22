@@ -4,11 +4,11 @@
 
 
 // tag::DE[]
-== Dies ist der Titel des ersten Moduls
+== Einführung und Grundlagen
 // end::DE[]
 
 // tag::EN[]
-== This is the First Module's Title
+== Introduction and Fundamentals
 // end::EN[]
 
 
