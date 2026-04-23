@@ -1,0 +1,50 @@
+=== {learning-goals}
+
+// tag::DE[]
+[[LZ-3-1]]
+==== LZ 3-1: Dies ist das erste Lernziel in Kapitel 3, das mit xyz
+
+Hier wird beschrieben, was Teilnehmer:innen in diesem Lernziel lernen sollen. Das kann in Prosa-Text
+in ganzen Sätzen oder in Aufzählungen mit Unterpunkten erfolgen. Dabei kann auch unterschieden werden,
+wie wichtig einzelne Aspekte des Lernziels sind. Es kann hier bereits auf Literatur verwiesen werden.
+
+* Erstes Teilziel
+* Zweites Unterthema
+* Dritter Aspekt
+
+[[LZ-3-2]]
+==== LZ 3-2: Hier ist ein zweites Lernziel in diesem Kapitel
+tbd.
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-3-1]]
+==== LG 3-1: Understand why and how the information available to an AI agent determines the quality of its output
+- The course participants can explain the relationship between the information an agent receives and the quality and architectural consistency of its output.
+- The course participants understand why providing architectural knowledge to agents is a design problem that requires engineering discipline, not just writing instructions.
+- The course participants can explain the inherent limitation: providing knowledge increases the probability of good results but cannot guarantee them.
+
+[[LG-3-2]]
+==== LG 3-2: Be able to identify what kinds of architectural knowledge agents need and in what form
+- The course participants can analyze which architectural artifacts, decisions, conventions, and constraints are relevant for AI agents working in a given codebase, and can assess which are missing.
+- The course participants can evaluate different forms of representing architectural knowledge for agent consumption and assess their trade-offs in terms of precision, maintainability, and effectiveness.
+
+[[LG-3-3]]
+==== LG 3-3: Be able to design delivery mechanisms that make architectural knowledge available to agents at the right time
+- The course participants can assess different strategies for delivering architectural knowledge to agents (e.g. Retrieval Augmented Generation) and can select appropriate strategies for different situations.
+- The course participants can reason about who or what should decide when specific knowledge is loaded, and can explain the trade-offs involved.
+- The course participants understand the architectural implications of standardized integration protocols (e.g. Model Context Protocol) for agent-tool communication and can identify where such mechanisms add value in an organization.
+
+[[LG-3-4]]
+==== LG 3-4: Be able to assess and improve how effectively architectural knowledge reaches agents in a given project
+- The course participants can evaluate whether the architectural knowledge currently available to agents in a project is sufficient, well-structured, and effectively delivered.
+- The course participants understand that more knowledge is not always better. Irrelevant or contradictory information degrades agent performance. They can design strategies that balance comprehensiveness with signal quality.
+- The course participants can design an iterative process for improving architectural knowledge delivery based on observed agent behavior.
+
+// end::EN[]
+
+[NOTE]
+====
+Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
+====

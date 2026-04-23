@@ -1,6 +1,6 @@
 // tag::DE[]
 |===
-| Dauer: XXX Min. | Übungszeit: XXX Min.
+| Dauer: 150 Min. | Übungszeit: 60 Min.
 |===
 
 === Begriffe und Konzepte
@@ -11,11 +11,13 @@ Begriff 1, Begriff 2, Begriff 3
 
 // tag::EN[]
 |===
-| Duration: XXX min | Practice time: XXX min
+| Duration: 150 min | Practice time: 60 min
 |===
 
 === Terms and Principles
-Term 1, Term 2, Term 3
+- Context engineering
+- Architectural knowledge delivery to AI agents
+- Agent-readable architecture artifacts
 
 // end::EN[]
 
