@@ -40,7 +40,7 @@ include::01-module-block-1/00-structure.adoc[{include_configuration}]
 include::02-module-block-2/00-structure.adoc[{include_configuration}]
 
 <<<
-include::03-module-block-3/00-structure.adoc[{include_configuration}]
+include::03-providing-architectural-knowledge/00-structure.adoc[{include_configuration}]
 
 <<<
 include::04-agents-aligned-architectural-goals/00-structure.adoc[{include_configuration}]
