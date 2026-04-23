@@ -1,0 +1,68 @@
+=== {learning-goals}
+
+// tag::DE[]
+[[LZ-4-1]]
+==== LZ 4-1: Verstehen, warum KI-Agenten explizite architekturelle Leitplanken benötigen
+- Die Teilnehmer können erklären, warum KI-Agenten ohne explizite Leitplanken dazu neigen, Architekturentscheidungen zu verletzen, technische Schulden aufzubauen und Inkonsistenzen einzuführen.
+- Die Teilnehmer können die Faktoren beschreiben, die das Verhalten eines KI-Agenten bestimmen, z.B. Kontext und Tools. Sie können Stellen identifizieren, an denen Architekten am wirksamsten eingreifen können.
+- Die Teilnehmer verstehen, wie bereitgestelltes Architekturwissen das Verhalten von Agenten einschränkt. Sie können erklären, warum Wissen (z.B. im Kontext von Agenten) allein nicht ausreicht.
+
+[[LZ-4-2]]
+==== LZ 4-2: Mechanismen entwerfen können, die Architekturentscheidungen gegenüber KI-generiertem Code durchsetzen
+- Die Teilnehmer können präventive und detektive Leitplanken entwerfen, die KI-Agenten innerhalb architektureller Grenzen halten.
+- Die Teilnehmer können die Trade-Offs zwischen verschiedenen Arten von Leitplanken beurteilen, insbesondere zwischen Präzision und Abdeckung sowie zwischen Geschwindigkeit und Analysetiefe.
+- Die Teilnehmer können geeignete Leitplanken für verschiedene Arten architektureller Belange auswählen (z.B. strukturelle Regeln, Qualitätsattribute) und erklären, warum manche Belange schwerer durchzusetzen sind als andere.
+
+[[LZ-4-3]]
+==== LZ 4-3: Entscheiden können, an welcher Stelle im Entwicklungsprozess architekturelle Leitplanken greifen sollen
+- Die Teilnehmer können architekturelle Leitplanken an geeigneten Stellen im Entwicklungs- und Deployment-Prozess platzieren, und begründen, warum unterschiedliche Leitplanken an unterschiedliche Stellen gehören.
+- Die Teilnehmer verstehen, dass KI-gestützte Entwicklung architekturellen Drift in einem Tempo verursachen kann, das traditionelle Review-Zyklen übersteigt, und können Mechanismen zur kontinuierlichen Überprüfung entwerfen.
+
+[[LZ-4-4]]
+==== LZ 4-4: Architekturelle Leitplanken für KI-Agenten in bestehende Codebasen einführen können
+- Die Teilnehmer können beurteilen, wie gut eine bestehende Codebasis und ein bestehender Technologie-Stack für die architekturelle Kontrolle von KI-Agenten geeignet sind. Sie können die Eigenschaften identifizieren, die Kontrolle erleichtern oder erschweren.
+- Die Teilnehmer können eine Strategie zur schrittweisen Einführung architektureller Leitplanken in Systeme entwerfen, die nicht für KI-gestützte Entwicklung gebaut wurden. Sie können priorisieren, welche Leitplanken zuerst etabliert werden sollten.
+- Die Teilnehmer können den Trade-Off zwischen dem Aufwand der Einführung von Leitplanken und dem Risiko des Betriebs von KI-Agenten ohne diese Leitplanlen beurteilen.
+
+[[LZ-4-5]]
+==== LZ 4-5: Prozesse entwerfen können, die architekturelle Leitplanken über die Zeit verbessern
+- Die Teilnehmer können Feedback-Prozesse entwerfen, bei denen Fehler in KI-generierter Arbeit zu Verbesserungen des Kontrollsystems selbst führen.
+- Die Teilnehmer können beurteilen, inwieweit die Verbesserung von Leitplanken selbst automatisiert werden kann und wo menschliches architekturelles Urteilsvermögen unerlässlich bleibt.
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-4-1]]
+==== LG 4-1: Understand why AI agents require explicit architectural control
+- The course participants can explain why AI agents, without explicit constraints, tend to produce work that violates architectural decisions, accumulates technical debt, and introduces inconsistencies.
+- The course participants can describe the factors that determine an AI agent's behavior (e.g. context and tools) and identify where architects can intervene most effectively.
+- The course participants understand the relationship between providing architectural knowledge to agents and constraining agent behavior, and can explain why knowledge alone (e.g. in agent's context) is insufficient.
+
+[[LG-4-2]]
+==== LG 4-2: Be able to design mechanisms that enforce architectural decisions on AI-generated work
+- The course participants can design preventive and detective controls that work together to keep AI agents within architectural boundaries.
+- The course participants can assess the trade-offs between different types of enforcement mechanisms, in particular the trade-off between precision and coverage, and between speed and depth of analysis.
+- The course participants can select appropriate enforcement mechanisms for different kinds of architectural concerns (e.g., structural rules, quality attributes) and can explain why some concerns are harder to enforce than others.
+
+[[LG-4-3]]
+==== LG 4-3: Be able to decide where in the development process architectural controls should be applied
+- The course participants can design architectural controls at appropriate points in the development and delivery process, and can justify why different controls belong at different points.
+- The course participants understand that AI-assisted development can cause architectural drift at a pace that exceeds traditional review cycles, and can design mechanisms for continuous verification.
+
+[[LG-4-4]]
+==== LG 4-4: Be able to introduce architectural controls for AI agents into existing codebases
+- The course participants can assess how amenable an existing codebase and technology stack are to architectural control of AI agents, and can identify the properties that make control easier or harder.
+- The course participants can design a strategy for incrementally introducing architectural controls to systems that were not built with AI-assisted development in mind, and can prioritize which controls to establish first.
+- The course participants can reason about the trade-off between the effort of establishing controls and the risk of operating AI agents without them.
+
+[[LG-4-5]]
+==== LG 4-5: Be able to introduce architectural controls for AI agents into existing codebases
+- The course participants can design feedback processes where failures in AI-generated work inform improvements to the control system itself.
+- The course participants can reason about the extent to which the improvement of controls can itself be automated, and where human architectural judgment remains essential.
+
+// end::EN[]
+
+[NOTE]
+====
+Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
+====

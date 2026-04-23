@@ -26,10 +26,15 @@ Structure of an anchor:
 ATTENTION: labels have to be non-numeric.
 ====
 
+**A**
+
+- [[[anthropic,Anthropic 2025]]] Anthropic (2025): Effective harnesses for long-running agents.
+
 **B**
 
 - [[[bachmann,Bachmann et al. 2000]]] Bachmann, F., L. Bass, et al.: Software Architecture Documentation in Practice. Software Engineering Institute, CMU/SEI-2000-SR-004.
 - [[[bass,Bass et al. 2003]]] Bass, L., Clements, P. und Kazman, R. (2003): Software Architecture in Practice. Addison-Wesley, Reading, Mass
+- [[[boeckeler,Boeckeler 2026]]] Boeckeler, B. (2026): Harness engineering for coding agent users. martinfowler.com
 
 **C**
 
@@ -42,6 +47,14 @@ ATTENTION: labels have to be non-numeric.
 **K**
 
 - [[[kruchten,Kruchten 1995]]] Kruchten, P.: Architectural Blueprints – The 4-1 View Model of Architecture. IEEE Software November 1995; 12(6), p. 42-50.
+
+**L**
+
+- [[[lopopolo,Lopopolo 2026]]] Lopopolo, R. (2026): Harness engineering: leveraging Codex in an agent-first world. openai.com
+
+**M**
+
+- [[[morris,Morris 2026]]] Morris, K. (2026): Humans and Agents in Software Engineering Loops. martinfowler.com
 
 **S**
 

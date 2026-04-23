@@ -43,7 +43,7 @@ include::02-module-block-2/00-structure.adoc[{include_configuration}]
 include::03-module-block-3/00-structure.adoc[{include_configuration}]
 
 <<<
-include::04-module-block-4/00-structure.adoc[{include_configuration}]
+include::04-agents-aligned-architectural-goals/00-structure.adoc[{include_configuration}]
 
 <<<
 include::05-module-block-5/00-structure.adoc[{include_configuration}]

@@ -3,11 +3,11 @@
 // ====================================================
 
 // tag::DE[]
-== Viertes Modul, das ist sein Titel
+== Agenten an Architekturzielen ausrichten
 // end::DE[]
 
 // tag::EN[]
-== Fourth Module, This is its Title
+== Keeping Agents Aligned with Architectural Goals
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]

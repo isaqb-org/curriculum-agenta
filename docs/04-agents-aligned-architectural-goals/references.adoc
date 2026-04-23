@@ -1,6 +1,14 @@
 === {references}
 
+<<anthropic>>
+
+<<boeckeler>>
+
 <<kruchten>>
+
+<<lopopolo>>
+
+<<morris>>
 
 
 
