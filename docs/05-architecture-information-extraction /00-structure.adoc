@@ -1,13 +1,13 @@
-// header file for curriculum section 4: Lerneinheit 2
+// header file for curriculum section 5: Lerneinheit 5
 // (c) iSAQB e.V. (https://isaqb.org)
 // ====================================================
 
 // tag::DE[]
-== Hier steht der Titel der zweiten Lerneinheit
+== Und so heißt Modul 5
 // end::DE[]
 
 // tag::EN[]
-== Here's the Title of the Second Lesson
+== Architecture Information Extraction
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]
