@@ -1,0 +1,24 @@
+// tag::DE[]
+|===
+| Dauer: 60 Min. | Übungszeit: 0 Min.
+|===
+
+=== Begriffe und Konzepte
+Definition grundlegender Konzepte, Künstliche Intelligenz, Large Language Models, Prompt Engineering, Agenten
+
+=== Ziel des Kpaitels
+Die Grundlagen schaffen bzw. wiederholen, die notwendig sind, um alle nachfolgenden Themen in diesem Lehrplan zu verstehen. Teilnehmende ohne vorherige KI-Erfahrung abholen, damit die folgenden Kapitel verstanden werden können.
+
+// end::DE[]
+
+// tag::EN[]
+|===
+| Duration: 60 min | Practice time: 0 min
+|===
+
+=== Terms and Principles
+Definition of basic concepts, Artificial intelligence, Large Language Models, Prompt Engineering, Agents
+// end::EN[]
+
+=== Goal of the chapter
+Establish and revisit the fundamentals necessary for understanding all subsequent topics in this curriculum. Help to bring along participants with no prior AI experience so that the chapters building on it become comprehensible.
