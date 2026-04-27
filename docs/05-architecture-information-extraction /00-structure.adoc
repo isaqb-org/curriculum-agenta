@@ -3,7 +3,7 @@
 // ====================================================
 
 // tag::DE[]
-== Und so heißt Modul 5
+== Architekturwissen extrahieren und aufbereiten
 // end::DE[]
 
 // tag::EN[]

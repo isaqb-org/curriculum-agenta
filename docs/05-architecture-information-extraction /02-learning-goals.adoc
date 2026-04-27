@@ -20,54 +20,55 @@ tbd.
 
 // tag::EN[]
 [[LG-5-1]]
-==== LG 5-1: Use AI for architecture discovery and system understanding
+==== LG 5-1: AI-supported architecture discovery and system understanding
 
-Participants know how AI can aid the understanding of existing systems by 
+Participants know how LLMs can aid the understanding of existing systems by 
 
 * summarizing and analyzing available system artifacts
 * digesting and analyzing source code and deployment artifacts
 * developing live system documentation like diagrams of structure and flow 
 * extracting conceptual information and linking it to known patterns, styles
-* extracting technology information
-* architectural characteristics
+* extracting technology information and architectural characteristics
 
-Participants understand the strengths and limitations of AI-supported architecture discovery, and know how to validate findings with inspection, communication and the help of traditional static/dynamic analysis tools
+Participants understand the strengths and limitations of these techniques, and know how to validate findings with inspection, communication and the help of traditional static/dynamic analysis tools
 
 [[LG-5-2]]
 ==== LG 5-2: Use AI to interpret and synthesize structural information
 
-Participants understand how AI can support the interpretation of structural information from different technical artifacts and sources. They know how partial findings can be combined into coherent architectural views and explanations.
+Participants understand how AI can support the interpretation of structural information from different technical artifacts and sources. They know how partial findings can be combined into coherent architectural views.
+In detail, participants know how to:
 
 * Interpret structural information from code, repositories, interfaces, and dependency information 
-* Combine findings from different sources into a usable representation (like knowledge graphs, structure models etc.)
+* Combine findings from different sources into a usable representation (like knowledge graphs, structure models etc.) and keep them up-to-date continuously
 * Identify gaps, inconsistencies, and uncertainties in reconstructed architecture information
 
 [[LG-5-3]]
-==== LG 5-3: Support technology detection and pattern recognition with AI
+==== LG 5-3: Technology detection and pattern recognition with AI
 
-Participants know how AI can be used to detect technologies, frameworks, integration styles, and recurring solution patterns in existing systems. They understand how such findings can contribute to architecture recovery and modernization work.
+Participants know how to use AI-means to detect technologies, frameworks, integration styles, and recurring solution patterns in existing systems. They understand how such findings can contribute to architecture recovery and modernization work.
+Specifically, participants can:
 
-* Identify relevant technologies and frameworks in existing systems e.g. by using code property graphs (Joern)
-* Recognize recurring architectural and design patterns 
+* Identify relevant technologies and frameworks in existing systems e.g. by using code property graphs like Joern or instrumentalizing AI coding agents.
+* Recognize recurring architectural and design patterns and searching for these in a domain-informed way 
 * Relate detected technologies and patterns to architectural structures and possible modernization concerns
 
 [[LG-5-4]]
 ==== LG 5-4: Use AI for business rule extraction
 
-Participants understand how AI can support the identification and documentation of business rules from existing artifacts. They know how AI can help uncover implicit domain logic and prepare it for communication, validation, and further architectural work.
+Participants understand how AI can support the identification and documentation of business rules from existing artifacts. They know how AI can help uncover implicit domain logic and prepare it for communication, validation, and further architectural work:
 
 * Extract candidate business rules from code, tests, configuration, and related artifacts 
-* Relate extracted rules to domain concepts and business processes 
+* Relate extracted rules to documented domain concepts and business processes 
 * Prepare extracted rules for validation with domain experts and stakeholders
 
 [[LG-5-5]]
 ==== LG 5-5: Derive architecture documentation from development artifacts
 
-Participants know how AI can support the creation of architecture documentation from live development artifacts. They understand how AI can help transform technical information into structured architectural descriptions for further use in analysis, communication, and maintenance.
+Participants know how AI can support the creation of architecture documentation from live development artifacts. They understand the possibilities and limitations of transforming technical information into structured architectural descriptions with AI-tools. 
 
-* Generate architecture-related documentation from code, repositories, interfaces, and other development artifacts 
-* Transform technical findings into understandable architectural descriptions and use templates (like arc42, architecture vision documents or canvases) 
-* Understand the need to validate generated documentation against the actual system
+* Generate architecture-related documentation from code, repositories, interfaces, and other development artifacts, including knowledge representations of these artifacts
+* Transform technical findings into understandable architectural descriptions and know the omportance of templates (like arc42, architecture vision documents or architecture canvases) 
+* Understand the need to validate generated documentation against common developer knowledge
 
 [[LG-5-6]]
 ==== LG 5-6: Reconstruct and maintain up-to-date system views
@@ -81,11 +82,14 @@ Participants understand how AI can support the reconstruction and ongoing mainte
 [[LG-5-7]]
 ==== LG 5-7: Support the creation and maintenance of Architecture Decision Records (ADRs) with GenAI
 
-Participants know how AI can support the creation, refinement, and maintenance of Architecture Decision Records. They understand how AI can help relate decisions to context, alternatives, rationale, and consequences without replacing architectural accountability.
+Participants know the possiblities and limitations of AI regarding the lifecycle of ADRs. 
+They know how to:
+
+* can support the creation, refinement, and maintenance of Architecture Decision Records. They understand how AI can help relate decisions to context, alternatives, rationale, and consequences without replacing architectural accountability.
 
 * Prepare ADR drafts from available project and system artifacts 
-* Support the documentation of context, decision options, rationale, and consequences 
-* Maintain ADRs in alignment with evolving systems and decisions by flagging existing ADRs, proposing updates or monitoring certain technologies or development artifacts.
+* Support the documentation of context, decision options, rationale, and consequences (e.g. by condensing available information from Wikis, Mails, Meeting Minutes and augmenting them with general knowledge)
+* Maintain ADRs in alignment with evolving systems and decisions by flagging ADRs when their foundations change, proposing updates or monitoring certain technologies or development artifacts.
 
 // end::EN[]
 

@@ -15,7 +15,7 @@ Begriff 1, Begriff 2, Begriff 3
 |===
 
 === Terms and Principles
-Term 1, Term 2, Term 3
+Architectural decision lifecycle, evidence-based architecture, architectural drivers, quality scenarios, fracture plains, set-based design, trade-off analysis, hypothesis-driven development, lightweight experiments, LLM model limitations, LLM model switching, human-in-the-loop
 
 // end::EN[]
 
