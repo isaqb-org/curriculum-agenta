@@ -95,12 +95,15 @@ Participants can distinguish the following important disciplines in the context 
 [[LG-1-5]]
 ==== LG 1-5: Know the different practical approaches (schools) to agentic engineering
 
-Participants understand the spectrum of AI autonomy in coding and can categorize tools and workflows within it.
+Participants understand the spectrum of AI autonomy in coding and can categorize tools and workflows within it. 
+E.g. they can describe the difference between conversational programming and "naive" coding agent usage, spec-driven development, agentic workflows and agent swarms. 
 
 [[LG-1-6]]
 ==== LG 1-6: Know the classic subject areas of software architecture
 
-* Participants know what classic architecture work consists of, e.g., communication, decisions, principles, styles, ...
-* Participants have an idea of how agents can support an architect’s activities.
+Participants know which activities are typically referred to as "architecture work" and understand that AI has an effect on these activities. 
+
+* Participants know modern definitions for software architecture and can identify typical activities and artifacts, including but not limited to: quality goal definition, architecture vision, definition of architectural options, tradeoff analysis, technical and conceptual decisions, definition of design and architecture principles, communication, ...
+* Participants have an idea of how AI-tools and agents can support these activities and what the limitations are
 
 // end::EN[]
