@@ -5,6 +5,8 @@
 [[LZ-1-1]]
 ==== LZ 1-1: Kennen eine Auswahl der wichtigsten Begriffe für Disziplinen und ihre Unterschiede
 
+Teilnehmer können die folgenden wichtigen Disziplinen im Zusammenhang mit Agentic Engineering unterscheiden und wissen, für welche Aufgaben sie eingesetzt werden:
+
 * AI Assisted, Augmented, Agentic and Vibe Coding
 * AI Orchestration
 * Agentic Workflow Design
@@ -12,89 +14,93 @@
 * Harness-, Context-, Prompt-, Human-in-the-Loop-Engineering
 
 [[LZ-1-2]]
-==== LZ 1-2: Wissen was die Begriffe Künstliche Intelligenz, GenAI und LLMs bezeichnet und verstehen den Unterschied zu klassischer Software
+==== LZ 1-2: Wissen was die Begriffe Künstliche Intelligenz, GenAI und LLMs bezeichnen und verstehen deren grundlegende Konzepte
 
-* Können die Begriffe _KI_, _GenAI_ und _LLMs_ sowie ihre Zusammenhänge einordnen
-* Kennen die Begriffe _Daten_, _Modell_, _Training_ und _Inferenz_
-* Wissen, dass Daten die zentrale Grundlage von KI sind (Garbage in, garbage out)
-* Verstehen LLMs als nicht-deterministische Werkzeuge und können die Auswirkungen auf die Architekturarbeit erklären
-* Kennen grundlegende Konzepte von LLMs wie Tokens, Prompts, Kontext, Temperature und Reasoning
-* Kennen die wichtigsten Eigenschaften von LLMs und können fundierte Entscheidungen zur Nutzung bestimmter Modelle treffen
-* Kennen die Fähigkeiten und Grenzen von LLMs (Halluzinationen, Bias, Knowledge Cutoff, Kontextfenster ...)
+* Teilnehmer können die Begriffe _KI_, _GenAI_ und _LLMs_ erklären sowie ihre Zusammenhänge einordnen.
+* Teilnehmer kennen die Begriffe _Daten_, _Modell_, _Training_ und _Inferenz_.
+* Teilnehmer wissen, dass Daten die zentrale Grundlage von KI sind (Garbage in, garbage out).
+* Teilnehmer verstehen LLMs als nicht-deterministische Werkzeuge und können die Auswirkungen auf die Architekturarbeit erklären.
+* Teilnehmer kennen grundlegende Konzepte von LLMs wie Tokens, Prompts, Kontext und Reasoning.
+* Teilnehmer kennen die wichtigsten Eigenschaften von LLMs und können fundierte Entscheidungen zur Nutzung bestimmter Anbieter und Modellen treffen.
+* Teilnehmer kennen die Fähigkeiten (z.B. Sprache, Wissen, Structured Output) und Grenzen von LLMs (z.B. Halluzinationen, Bias, Knowledge Cutoff, Kontextfenster).
+* Teilnehmer können abwägen, ob Aufgaben von Menschen, klassischen Software Tools oder LLM-Agenten erledigt werden sollten.
 
 [[LZ-1-3]]
 ==== LZ 1-3: Kennen den Einfluss von Prompt- und Kontext-Engineering auf die Qualität von LLM-Ausgaben
 
-* Kennen Prompt-Engineering-Techniken zur Optimierung der Qualität der Ausgaben
-* Kennen den starken Einfluss des Kontexts auf die Qualität der Ausgaben
+* Teilnehmer kennen eine Auswahl an Prompt-Engineering-Techniken zur Optimierung der Qualität der Ausgaben z.B. Role Playing, Konsistenz oder Repeating.
+* Teilnehmer kennen den starken Einfluss von Kontext auf die Qualität der Ausgaben und kennen das "Lost in the middle"-Problem
 
 [[LZ-1-4]]
 ==== LZ 1-4: Kennen das Prinzip von Agenten und die Gründe für seine große Bedeutung heutzutage
 
-* Kennen den Unterschied zwischen Assistenten und Agenten
-* Verstehen grundsätzlich die agentische Loop und Tool-Usage
-* Kennen fortgeschrittene Techniken wie Planning, Sub-Agenten, Hand-offs und Human-in-the-Loop
-* Haben ein grundlegendes Verständnis der Struktur und Funktionsweise moderner Coding-Agenten
-* Kennen die Stärke und breite Anwendbarkeit des agentenbasierten Ansatzes in der Softwareentwicklung und Architekturarbeit
+* Teilnehmer kennen den Unterschied zwischen Assistenten und Agenten.
+* Teilnehmer verstehen grundsätzlich die agentische Loop (ReAct Pattern): Prompting, Reasoning, Tool-Usage, State Management (Memory).
+* Teilnehmer kennen fortgeschrittene Techniken wie Planning, Sub-Agenten, Hand-offs und Human-in-the-Loop.
+* Teilnehmer haben ein grundlegendes Verständnis für die Struktur und Funktionsweise moderner Coding-Agenten.
+* Teilnehmer kennen die Stärke und breite Anwendbarkeit des agentenbasierten Ansatzes in der Softwareentwicklung und Architekturarbeit.
 
 [[LZ-1-5]]
 ==== LZ 1-5: Kennen die unterschiedlichen praktischen Vorgehensweisen beim Agentic Engineering
 
-* Kennen das Spektrum der KI-Autonomie beim Coding und können Tools und Workflows darin einsortieren
+* Teilnehmer kennen das Spektrum der KI-Autonomie beim Coding und können Tools und Workflows darin einsortieren.
 
 [[LZ-1-6]]
 ==== LZ 1-6: Kennen die klassischen Themengebiete von Softwarearchitektur
 
-* Kommunikation, Entscheidungen, Prinzipien, Stile, ...
-* Kennen deren Zusammenhang mit agentischen Vorgehensweisen
+* Teilnehmer wissen, woraus klassische Architekturarbeit besteht z.B. Kommunikation, Entscheidungen, Prinzipien, Stile, ...
+* Teilnehmer haben eine Vorstellung, wie Agenten bei den Tätigkeiten eines Architekten unterstützen können.
 
 // end::DE[]
 
 // tag::EN[]
 [[LG-1-1]]
-==== LG 1-1: Know a selection of the most important disciplines and their differences
+==== LG 1-1: Know a selection of the most important terms for AI disciplines and their differences
 
-* AI Assisted, Augmented, Agentic and Vibe Coding
-* AI Orchestration
-* Agentic Workflow Design
-* Agentic Engineering
-* Harness-, Context-, Prompt-, Human-in-the-Loop-Engineering
+Participants can distinguish the following important disciplines in the context of agentic engineering and know which tasks they are used for:
+
+* AI-assisted, augmented, agentic, and vibe coding
+* AI orchestration
+* Agentic workflow design
+* Agentic engineering
+* Harness, context, prompt, and human-in-the-loop engineering
 
 [[LG-1-2]]
-==== LG 1-2: Know what defines artificial intelligence, GenAI and LLMs and understand the difference from classical software
+==== LG 1-2: Knowing what the terms Artificial Intelligence, GenAI, and LLMs refer to and understanding their fundamental concepts
 
-* Be able to classify the terms _AI_, _GenAI_ and _LLMs_ as well as their interrelationship
-* Know the terms _data_, _model_, _training_, and _inference_
-* Know that data is the central foundation of AI (garbage in, garbage out)
-* Understand LLMs as non-deterministic tools and explain the implications for architecture work
-* Know basic concepts of LLMs such as tokens, prompts, context, temperature, and reasoning
-* Know the key characteristics of LLMs and be able to make well-informed decisions about using specific models
-* Know the capabilities and limitations of LLMs (hallucination, bias, knowledge cutoff, context window...)
+* Participants can explain the terms AI, GenAI, and LLMs and classify how they relate to each other.
+* Participants know the terms data, model, training, and inference.
+* Participants know that data is the central foundation of AI (garbage in, garbage out).
+* Participants understand LLMs as non-deterministic tools and can explain the implications for architecture work.
+* Participants know basic concepts of LLMs such as tokens, prompts, context, and reasoning.
+* Participants know the most important characteristics of LLMs and can make well-founded decisions about using specific providers and models.
+* Participants know the capabilities (e.g., language, knowledge, structured output) and limitations of LLMs (e.g., hallucinations, bias, knowledge cutoff, context window).
+* Participants can weigh whether tasks should be done by humans, classic software tools, or LLM agents.
 
 [[LG-1-3]]
-==== LG 1-3: Know about the influence of prompt and context engineering on the quality of LLM outputs 
+==== LG 1-3: Understand the impact of prompt and context engineering on the quality of LLM outputs
 
-* Know prompt engineering techniques to optimize output quality
-* Know about the strong influence of context on output quality
+* Participants know a selection of prompt-engineering techniques to optimize the quality of outputs, e.g., role playing, consistency, or repeating.
+* Participants know the strong influence of context on the quality of outputs and are familiar with the “lost in the middle” problem.
 
 [[LG-1-4]]
 ==== LG 1-4: Know the principle of agents and the reasons for its great importance nowadays
 
-* Know the difference between assistants and agents
-* Understand the agentic loop and tool usage in principle
-* Know advanced techniques such as planning, sub-agents, hand-offs, and human-in-the-loop
-* Have a fundamental understanding of the structure and functioning of modern coding agents
-* Know the power and broad applicability of the agent-based approach in software development and architecture work
+* Participants know the difference between assistants and agents.
+* Participants have a basic understanding of the agentic loop (ReAct pattern): prompting, reasoning, tool usage, state management (memory).
+* Participants are familiar with advanced techniques such as planning, sub-agents, hand-offs, and human-in-the-loop.
+* Participants have a basic understanding of the structure and functioning of modern coding agents.
+* Participants know the strengths and broad applicability of the agent-based approach in software development and architecture work.
 
 [[LG-1-5]]
-==== LG 1-5: Know the different schools of Agentic Engineering practice
+==== LG 1-5: Know the different practical approaches (schools) to agentic engineering
 
-* Know the spectrum of AI autonomy in coding and be able to classify tools and workflows
+Participants understand the spectrum of AI autonomy in coding and can categorize tools and workflows within it.
 
 [[LG-1-6]]
-==== LG 1-6: Know typical topics of Software Architecture
+==== LG 1-6: Know the classic subject areas of software architecture
 
-* Communication, Decisions, Principles, Styles, ...
-* Know their relationship to agentic practices
+* Participants know what classic architecture work consists of, e.g., communication, decisions, principles, styles, ...
+* Participants have an idea of how agents can support an architect’s activities.
 
 // end::EN[]
