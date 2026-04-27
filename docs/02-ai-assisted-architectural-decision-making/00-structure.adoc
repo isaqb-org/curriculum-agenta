@@ -3,7 +3,7 @@
 // ====================================================
 
 // tag::DE[]
-== Hier steht der Titel der zweiten Lerneinheit
+== AI-unterstützte Architekturentscheidungen
 // end::DE[]
 
 // tag::EN[]

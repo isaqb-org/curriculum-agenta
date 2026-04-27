@@ -2,17 +2,11 @@
 
 // tag::DE[]
 [[LZ-2-1]]
-==== LZ 2-1: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-Hier wird beschrieben, was Teilnehmer:innen in diesem Lernziel lernen sollen. Das kann in Prosa-Text
-in ganzen Sätzen oder in Aufzählungen mit Unterpunkten erfolgen. Dabei kann auch unterschieden werden,
-wie wichtig einzelne Aspekte des Lernziels sind. Es kann hier bereits auf Literatur verwiesen werden.
-
-* Erstes Teilziel
-* Zweites Unterthema
-* Dritter Aspekt
+==== LZ 2-1: LZ
+tbd.
 
 [[LZ-2-2]]
-==== LZ 2-2: Hier ist ein zweites Lernziel in diesem Kapitel
+==== LZ 2-2: LZ
 tbd.
 
 // end::DE[]
@@ -21,31 +15,32 @@ tbd.
 [[LG-2-1]]
 ==== LG 2-1: Understand the impact of AI on the lifecycle of architectural decisions
 
-Participants understand the phases of an architectural decision lifecycle, from problem identification through option exploration, evaluation of alternatives, decision making, and eventual deprecation. They understand that this lifecycle is iterative and cyclical rather than linear. They can explain how agentic engineering affects each phase and are able to establish a continuous, evidence-based architecture process.
+Participants understand the phases of an architectural decision lifecycle, from problem identification to eventual deprecation. They understand that this lifecycle is cyclical rather than linear and can explain how agentic engineering affects this lifecycle (effects, risks and opportunities).
+In detail, participants: 
 
-* Phases of the decision lifecycle: problem identification, option exploration, (in)validation of alternatives, decision making, deprecation, and iteration
-* Agentic engineering accelerates exploration, enables continuous validation, and increases decision cycle frequency
-* Is is important to establish feedback loops from development, testing, and operations into ongoing architectural reasoning
+* understand the phases of the decision lifecycle: problem identification, option exploration, (in)validation of alternatives, decision making, decision establishment, deprecation, and iteration
+* understand the effect of agentic engineering: It accelerates exploration and (prototype) development, and - paired with continuous validation - increases decision cycle frequency
+* understand that it is important to establish feedback loops from development, testing, and operations into ongoing architectural reasoning
+* can explain how these effects make it possible to establish a continuous, evidence based architecture process, and why this is a good thing.
 
 [[LG-2-2]]
-==== LG 2-2: Identify architectural drivers and structural pain points
+==== LG 2-2: Identify architectural drivers and structural pain points (bottom-up)
 
-Participants are able to identify architectural drivers and structural pain points using established techniques and AI-assisted support. They understand how findings from analysis and reviews can be used to focus architectural work and inform architectural decision-making.
+Participants are able to identify architectural drivers and structural pain points by using a mixture of established tools and AI-assisted techniques. They understand how findings from analysis and reviews can be used to focus architectural work and inform architectural decision-making.
+In detail, participants: 
 
-* Established techniques: technical debt assessment, static structural analysis, monitoring-based feedback, test coverage analysis, and architecture reviews
-* Applying AI-assisted tools for architecture reviews and structural assessment, including critical evaluation of their output
-* Identifying architectural needs, structural weaknesses, unintended drift, or emerging complexity in evolving systems
-* Using findings from analysis and assessment to focus architectural work
+* can explain bottom-up needs for architectural work, especially in agentic engineering contexts: structural weaknesses, unintended drift, or emerging complexity in evolving systems
+* know established tools: technical debt assessment, static structural analysis, monitoring-based feedback and dynamic analysis, metrics and test coverage analysis, architecture reviews
+* can use AI-assisted techniques to support bottom-up driver identification: like AI-driven architecture reviews and structural assessments, consistency checks and quality assessments
 
 [[LG-2-3]]
-==== LG 2-3: Refine quality goals into architectural evaluation criteria
+==== LG 2-3: Refine quality goals into architectural evaluation criteria (top-down)
 
 Participants are able to decompose quality goals into concrete evaluation criteria and use them to reason about the output of agentic development.
 
 * Decomposing quality goals into concrete, assessable criteria
 * Identifying conflicts or contradictions between quality goals, constraints, and architectural intentions
-* Using quality criteria to assess evolving solutions against intended architectural qualities
-* Assessing architectural decisions that may optimize different qualities
+* Using quality criteria to assess evolving solutions against intended architectural qualities (see chapter 4)
 
 [[LG-2-4]]
 ==== LG 2-4: Use AI for design exploration and architectural variant generation
@@ -56,14 +51,15 @@ Participants are able to use AI to support the exploration of architectural opti
 * Conducting AI-assisted trade-off analysis across architectural alternatives
 * Identifying decision forces and evaluating candidate options against existing decisions, constraints, and architectural principles
 * Understanding tool-independent decomposition and evaluation techniques as a basis for critically assessing AI-generated suggestions
-* Identifying fracture planes by augmenting static analysis with AI-generated structural insights
+* Especially for structural design questions: Identifying fracture planes by augmenting static analysis with AI-generated structural insights
 
 [[LG-2-5]]
 ==== LG 2-5: Being able to treat architectural decisions as testable hypotheses
 
-Participants understand that architectural decisions can be framed as explicit hypotheses with assumptions, expected outcomes, and criteria for validation or invalidation. They are able to design lightweight experiments to obtain early feedback and reduce uncertainty in architectural decision-making.
+Participants understand that architectural decisions can be framed as explicit hypotheses. They are able to design lightweight experiments to obtain early feedback and reduce uncertainty in architectural decision-making.
 
-* Framing architectural decisions as hypotheses with assumptions, expected outcomes, and measurable criteria for validation or invalidation
+* Framing architectural decisions as hypotheses with assumptions, expected outcomes, and measurable criteria for validation or invalidation.
+* Replacing potentially existing meeting-based approaches for architectural design with experimental loops
 * Designing lightweight experiments such as spikes, prototypes, and side-by-side variant comparisons
 * Identifying architectural risks and using targeted experiments to address them
 * Using experimental outcomes to support, weaken, revise, or revisit architectural decisions
@@ -71,11 +67,11 @@ Participants understand that architectural decisions can be framed as explicit h
 [[LG-2-6]]
 ==== LG 2-6: Understand the limitations of AI in architectural decision support
 
-Participants understand the limitations of AI-based support in architectural reasoning and decision-making. They know why AI-generated results require critical review and understand the need to retain human responsibility for consequential architectural decisions.
+Participants understand the limitations of AI in architectural reasoning and the support of decision-making. They know why AI-generated results require critical review and understand the need to retain human responsibility for consequential architectural decisions.
 
-* Model-inherent aspects that need attention: hallucinations, bias, sensitivity to prompt structure and instruction ordering, differences in context effectiveness, sponsored technologies, ...
-* Effects of switching models during a decision process
-* Defining review checkpoints and maintaining human responsibility over consequential architectural decisions
+* Known risks include model-inherent aspects that need attention: hallucinations, bias, sensitivity to prompt structure and instruction ordering, differences in context effectiveness, potentially sponsored technologies, ...
+* Participants know the value and risks of switching models during a decision process
+* Participants are able to define review checkpoints and know how to maintain human responsibility over consequential architectural decisions
 
 // end::EN[]
 
