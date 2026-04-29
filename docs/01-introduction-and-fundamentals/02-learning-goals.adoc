@@ -29,7 +29,7 @@ Teilnehmer können die folgenden wichtigen Disziplinen im Zusammenhang mit Agent
 ==== LZ 1-3: Kennen den Einfluss von Prompt- und Kontext-Engineering auf die Qualität von LLM-Ausgaben
 
 * Teilnehmer kennen eine Auswahl an Prompt-Engineering-Techniken zur Optimierung der Qualität der Ausgaben z.B. Role Playing, Konsistenz oder Repeating.
-* Teilnehmer kennen den starken Einfluss von Kontext auf die Qualität der Ausgaben und kennen das "Lost in the middle"-Problem
+* Teilnehmer haben eine Vorstellung davon, wo Kontext ín die LLM-Konversation eingefügt werden kann (System vs. User Message)
 
 [[LZ-1-4]]
 ==== LZ 1-4: Kennen das Prinzip von Agenten und die Gründe für seine große Bedeutung heutzutage
@@ -81,7 +81,7 @@ Participants can distinguish the following important disciplines in the context 
 ==== LG 1-3: Understand the impact of prompt and context engineering on the quality of LLM outputs
 
 * Participants know a selection of prompt-engineering techniques to optimize the quality of outputs, e.g., role playing, consistency, or repeating.
-* Participants know the strong influence of context on the quality of outputs and are familiar with the “lost in the middle” problem.
+* Participants have an idea of where context can be inserted into the LLM conversation (system vs. user message).
 
 [[LG-1-4]]
 ==== LG 1-4: Know the principle of agents and the reasons for its great importance nowadays
