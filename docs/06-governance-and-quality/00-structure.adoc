@@ -7,7 +7,7 @@
 // end::DE[]
 
 // tag::EN[]
-== Architecture Information Extraction
+== Governance and Quality Gates for AI Usage
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]

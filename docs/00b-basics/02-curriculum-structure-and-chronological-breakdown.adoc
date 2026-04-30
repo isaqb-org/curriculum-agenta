@@ -24,14 +24,15 @@
 |===
 | Content
 | Recommended minimum duration (minutes)
-| 1. Introduction | 180
-| 2. xz | 150
-| 3. Lots of theory | 120
-| 4. xy and example | 180
-| 5. abc und d | 210
-| 6. Final example | 120
+| 1. Introduction and Fundamentals | 60
+| 2. AI-Assisted Architectural Decision-Making | 210
+| 3. Providing Architectural Knowledge to Agents | 210
+| 4. Keeping Agents Aligned with Architectural Goals | 210
+| 5. Architecture Information Extraction | 300
+| 6. Final example | 90
+| 7. Final example | 165
 | |
-| Total | 960 (16h)
+| Total | 1.245 (20.75h)
 
 |===
 

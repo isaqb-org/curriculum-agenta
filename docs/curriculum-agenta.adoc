@@ -34,10 +34,10 @@ include::00b-basics/00-basics.adoc[{include_configuration}]
 
 <<<
 :sectnums:
-include::01-module-block-1/00-structure.adoc[{include_configuration}]
+include::01-introduction-and-fundamentals/00-structure.adoc[{include_configuration}]
 
 <<<
-include::02-module-block-2/00-structure.adoc[{include_configuration}]
+include::02-ai-assisted-architectural-decision-making/00-structure.adoc[{include_configuration}]
 
 <<<
 include::03-providing-architectural-knowledge/00-structure.adoc[{include_configuration}]
@@ -46,7 +46,13 @@ include::03-providing-architectural-knowledge/00-structure.adoc[{include_configu
 include::04-agents-aligned-architectural-goals/00-structure.adoc[{include_configuration}]
 
 <<<
-include::05-module-block-5/00-structure.adoc[{include_configuration}]
+include::05-architecture-information-extraction/00-structure.adoc[{include_configuration}]
+
+<<<
+include::06-governance-and-quality/00-structure.adoc[{include_configuration}]
+
+<<<
+include::07-evolving-role-of-the-architect/00-structure.adoc[{include_configuration}]
 
 <<<
 include::20-examples/00-examples.adoc[{include_configuration}]
