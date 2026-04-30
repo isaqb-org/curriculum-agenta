@@ -1,0 +1,18 @@
+// header file for curriculum section 7: Lerneinheit 7
+// (c) iSAQB e.V. (https://isaqb.org)
+// ====================================================
+
+// tag::DE[]
+== Der Titel des siebten Moduls
+// end::DE[]
+
+// tag::EN[]
+== The Evolving Role of the Architect
+// end::EN[]
+
+include::01-duration-terms.adoc[{include_configuration}]
+
+include::02-learning-goals.adoc[{include_configuration}]
+
+// references (if any!)
+include::references.adoc[{include_configuration}]
