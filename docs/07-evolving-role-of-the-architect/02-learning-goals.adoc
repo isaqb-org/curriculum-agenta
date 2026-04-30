@@ -1,0 +1,81 @@
+=== {learning-goals}
+
+// tag::DE[]
+[[LZ-7-1]]
+==== LZ 7-1: Dies ist das erste Lernziel in Kapitel 7, das mit xyz
+
+Hier wird beschrieben, was Teilnehmer:innen in diesem Lernziel lernen sollen. Das kann in Prosa-Text
+in ganzen Sätzen oder in Aufzählungen mit Unterpunkten erfolgen. Dabei kann auch unterschieden werden,
+wie wichtig einzelne Aspekte des Lernziels sind. Es kann hier bereits auf Literatur verwiesen werden.
+
+* Erstes Teilziel
+* Zweites Unterthema
+* Dritter Aspekt
+
+[[LZ-7-2]]
+==== LZ 7-2: Hier ist ein zweites Lernziel in diesem Kapitel
+tbd.
+
+// end::DE[]
+
+// tag::EN[]
+[[LG-7-1]]
+==== LG 7-1: Be able to drive the adoption of AI-supported development practices in organizations
+- The course participants can apply a hypothesis-driven approach to AI adoption (identifying a problem, formulating hypotheses, running experiments, measuring outcomes) and explain why this is preferable to broad, untargeted rollouts.
+- The course participants understand AI adoption as a continuous, multi-stage process (e.g. access, adoption, proficiency, ways of working, organizational change) rather than a one-time initiative, and can position an organization within such a model.
+- The course participants can design enabling measures such as trainings, hackathons, and dedicated time for experimentation, and can argue why protected time for learning is a precondition for sustainable adoption.
+- The course participants can establish explicit ownership for AI adoption within a team or organization and can describe the responsibilities such a role carries.
+- The course participants understand the importance of a learning culture that tolerates mistakes and creates psychological safety for asking questions, and can identify cultural anti-patterns that block adoption.
+- The course participants can balance ease of access (recommending sensible default tooling) with openness to alternatives, and can justify this trade-off.
+- The course participants can support the shift in engineering identity from writing code toward shipping outcomes, and can explain its implications for individuals and teams.
+- The course participants can define meaningful indicators for the success of AI adoption (e.g. DORA metrics, lead time, change failure rate, developer experience signals) and can use them to validate the hypotheses driving adoption.
+
+[[LG-7-2]]
+==== LG 7-2: Be able to shift architectural work from implementation to orchestration
+- The course participants can distinguish whether they are directing agents through a fixed plan or composing the agent workflow itself, and can select the appropriate style for a given context.
+- The course participants can reason about the effects of orchestration on throughput (especially regarding  less hand-offs causing less friction), traceability, and the development process as a whole.
+- The course participants can design orchestration variants and define meaningful checkpoints at which human judgment is required.
+- The course participants can identify failure modes specific to orchestration (e.g. runaway agents, infinite loops, lost human override points, cascading errors across orchestrated steps) and can design containment mechanisms that limit their impact.
+- The course participants can specify targets, constraints, and acceptance criteria rather than prescribing the exact path, and can explain why this style of guidance is more effective when working with AI agents.
+- The course participants understand that orchestration design has direct cost and sustainability implications (token consumption, agentic loop length, tool-call frequency) and can take these into account when shaping orchestration patterns. See also <<LG-6-4,LG 6-4>>.
+
+[[LG-7-3]]
+==== LG 7-3: Be able to take accountability for AI-supported architectural work and preserve engineering judgment
+- The course participants understand that the framing of a task (context, scope, prompt) determines the outcome, and can explain why responsibility for AI-generated results rests with the engineer who framed the task, not with the agent.
+- The course participants can recognize that shortcomings in AI output typically reflect gaps in engineering practice (unclear scope, missing context, weak verification) rather than failures of the agent itself.
+- The course participants can use AI to challenge and verify hypotheses through experimentation, instead of treating it as an oracle that produces answers to be accepted.
+- The course participants can apply risk-based testing and blast-radius reasoning to AI-supported changes, and can prioritize verification effort accordingly.
+- The course participants can apply review strategies that work outside-in (from observable behavior toward implementation) to AI-generated work.
+- The course participants understand the risk of skill atrophy through overreliance on AI and can design personal and team practices (e.g. deliberate practice, traditional and AI-supported katas, using AI as a learning instrument for explanation, summarization, and questioning) to preserve core engineering skills.
+
+[[LG-7-4]]
+==== LG 7-4: Be able to influence architectural decisions made by or with agents
+- The course participants understand that agent decisions are shaped by available context and by biases in training data (e.g. weighting toward particular vendors, frameworks, or stacks), and can identify situations in which such biases distort architectural choices.
+- The course participants can decide explicitly which architectural decisions to delegate to an agent, which to make with AI support, and which to retain as human decisions, and can justify each choice.
+- The course participants can use shared terminology and a consistent domain vocabulary (e.g. a domain glossary, ubiquitous language) as anchors that make agent decisions more predictable and aligned with the system's design.
+
+[[LG-7-5]]
+==== LG 7-5: Be able to apply classical architectural principles and mechanically/deterministic verifiable rules in the AI era
+- The course participants can apply established architectural principles (e.g. single responsibility, bounded contexts, DRY) in AI-supported development and can distinguish essential from incidental duplication when guiding or reviewing agent output.
+- The course participants can use mechanically verifiable rules (e.g. architecture tests, static analysis, linters, fitness functions) as a harness that constrains agent output and surfaces violations early.
+- The course participants can use established architectural patterns (e.g. layered architecture, design patterns) as known-good targets that agents can be directed toward.
+- The course participants can apply set-based design to keep multiple architectural options open during AI-supported exploration, and can explain why this complements the speed of AI generation.
+- The course participants are familiar with the ‘last reasonable time’ principle and understand how AI pushes this deadline back.
+
+[[LG-7-6]]
+==== LG 7-6: Be able to evolve roles, teams, and architectural scope for AI-supported organizations
+- The course participants can design new collaboration patterns that combine humans and AI (e.g. Human + Human + AI pairing) and can identify safeguards that ensure people continue to talk to each other rather than only to the agent.
+- The course participants can match collaboration patterns to team context and assess who in the team can perform which AI-supported activities (e.g. whether product roles can trigger agent workflows, whether developers can draft features).
+- The course participants understand that roles will tend toward more generalist, product-centric profiles and can anticipate the implications for hiring, skill development, and team composition (specialist versus generalist balance, team size).
+- The course participants understand that established agile practices will evolve under AI-supported development (e.g. larger pull requests, faster feedback loops, changed cadence) and can adapt processes accordingly.
+- The course participants can use AI in requirements engineering and collaborative modeling, including assigning AI roles that examine a problem from defined perspectives.
+- The course participants can shift their own focus from line-level coding toward broader architectural thinking and can build product-centric teams in which architecture is a shared skill.
+- The course participants can deliberately invest in the capability of their coding agents (configuration, context, tooling) as part of the team's overall capability.
+- The course participants can reason about the evolving role of the architect across architecture levels (software, solution, enterprise) and can identify where AI support has the greatest leverage at each level.
+
+// end::EN[]
+
+[NOTE]
+====
+Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
+====
