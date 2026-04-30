@@ -25,10 +25,10 @@
 
 [[LZ-6-4]]
 ==== LZ 6-4 Umweltkosten von KI-gestützter Softwareentwicklung verstehen und nachhaltige Nutzungsstrategien ableiten
-- Die Kursteilnehmenden können die zentralen Umweltauswirkungen von KI-gestützter Entwicklung entlang des Lebenszyklus erklären und voneinander abgrenzenund typische Fehlannahmen dazu einordnen.
-- Die Kursteilnehmenden können die wichtigsten Treiber für Energie- und Emissionswirkung bei AI-assisted Development identifizieren und bewerten (z. B. Modellgröße, Token-/Kontextlänge, Häufigkeit von Anfragen, mehrstufige/agentische Workflows, Tool-Calls) und dafür innerhalb der Organisation ein Bewusstsein schaffen.
-- Die Kursteilnehmenden können wirksame Reduktionsmaßnahmen für den Einsatz von Code- und Chat-Assistenten begründet priorisieren (z. B. Routing auf kleinere/effizientere Modelle, Caching/Wiederverwendung, Prompt- und Kontext-Hygiene, Begrenzung agentischer Schleifen, carbon-aware Nutzung/Timing, Auswahl effizienter Infrastruktur) und die Trade-offs zu Qualität, Kosten, Latenz und Datenschutz nachvollziehbar darstellen.
-- Die Kursteilnehmenden können Nachhaltigkeitsanforderungen in Governance und Beschaffung übersetzen und daraus umsetzbare Guidelines für Teams ableiten. 
+- Die Kursteilnehmenden können die zentralen Umweltauswirkungen von KI-gestützter Entwicklung entlang des Lebenszyklus erklären und voneinander abgrenzen und typische Fehlannahmen dazu einordnen.
+- Die Kursteilnehmenden können die wichtigsten Treiber für Energie- und Emissionswirkung bei AI-assisted Development identifizieren und bewerten (z. B. Modellgröße, mehrstufige/agentische Workflows) und dafür innerhalb der Organisation ein Bewusstsein schaffen.
+- Die Kursteilnehmenden können wirksame Reduktionsmaßnahmen für den Einsatz von Code- und Chat-Assistenten begründet priorisieren (z. B. Routing auf spezialisierte Modelle, - Caching/Wiederverwendung, Prompt- und Kontext-Hygiene) und die Trade-offs zu Qualität, Kosten und Latenz nachvollziehbar darstellen.
+- Die Kursteilnehmenden können Nachhaltigkeitsanforderungen in Governance und Beschaffung übersetzen und daraus umsetzbare Guidelines für Teams ableiten.
 
 
 [[LZ-6-5]]
@@ -39,10 +39,10 @@
 
 [[LZ-6-6]]
 ==== LZ 6-6 Sicherheit von Agenten- und Tool-Integrationen gewährleisten (Prompt Injection, Tool-Misuse, Sandboxing)
+- Die Kursteilnehmenden kennen die OWASP LLM Top 10 und wissen welche Gefahren beim Agentic Engineering relevant sind (u. a. Prompt Injection und Tool-Missuse).
 - Die Kursteilnehmenden können Prompt-Injection-Angriffe (direkt und indirekt) in agentischen Systemen erkennen, das damit verbundene „confused deputy“-Risiko erklären und daraus Anforderungen an robuste Prompt-/Kontext-Grenzen ableiten (z.B. klare Trennung von Daten und Instruktionen, kein Vertrauen in extern bezogenen Content). 
-- Die Kursteilnehmenden können geeignete Maßnahmen zur Reduktion von Prompt-Injection-Risiken auswählen und begründen (z.B. Policy-Enforcement außerhalb des Modells, Validierung von Tool-Aufrufen und Ergebnissen, Protokollierung/Monitoring von Ein- und Ausgaben sowie Tool-Nutzung) und die Grenzen solcher Maßnahmen realistisch einschätzen.
-- Die Kursteilnehmenden können Tool-Misuse-Risiken durch übermäßige Fähigkeiten, Rechte oder Autonomie (Excessive Agency) analysieren und ein Berechtigungs- und Kontrollkonzept entwerfen (Least Privilege, gescopte Credentials, explizite Freigaben/Human-in-the-Loop für Aktionen mit hohem Schadenpotenzial). 
-- Die Kursteilnehmenden können geeignete Sandboxing-Strategien für Tool-Ausführung wählen und umsetzen, inklusive Container-Hardening (z.B. seccomp/AppArmor, Capability-Dropping) sowie stärkerer Isolation über (Micro-)VMs bzw. Kata-ähnliche Ansätze; sie können die Trade-offs zwischen Isolation, Performance und Betriebsaufwand erläutern. 
+- Die Kursteilnehmenden kennen geeignete Maßnahmen um Gefahren zu reduzieren (z. B. Least Privilege, gescopte Credentials, explizite Freigaben/Human-in-the-Loop, Monitoring)
+- Die Kursteilnehmenden können geeignete Sandboxing-Strategien für Tool-Ausführung wählen und umsetzen und kennen Vor- und Nachteile von Container vs. VM-Basiereten Lösungen.
 
 
 // end::DE[]
@@ -75,8 +75,8 @@
 [[LG-6-4]]
 ==== LG 6-4 Understand the environmental costs of AI-supported software development and derive sustainable usage strategies
 - Course participants can explain and distinguish the key environmental impacts of AI-supported development across the lifecycle and classify typical misconceptions about them.
-- Course participants can identify and assess the most important drivers of energy and emissions impact in AI-assisted development (e.g., model size, token/context length, frequency of requests, multi-stage/agentic workflows, tool calls) and create awareness of them within the organization.
-- Course participants can justify and prioritize effective reduction measures for the use of code and chat assistants (e.g., routing to smaller/more efficient models, caching/reuse, prompt and context hygiene, limiting agentic loops, carbon-aware usage/timing, selection of efficient infrastructure) and clearly present the trade-offs related to quality, cost, latency, and data protection.
+- Course participants can identify and assess the most important drivers of energy and emissions impact in AI-assisted development (e.g., model size, multi-stage/agentic workflows) and create awareness of them within the organization.
+- Course participants can justify and prioritize effective reduction measures for the use of code and chat assistants (e.g., routing to specialized models, caching/reuse, prompt and context hygiene) and clearly present trade-offs like quality, cost and latency.
 - Course participants can translate sustainability requirements into governance and procurement and derive actionable guidelines for teams from them.
 
 [[LG-6-5]]
@@ -87,9 +87,9 @@
 
 [[LG-6-6]]
 ==== LG 6-6 Ensure the security of agent and tool integrations (prompt injection, tool misuse, sandboxing)
-- Course participants can recognize prompt-injection attacks (direct and indirect) in agentic systems, explain the associated “confused deputy” risk, and derive requirements for robust prompt/context boundaries (e.g., clear separation of data and instructions, no trust in externally sourced content).
-- Course participants can select and justify suitable measures to reduce prompt-injection risks (e.g., policy enforcement outside the model, validation of tool calls and results, logging/monitoring of inputs and outputs as well as tool usage) and realistically assess the limits of such measures.
-- Course participants can analyze tool-misuse risks due to excessive capabilities, rights, or autonomy (Excessive Agency) and design an authorization and control concept (Least Privilege, scoped credentials, explicit approvals/Human-in-the-Loop for actions with high damage potential).
-- Course participants can choose and implement suitable sandboxing strategies for tool execution, including container hardening (e.g., seccomp/AppArmor, capability dropping) as well as stronger isolation via (micro-)VMs or Kata-like approaches; they can explain the trade-offs between isolation, performance, and operational effort.
+- The course participants are familiar with the OWASP LLM Top 10 and know which risks are relevant to agentic engineering (among others, prompt injection and tool misuse).
+- The course participants can recognize prompt-injection attacks (direct and indirect) in agentic systems, explain the associated "confused deputy" risk, and derive requirements for robust prompt/context boundaries (e.g. clear separation of data and instructions, no trust in externally sourced content).
+- The course participants are familiar with suitable measures to reduce these risks (e.g. least privilege, scoped credentials, explicit approvals / human-in-the-loop, monitoring).
+- The course participants can select and implement suitable sandboxing strategies for tool execution and know the advantages and disadvantages of container-based versus VM-based solutions.
 
 // end::EN[]
