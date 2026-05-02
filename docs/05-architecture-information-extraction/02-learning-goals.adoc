@@ -103,8 +103,3 @@ They know how to:
 * Maintain ADRs in alignment with evolving systems and decisions by flagging ADRs when their foundations change, proposing updates or monitoring certain technologies or development artifacts.
 
 // end::EN[]
-
-[NOTE]
-====
-Die einzelnen Lernziele müssen nicht als einfache Aufzählungen mit Unterpunkten aufgeführt werden, sondern können auch gerne in ganzen Sätzen formuliert werden, welche die einzelnen Punkte (sofern möglich) integrieren.
-====

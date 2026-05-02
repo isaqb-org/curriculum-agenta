@@ -21,20 +21,31 @@ Teilnehmerinnen und Teilnehmer **sollten** folgende Kenntnisse und/oder Erfahrun
 
 Participants **should** have the following prerequisite knowledge:
 
-- Prerequisite 1
-- Prerequisite 2, etc.
+- Practical experience in software development or software architecture
+- Basic understanding of software architecture concepts and typical architecture artifacts
+- Basic experience with modern software development processes and collaboration in development teams
+- Basic understanding of source code repositories, build pipelines, and common development tooling
 
 Knowledge in the following areas may be **helpful** for understanding some concepts:
 
-- Area 1:
-  * Knowledge 1
-  * Experience 2
-  * Knowledge 3
-  * Experience 4
-  * Understanding 5
-// end::EN[]
+- Software Architecture:
+* Experience with architectural decisions and trade-off analysis
+* Knowledge of quality requirements and constraints
+* Experience with architecture documentation, views, and Architecture Decision Records (ADRs)
+* Understanding of architecture reviews and modernization of existing systems
 
-[NOTE]
-====
-Kenntnisgruppen sowie Voraussetzungen bitte entsprechend ausformulieren!
-====
+- Software Development and Delivery:
+* Experience with continuous integration and delivery
+* Knowledge of static analysis, testing, and code review practices
+* Understanding of system decomposition, interfaces, and integration styles
+
+- AI-supported Engineering:
+* Basic understanding of generative AI and Large Language Models
+* First practical experience with AI assistants or coding agents
+* Awareness of typical limitations of AI systems, such as hallucinations and non-deterministic behavior
+
+- Requirements and Domain Understanding:
+* Experience with translating business or quality goals into technical decisions
+* Understanding of domain concepts, business rules, and stakeholder communication
+
+// end::EN[]
