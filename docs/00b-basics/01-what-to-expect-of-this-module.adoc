@@ -8,6 +8,7 @@ Am Ende des Moduls kennen die Teilnehmerinnen und Teilnehmer … und können …
 // tag::EN[]
 === What does the module “{curriculum-short}” convey?
 
-The module presents {curriculum-short} to the participants …
-At the end of the module, the participants know … and are able to …
+The module presents {curriculum-short} to the participants as an advanced approach to software architecture in contexts where generative AI, LLMs, and agents are used as working tools in software development. It focuses on how software engineers and architects can use AI to support architectural work, how architectural knowledge and constraints can be made available to agents, and how architectural control, governance, and accountability can be maintained in AI-supported engineering environments. The module also addresses the extraction of architectural information from existing systems and the changing role of the architect in organizations that increasingly rely on AI-supported development.
+
+At the end of the module, the participants know the fundamental concepts, opportunities, and limitations of AI-supported and agentic engineering in the context of software architecture. They are able to use AI to support architectural decision-making, provide architectural knowledge to agents, establish mechanisms that keep AI-generated work aligned with architectural goals, and derive architectural insights and documentation from existing development artifacts. They also know how to introduce governance, traceability, and quality controls for AI usage and are able to adapt architectural work, collaboration, and responsibilities to organizations in which AI becomes part of everyday engineering practice.
 // end::EN[]
