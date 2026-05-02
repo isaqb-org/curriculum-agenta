@@ -1,6 +1,6 @@
 // tag::DE[]
 |===
-| Dauer: 225 Min. | Übungszeit: 75 Min.
+| Dauer: 90 Min. | Übungszeit: 30 Min.
 |===
 
 === Begriffe und Konzepte
@@ -10,20 +10,10 @@ Begriff 1, Begriff 2, Begriff 3
 
 // tag::EN[]
 |===
-| Duration: 60 min | Practice time: 30 min
+| Duration: 90 min | Practice time: 30 min
 |===
 
 === Terms and Principles
 TBD
 
 // end::EN[]
-
-[NOTE]
-====
-Überschrift in 00-structure.adoc ersetzen
-====
-
-[NOTE]
-====
-Sinnvolle Zeiten für Dauer und Übungszeit eintragen, vernünftige Begriffe aufzählen.
-====

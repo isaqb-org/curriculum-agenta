@@ -1,35 +1,19 @@
 // tag::DE[]
 |===
-| Dauer: 150 Min. | Übungszeit: 60 Min.
+| Dauer: 210 Min. | Übungszeit: 60 Min.
 |===
 
 === Begriffe und Konzepte
-- Harness Engineering
-- Architekturelle Constraints für KI-Agenten
-- Automatisierte Architektur-Compliance
-- Kontrollsysteme für Agenten
+Harness Engineering, Architekturelle Constraints für KI-Agenten, Automatisierte Architektur-Compliance, Kontrollsysteme für Agenten
 
 
 // end::DE[]
 
 // tag::EN[]
 |===
-| Duration: 150 min | Practice time: 60 min
+| Duration: 210 min | Practice time: 60 min
 |===
 
 === Terms and Principles
-- Harness engineering
-- Architectural constraints for AI agents
-- Automated architecture compliance
-- Agent control systems
+Harness engineering, Architectural constraints for AI agents, Automated architecture compliance, Agent control systems
 // end::EN[]
-
-[NOTE]
-====
-Überschrift in 00-structure.adoc ersetzen
-====
-
-[NOTE]
-====
-Sinnvolle Zeiten für Dauer und Übungszeit eintragen, vernünftige Begriffe aufzählen.
-====

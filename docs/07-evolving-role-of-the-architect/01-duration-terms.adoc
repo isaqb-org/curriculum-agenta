@@ -15,25 +15,6 @@ Begriff 1, Begriff 2, Begriff 3
 |===
 
 === Terms and Principles
-- Hypothesis-driven AI adoption
-- Orchestration of AI-supported development
-- Skill preservation and deliberate practice
-- Accountability in AI-supported engineering
-- Blast-radius and risk-based reasoning
-- Shared terminology and domain glossary
-- Deterministically verifiable architectural rules (architecture tests, linters, fitness functions)
-- Set-based design
-- Sociotechnical collaboration patterns (Human + Human + AI)
-- Architecture levels (software, solution, enterprise)
+Hypothesis-driven AI adoption, Orchestration of AI-supported development, Skill preservation and deliberate practice, Accountability in AI-supported engineering, Blast-radius and risk-based reasoning, Shared terminology and domain glossary, Deterministically verifiable architectural rules (architecture tests, linters, fitness functions), Set-based design, Sociotechnical collaboration patterns (Human + Human + AI), Architecture levels (software, solution, enterprise)
 
 // end::EN[]
-
-[NOTE]
-====
-Überschrift in 00-structure.adoc ersetzen
-====
-
-[NOTE]
-====
-Sinnvolle Zeiten für Dauer und Übungszeit eintragen, vernünftige Begriffe aufzählen.
-====

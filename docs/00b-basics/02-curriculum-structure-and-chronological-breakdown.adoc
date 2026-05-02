@@ -25,24 +25,15 @@
 | Content
 | Recommended minimum duration (minutes)
 | 1. Introduction and Fundamentals | 60
-| 2. AI-Assisted Architectural Decision-Making | 210
+| 2. AI-Assisted Architectural Decision-Making | 150
 | 3. Providing Architectural Knowledge to Agents | 210
 | 4. Keeping Agents Aligned with Architectural Goals | 210
-| 5. Architecture Information Extraction | 300
-| 6. Final example | 90
-| 7. Final example | 165
+| 5. Architecture Information Extraction | 225
+| 6. Governance and Quality Gates for AI Usage | 90
+| 7. The Evolving Role of the Architect | 120
 | |
-| Total | 1.245 (20.75h)
+| Total | 1.065 (17.75h)
 
 |===
 
 // end::EN[]
-
-[NOTE]
-====
-Bitte die oben angegebene Tabelle entsprechend anpassen.
-
-= = =
-
-Please adjust the table above according to your curriculum.
-====

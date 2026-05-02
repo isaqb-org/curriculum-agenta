@@ -18,13 +18,3 @@ Begriff 1, Begriff 2, Begriff 3
 Architectural decision lifecycle, evidence-based architecture, architectural drivers, quality scenarios, fracture plains, set-based design, trade-off analysis, hypothesis-driven development, lightweight experiments, LLM model limitations, LLM model switching, human-in-the-loop
 
 // end::EN[]
-
-[NOTE]
-====
-Überschrift in 00-structure.adoc ersetzen
-====
-
-[NOTE]
-====
-Sinnvolle Zeiten für Dauer und Übungszeit eintragen, vernünftige Begriffe aufzählen.
-====

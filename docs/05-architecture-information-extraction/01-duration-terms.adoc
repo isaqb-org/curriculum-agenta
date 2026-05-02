@@ -17,13 +17,3 @@ Begriff 1, Begriff 2, Begriff 3
 Architecture discovery, architecture recovery, technology detection, pattern recognition, business rule extraction, architecture views, documentation templates, living documentation, Architecture Decision Records (ADRs), knowledge graphs
 
 // end::EN[]
-
-[NOTE]
-====
-Überschrift in 00-structure.adoc ersetzen
-====
-
-[NOTE]
-====
-Sinnvolle Zeiten für Dauer und Übungszeit eintragen, vernünftige Begriffe aufzählen.
-====
