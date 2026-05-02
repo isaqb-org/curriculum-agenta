@@ -55,7 +55,4 @@ include::06-governance-and-quality/00-structure.adoc[{include_configuration}]
 include::07-evolving-role-of-the-architect/00-structure.adoc[{include_configuration}]
 
 <<<
-include::20-examples/00-examples.adoc[{include_configuration}]
-
-<<<
 include::99-references/00-references.adoc[{include_configuration}]
