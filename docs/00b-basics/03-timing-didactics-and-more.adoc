@@ -1,14 +1,8 @@
 
-[NOTE]
-====
-Bitte in dieser Datei nur die "**?**"-Platzhalter durch die Anzahl der Tage sowie die erreichbaren Punkte ersetzen. Ansonsten keine Änderungen vornehmen!
-====
-
-
-:recommended-duration-in-days: **?**
-:methodical-credits: **?**
-:technical-credits: **?**
-:communicative-credits: **?**
+:recommended-duration-in-days: 3
+:methodical-credits: 10
+:technical-credits: 20
+:communicative-credits: 0
 
 // tag::DE[]
 === Dauer, Didaktik und weitere Details
