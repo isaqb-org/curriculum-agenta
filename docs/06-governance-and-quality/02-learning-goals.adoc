@@ -81,13 +81,13 @@
 
 [[LG-6-5]]
 ==== LG 6-5 Handle sensitive information securely, confidentially, and in compliance with data protection when using AI tools
-- Course participants can identify types of sensitive information (e.g., access credentials/API keys) and decide what does not belong in prompts, sample code, tickets, or chat histories; instead, they can apply suitable alternatives (e.g., anonymization/synthesis).
-- Course participants can implement concrete measures to prevent secrets from leaking (e.g., no credentials in the repo, provide secrets via secret management/environment variables).
-- Course participants can assess data flows and retention when using different LLM providers (e.g., differences between training usage/opt-in, logging/retention, options such as “Zero Data Retention”) and derive team-appropriate rules for tool selection and configuration from this.
+- Course participants can identify and classify sensitive information and decide what must not be shared with AI tools.
+- Course participants can assess data flows and data retention of AI tool usage and identify key risks.
+- Course participants can define team-appropriate rules for selecting and using AI tools in a secure and data-protection-compliant way.
 
 [[LG-6-6]]
 ==== LG 6-6 Ensure the security of agent and tool integrations (prompt injection, tool misuse, sandboxing)
-- The course participants are familiar with the OWASP LLM Top 10 and know which risks are relevant to agentic engineering (among others, prompt injection and tool misuse).
+- The course participants are familiar with the OWASP LLM Top 10 and know which risks are relevant to agentic engineering (among others, prompt injection and tool misuse). They have also heard of the MITRE ATLAS knowledge base.
 - The course participants can recognize prompt-injection attacks (direct and indirect) in agentic systems, explain the associated "confused deputy" risk, and derive requirements for robust prompt/context boundaries (e.g. clear separation of data and instructions, no trust in externally sourced content).
 - The course participants are familiar with suitable measures to reduce these risks (e.g. least privilege, scoped credentials, explicit approvals / human-in-the-loop, monitoring).
 - The course participants can select and implement suitable sandboxing strategies for tool execution and know the advantages and disadvantages of container-based versus VM-based solutions.
