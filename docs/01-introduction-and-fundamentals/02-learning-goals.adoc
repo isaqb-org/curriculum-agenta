@@ -41,9 +41,11 @@ Teilnehmer können die folgenden wichtigen Disziplinen im Zusammenhang mit Agent
 * Teilnehmer kennen die Stärke und breite Anwendbarkeit des agentenbasierten Ansatzes in der Softwareentwicklung und Architekturarbeit.
 
 [[LZ-1-5]]
-==== LZ 1-5: Kennen die unterschiedlichen praktischen Vorgehensweisen beim Agentic Engineering
+==== LZ 1-5: Kennen die unterschiedlichen praktischen Vorgehensweisen (Schulen) beim Agentic Engineering
 
-* Teilnehmer kennen das Spektrum der KI-Autonomie beim Coding und können Tools und Workflows darin einsortieren.
+* Teilnehmer kennen Autonomie als*Spektrum mehrerer Stufen und können Tools/Workflows passend einordnen. Sie verstehen, wie sich die Stufen über typische Aktivitäten (von Idee bis Feedback) unterscheiden und welche*menschliche Schlüsselkompetenz pro Stufe besonders wichtig ist.
+* Teilnehmer verstehen, dass die Form der Zusammenarbeit von Agenten (Topologie) eine eigene, unabhängige Dimension ist. Sie können passende Topologien auswählen und kombinieren und erklären, wie sich Kommunikations- und Verantwortungsmodelle auf Durchsatz, Qualität, Risiko und Governance auswirken.
+* Teilnehmer kennen gängige Patterns, können sie voneinander abgrenzen und passend zu Autonomie-Stufe und Topologie einsetzen. Sie verstehen die typischen Bausteine (Rollen, Artefakte, Kontroll- und Feedbackpunkte), das Nutzen-Risiko-Profil und die dafür nötigen menschlichen Kompetenzen (z. B. Orchestrierung, Guardrails, Spec-/Prompt-Design, Ziel- und Akzeptanzkriterien).
 
 [[LZ-1-6]]
 ==== LZ 1-6: Kennen die klassischen Themengebiete von Softwarearchitektur
@@ -95,8 +97,9 @@ Participants can distinguish the following important disciplines in the context 
 [[LG-1-5]]
 ==== LG 1-5: Know the different practical approaches (schools) to agentic engineering
 
-Participants understand the spectrum of AI autonomy in coding and can categorize tools and workflows within it. 
-E.g. they can describe the difference between conversational programming and "naive" coding agent usage, spec-driven development, agentic workflows and agent swarms. 
+* Participants understand autonomy as a spectrum with multiple levels and can place tools/workflows appropriately. They understand how the levels differ across typical activities (from idea to feedback) and which human key competency is especially important at each level.
+* Participants understand that the way agents collaborate (topology) is its own, independent dimension. They can select and combine suitable topologies and explain how communication and responsibility models affect throughput, quality, risk, and governance.
+* Participants are familiar with common patterns, can distinguish them from one another, and apply them appropriately depending on autonomy level and topology. They understand the typical building blocks (roles, artifacts, control and feedback points), the benefit–risk profile, and the human competencies required for them (e.g., orchestration, guardrails, spec-/prompt design, goals and acceptance criteria).
 
 [[LG-1-6]]
 ==== LG 1-6: Know the classic subject areas of software architecture
