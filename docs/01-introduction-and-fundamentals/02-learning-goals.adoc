@@ -59,16 +59,16 @@ Teilnehmer können die folgenden wichtigen Disziplinen im Zusammenhang mit Agent
 
 Participants can distinguish the following important disciplines in the context of agentic engineering and know which tasks they are used for:
 
-* AI-assisted, augmented, agentic, and vibe coding
+* AI-assisted, augmented, agentic coding
 * AI orchestration
 * Agentic workflow design
-* Agentic engineering
+* Agentic engineering vs vibe coding
 * Harness, context, prompt, and human-in-the-loop engineering
 
 [[LG-1-2]]
-==== LG 1-2: Knowing what the terms Artificial Intelligence, GenAI, and LLMs refer to and understanding their fundamental concepts
+==== LG 1-2: Being familiar with the fundamentals of large language models (LLMs) and their core concepts and terminology
 
-* Participants can explain the terms AI, GenAI, and LLMs and classify how they relate to each other.
+* Participants can explain the terms AI, ML, GenAI, and LLMs and classify how they relate to each other.
 * Participants know the terms data, model, training, and inference.
 * Participants know that data is the central foundation of AI (garbage in, garbage out).
 * Participants understand LLMs as non-deterministic tools and can explain the implications for architecture work.
@@ -80,8 +80,8 @@ Participants can distinguish the following important disciplines in the context 
 [[LG-1-3]]
 ==== LG 1-3: Understand the impact of prompt and context engineering on the quality of LLM outputs
 
+* Participants understand the concept of “context engineering” and know why it matters.
 * Participants know a selection of prompt-engineering techniques to optimize the quality of outputs, e.g., role playing, consistency, or repeating.
-* Participants have an idea of where context can be inserted into the LLM conversation (system vs. user message).
 
 [[LG-1-4]]
 ==== LG 1-4: Know the principle of agents and the reasons for its great importance nowadays
@@ -99,11 +99,9 @@ Participants understand the spectrum of AI autonomy in coding and can categorize
 E.g. they can describe the difference between conversational programming and "naive" coding agent usage, spec-driven development, agentic workflows and agent swarms. 
 
 [[LG-1-6]]
-==== LG 1-6: Know the classic subject areas of software architecture
+==== LG 1-6: Relate AI-supported and agentic engineering to classical software architecture work
 
-Participants know which activities are typically referred to as "architecture work" and understand that AI has an effect on these activities. 
-
-* Participants know modern definitions for software architecture and can identify typical activities and artifacts, including but not limited to: quality goal definition, architecture vision, definition of architectural options, tradeoff analysis, technical and conceptual decisions, definition of design and architecture principles, communication, ...
-* Participants have an idea of how AI-tools and agents can support these activities and what the limitations are
+* Participants know which activities are typically referred to as "architecture work" and understand that AI has an effect on these activities. 
+* Participants can explain how AI assistants and agents affect core architecture activities - for example quality goal clarification, architectural option generation, trade-off analysis, decision documentation, architecture reviews, architecture governance, and stakeholder communication. They can identify which activities can be supported, accelerated, or partially automated by AI, and where human architectural judgment remains necessary.
 
 // end::EN[]
