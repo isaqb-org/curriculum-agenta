@@ -1,6 +1,6 @@
 // tag::DE[]
 |===
-| Dauer: 60 Min. | Übungszeit: 0 Min.
+| Dauer: 90 Min. | Übungszeit: 0 Min.
 |===
 
 === Begriffe und Konzepte
@@ -13,7 +13,7 @@ Die Grundlagen schaffen bzw. wiederholen, die notwendig sind, um alle nachfolgen
 
 // tag::EN[]
 |===
-| Duration: 60 min | Practice time: 0 min
+| Duration: 90 min | Practice time: 0 min
 |===
 
 === Terms and Principles
