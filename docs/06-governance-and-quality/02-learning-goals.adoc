@@ -53,8 +53,8 @@
 
 [[LG-6-1]]
 ==== LG 6-1: Understand, classify, and properly address the legal framework conditions when using AI tools in the organization
-- Course participants can define requirements for operation, monitoring, and continuous follow-up for AI-supported systems and explain why governance is necessary across the entire lifecycle.
-- Course participants can explain copyright issues such as copyleft licenses and assess which obligations (e.g., license notices, provision of source code when distributing derivative works) may arise when using, adapting, and especially distributing software/artifacts in an AI context.
+- Course participants can describe how AI-supported systems should be responsibly operated, monitored, reviewed, and documented over time, and explain why clear governance is necessary from introduction to decommissioning.
+- Course participants can explain copyright issues such as copyleft licenses and assess which obligations may arise when using, adapting, and especially distributing software/artifacts in an AI context.
 - Course participants can, when using AI tools, check from a data protection perspective whether and which personal data are processed, classify roles and responsibilities (controller/processor), and derive when contractual requirements must be clarified.
 - Course participants can apply the EU AI Act in its basic features (roles, risk logic, phased applicability) to typical AI tool scenarios and explain the timeline for application with key dates.
 - Course participants can decide for concrete initiatives when they must involve which internal and external stakeholders (e.g., data protection officer, information security) and can document the results in a way that is audit-ready and decision-ready.
@@ -76,7 +76,7 @@
 ==== LG 6-4 Understand the environmental costs of AI-supported software development and derive sustainable usage strategies
 - Course participants can explain and distinguish the key environmental impacts of AI-supported development across the lifecycle and classify typical misconceptions about them.
 - Course participants can identify and assess the most important drivers of energy and emissions impact in AI-assisted development (e.g., model size, multi-stage/agentic workflows) and create awareness of them within the organization.
-- Course participants can justify and prioritize effective reduction measures for the use of code and chat assistants (e.g., routing to specialized models, caching/reuse, prompt and context hygiene) and clearly present trade-offs like quality, cost and latency.
+- Course participants can justify and prioritize effective reduction measures for the use of code and chat assistants (e.g., routing to specialized models, re-using scripts, caching/reuse, prompt and context hygiene) and clearly present trade-offs like quality, cost and latency.
 - Course participants can translate sustainability requirements into governance and procurement and derive actionable guidelines for teams from them.
 
 [[LG-6-5]]
