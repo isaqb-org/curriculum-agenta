@@ -6,7 +6,7 @@
 === Begriffe und Konzepte
 Definition grundlegender Konzepte, Künstliche Intelligenz, Large Language Models, Prompt Engineering, Agenten
 
-=== Ziel des Kpaitels
+=== Ziel des Kapitels
 Die Grundlagen schaffen bzw. wiederholen, die notwendig sind, um alle nachfolgenden Themen in diesem Lehrplan zu verstehen. Teilnehmende ohne vorherige KI-Erfahrung abholen, damit die folgenden Kapitel verstanden werden können.
 
 // end::DE[]
