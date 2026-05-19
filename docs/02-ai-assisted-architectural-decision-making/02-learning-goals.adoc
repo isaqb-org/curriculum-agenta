@@ -24,45 +24,44 @@ In detail, participants:
 * can explain how these effects make it possible to establish a continuous, evidence based architecture process, and why this is a good thing.
 
 [[LG-2-2]]
-==== LG 2-2: Identify architectural drivers and structural pain points (bottom-up)
+==== LG 2-2: Refine quality goals into architectural drivers (top-down)
 
-Participants are able to identify architectural drivers and structural pain points by using a mixture of established tools and AI-assisted techniques. They understand how findings from analysis and reviews can be used to focus architectural work and inform architectural decision-making.
+Participants are able to decompose quality goals into concrete architectural drivers and use them to reason about the output of agentic development. They understand why it is important to handle these drivers and the resulting architectural decisions seperately and distinctively.
 In detail, participants: 
 
-* can explain bottom-up needs for architectural work, especially in agentic engineering contexts: structural weaknesses, unintended drift, or emerging complexity in evolving systems
-* know established tools: technical debt assessment, static structural analysis, monitoring-based feedback and dynamic analysis, metrics and test coverage analysis, architecture reviews
-* can use AI-assisted techniques to support bottom-up driver identification: like AI-driven architecture reviews and structural assessments, consistency checks and quality assessments
+* can decompose quality goals into concrete, assessable criteria, like quality scenarios
+* can identifying conflicts or contradictions between quality goals, constraints, and architectural intentions
+* know how to use these drivers to support goal-oriented design and development of software solutions (see chapter 3)
+* understand why it is important to have different concepts in the agentic workflow to handle architectural drivers & goals on one side and architectural decisions & concepts on the other side. 
 
 [[LG-2-3]]
-==== LG 2-3: Refine quality goals into architectural evaluation criteria (top-down)
+==== LG 2-3: Identify architectural / structural pain points (bottom-up)
 
-Participants are able to decompose quality goals into concrete evaluation criteria and use them to reason about the output of agentic development.
+Participants are able to identify architectural drivers and structural pain points by using a mixture of established tools and AI-assisted techniques. 
 
-* Decomposing quality goals into concrete, assessable criteria
-* Identifying conflicts or contradictions between quality goals, constraints, and architectural intentions
-* Using quality criteria to assess evolving solutions against intended architectural qualities (see chapter 4)
+* can explain bottom-up needs for architectural work, especially in agentic engineering contexts: structural weaknesses, unintended drift, or emerging complexity in evolving systems
+* know established tools to identify architectural drivers: technical debt assessment, static structural analysis, monitoring-based feedback and dynamic analysis, metrics and test coverage analysis, architecture reviews
+* can use AI-assisted techniques to support bottom-up driver identification: AI-driven architecture reviews and structural assessments, consistency checks and quality assessments
 
 [[LG-2-4]]
 ==== LG 2-4: Use AI for design exploration and architectural variant generation
 
-Participants are able to use AI to support the exploration of architectural options and the generation of architectural variants. They understand how candidate options can be examined in relation to architectural drivers, constraints, existing decisions, and architectural principles.
+Participants are able to use AI to support the exploration of architectural options. They understand why architectural drivers, constraints, existing decisions and architectural principles are important and for the generation of architectural variants.
 
-* Generating and refining architectural variants for a given problem situation
-* Conducting AI-assisted trade-off analysis across architectural alternatives
-* Identifying decision forces and evaluating candidate options against existing decisions, constraints, and architectural principles
-* Understanding tool-independent decomposition and evaluation techniques as a basis for critically assessing AI-generated suggestions
-* Especially for structural design questions: Identifying fracture planes by augmenting static analysis with AI-generated structural insights
+* Generating and refining architectural options for a given problem situation
+* Evaluating candidate options against drivers, existing decisions, constraints, and architectural principles
+* Understanding the limits of AI-generated suggestions and the omnipresent nature of trade-offs in architectural decisions
 
 [[LG-2-5]]
-==== LG 2-5: Being able to treat architectural decisions as testable hypotheses
+==== LG 2-5: Treat architectural decisions as testable hypotheses
 
-Participants understand that architectural decisions can be framed as explicit hypotheses. They are able to design lightweight experiments to obtain early feedback and reduce uncertainty in architectural decision-making.
+Participants can formulate architectural decisions as hypotheses with explicit assumptions, expected quality effects, risks, and validation criteria. They can design lightweight experiments and use the results to support, revise, or reject architectural options.
 
 * Framing architectural decisions as hypotheses with assumptions, expected outcomes, and measurable criteria for validation or invalidation.
 * Replacing potentially existing meeting-based approaches for architectural design with experimental loops
-* Designing lightweight experiments such as spikes, prototypes, and side-by-side variant comparisons
+* Designing lightweight experiments such as spikes, simulations, prototypes, and side-by-side variant comparisons
 * Identifying architectural risks and using targeted experiments to address them
-* Using experimental outcomes to support, weaken, revise, or revisit architectural decisions
+* Using experimental outcomes to support, weaken, revise, or revisit architectural decisions and understand that these agentic experiments can be cheaper than highly developed "specs"
 
 [[LG-2-6]]
 ==== LG 2-6: Understand the limitations of AI in architectural decision support
