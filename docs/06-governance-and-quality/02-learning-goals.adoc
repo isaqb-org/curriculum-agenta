@@ -76,7 +76,7 @@
 ==== LG 6-4 Understand the environmental costs of AI-supported software development and derive sustainable usage strategies
 - Course participants can explain and distinguish the key environmental impacts of AI-supported development across the lifecycle and classify typical misconceptions about them.
 - Course participants can identify and assess the most important drivers of energy and emissions impact in AI-assisted development (e.g., model size, multi-stage/agentic workflows) and create awareness of them within the organization.
-- Course participants can justify and prioritize effective reduction measures for the use of code and chat assistants (e.g., routing to specialized models, caching/reuse, prompt and context hygiene) and clearly present trade-offs like quality, cost and latency.
+- Course participants can justify and prioritize effective reduction measures for the use of code and chat assistants (e.g., routing to specialized models, re-using scripts, caching/reuse, prompt and context hygiene) and clearly present trade-offs like quality, cost and latency.
 - Course participants can translate sustainability requirements into governance and procurement and derive actionable guidelines for teams from them.
 
 [[LG-6-5]]
