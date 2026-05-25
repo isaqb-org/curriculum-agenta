@@ -21,7 +21,7 @@ tbd.
 // tag::EN[]
 
 [[LG-7-1]]
-==== LG 7-2: Be able to shift architectural work from implementation to orchestration
+==== LG 7-1: Be able to shift architectural work from implementation to orchestration
 - The course participants can distinguish whether they are directing agents through a fixed plan or composing the agent workflow itself, and can select the appropriate style for a given context.
 - The course participants can reason about the effects of orchestration on throughput (especially regarding less hand-offs causing less friction), traceability, and the development process as a whole.
 - The course participants know about orchestration variants and that meaningful checkpoints at which human judgment is required.
@@ -30,7 +30,7 @@ tbd.
 - The course participants understand that orchestration design has direct cost and sustainability implications (token consumption, agentic loop length, tool-call frequency) and can take these into account when shaping orchestration patterns. See also <<LG-7-4,LG 7-4>>.
 
 [[LG-7-2]]
-==== LG 7-3: Be able to take accountability for AI-supported architectural work and preserve engineering judgment
+==== LG 7-2: Be able to take accountability for AI-supported architectural work and preserve engineering judgment
 - The course participants understand that the framing of a task (context, scope, prompt) determines the outcome, and can explain why responsibility for AI-generated results rests with the engineer who framed the task, not with the agent.
 - The course participants can recognize that shortcomings in AI output typically reflect gaps in engineering practice (unclear scope, missing context, weak verification) rather than failures of the agent itself.
 - The course participants can use AI to challenge and verify hypotheses through experimentation, instead of treating it as an oracle that produces answers to be accepted.
@@ -39,7 +39,7 @@ tbd.
 - The course participants understand the risk of skill atrophy through overreliance on AI and can design personal and team practices (e.g. deliberate AI-free practice, human-first / AI-second reasoning practices, traditional and AI-supported katas, using AI as a learning instrument for explanation, summarization, and questioning) to preserve core engineering skills.
 
 [[LG-7-3]]
-==== LG 7-4: Be able to preserve architectural judgment when using coding agents
+==== LG 7-3: Be able to preserve architectural judgment when using coding agents
 - The course participants understand that agent decisions are shaped by available context and by biases in training data (e.g. weighting toward particular vendors, frameworks, or stacks), and can identify situations in which such biases distort architectural choices.
 - Participants can distinguish AI-supported reasoning from delegated decision-making.
 - Participants can identify which architecture activities must remain human-owned and knows that this might change in the future.
@@ -47,7 +47,7 @@ tbd.
 - Participants know about indicators for whether teams are improving architectural capability, not only producing faster outputs.
 
 [[LG-7-4]]
-==== LG 7-5: Know about classical architectural principles and mechanically/deterministic verifiable rules in the AI era
+==== LG 7-4: Know about classical architectural principles and mechanically/deterministic verifiable rules in the AI era
 - The course participants can apply established architectural principles (e.g. single responsibility, bounded contexts, DRY) in AI-supported development and can distinguish essential from incidental duplication when guiding or reviewing agent output.
 - The course participants know about mechanically verifiable rules (e.g. architecture tests, static analysis, linters, fitness functions) as a harness that constrains agent output and surfaces violations early.
 - The course participants know about established architectural patterns (e.g. layered architecture, design patterns) as known-good targets that agents can be directed toward.
@@ -55,7 +55,7 @@ tbd.
 - The course participants are familiar with the ‘last reasonable time’ principle and understand how AI pushes this deadline back.
 
 [[LG-7-5]]
-==== LG 7-1: Know what drives the adoption of AI-supported development practices in organizations
+==== LG 7-5: Know what drives the adoption of AI-supported development practices in organizations
 - The course participants can apply a hypothesis-driven approach to AI adoption (identifying a problem, formulating hypotheses, running experiments, measuring outcomes) and explain why this is preferable to broad, untargeted rollouts.
 - The course participants understand AI adoption as a continuous, multi-stage process (e.g. access, adoption, proficiency, ways of working, organizational change) rather than a one-time initiative, and can position an organization within such a model.
 - The course participants knows about enabling measures such as trainings, hackathons, and dedicated time for experimentation, and can argue why protected time for learning is a precondition for sustainable adoption.
