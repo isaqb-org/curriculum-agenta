@@ -20,21 +20,21 @@ tbd.
 
 // tag::EN[]
 [[LG-7-1]]
-==== LG 7-1: Be able to drive the adoption of AI-supported development practices in organizations
+==== LG 7-1: Know what drives the adoption of AI-supported development practices in organizations
 - The course participants can apply a hypothesis-driven approach to AI adoption (identifying a problem, formulating hypotheses, running experiments, measuring outcomes) and explain why this is preferable to broad, untargeted rollouts.
 - The course participants understand AI adoption as a continuous, multi-stage process (e.g. access, adoption, proficiency, ways of working, organizational change) rather than a one-time initiative, and can position an organization within such a model.
-- The course participants can design enabling measures such as trainings, hackathons, and dedicated time for experimentation, and can argue why protected time for learning is a precondition for sustainable adoption.
-- The course participants can establish explicit ownership for AI adoption within a team or organization and can describe the responsibilities such a role carries.
+- The course participants knows about enabling measures such as trainings, hackathons, and dedicated time for experimentation, and can argue why protected time for learning is a precondition for sustainable adoption.
+- The course participants knows that explicit ownership of AI adoption within a team or organization is crucial for its success.
 - The course participants understand the importance of a learning culture that tolerates mistakes and creates psychological safety for asking questions, and can identify cultural anti-patterns that block adoption.
 - The course participants can balance ease of access (recommending sensible default tooling) with openness to alternatives, and can justify this trade-off.
 - The course participants can support the shift in engineering identity from writing code toward shipping outcomes, and can explain its implications for individuals and teams.
-- The course participants can define meaningful indicators for the success of AI adoption (e.g. DORA metrics, lead time, change failure rate, developer experience signals) and can use them to validate the hypotheses driving adoption.
+- The course participants knows meaningful indicators for the success of AI adoption (e.g. DORA metrics, lead time, change failure rate, developer experience signals) and can use them to validate the hypotheses driving adoption.
 
 [[LG-7-2]]
 ==== LG 7-2: Be able to shift architectural work from implementation to orchestration
 - The course participants can distinguish whether they are directing agents through a fixed plan or composing the agent workflow itself, and can select the appropriate style for a given context.
-- The course participants can reason about the effects of orchestration on throughput (especially regarding  less hand-offs causing less friction), traceability, and the development process as a whole.
-- The course participants can design orchestration variants and define meaningful checkpoints at which human judgment is required.
+- The course participants can reason about the effects of orchestration on throughput (especially regarding less hand-offs causing less friction), traceability, and the development process as a whole.
+- The course participants know about orchestration variants and that meaningful checkpoints at which human judgment is required.
 - The course participants can identify failure modes specific to orchestration (e.g. runaway agents, infinite loops, lost human override points, cascading errors across orchestrated steps) and can design containment mechanisms that limit their impact.
 - The course participants can specify targets, constraints, and acceptance criteria rather than prescribing the exact path, and can explain why this style of guidance is more effective when working with AI agents.
 - The course participants understand that orchestration design has direct cost and sustainability implications (token consumption, agentic loop length, tool-call frequency) and can take these into account when shaping orchestration patterns. See also <<LG-6-4,LG 6-4>>.
@@ -44,7 +44,7 @@ tbd.
 - The course participants understand that the framing of a task (context, scope, prompt) determines the outcome, and can explain why responsibility for AI-generated results rests with the engineer who framed the task, not with the agent.
 - The course participants can recognize that shortcomings in AI output typically reflect gaps in engineering practice (unclear scope, missing context, weak verification) rather than failures of the agent itself.
 - The course participants can use AI to challenge and verify hypotheses through experimentation, instead of treating it as an oracle that produces answers to be accepted.
-- The course participants can apply risk-based testing and blast-radius reasoning to AI-supported changes, and can prioritize verification effort accordingly.
+- The course participants know about risk-based testing and blast-radius reasoning to AI-supported changes, and can prioritize verification effort accordingly.
 - The course participants can apply review strategies that work outside-in (from observable behavior toward implementation) to AI-generated work.
 - The course participants understand the risk of skill atrophy through overreliance on AI and can design personal and team practices (e.g. deliberate practice, traditional and AI-supported katas, using AI as a learning instrument for explanation, summarization, and questioning) to preserve core engineering skills.
 
