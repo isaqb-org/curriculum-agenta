@@ -86,7 +86,7 @@ Participants can distinguish the following important disciplines in the context 
 * Participants know a selection of prompt-engineering techniques to optimize the quality of outputs, e.g., role playing, consistency, or repeating.
 
 [[LG-1-4]]
-==== LG 1-4: Know the principle of agents and the reasons for its great importance nowadays
+==== LG 1-4: Know what AI agents are and what agentic engineering means
 
 * Participants know the difference between assistants and agents.
 * Participants have a basic understanding of the agentic loop (ReAct pattern): prompting, reasoning, tool usage, state management (memory).
@@ -97,14 +97,14 @@ Participants can distinguish the following important disciplines in the context 
 [[LG-1-5]]
 ==== LG 1-5: Know the different practical approaches (schools) to agentic engineering
 
-* Participants understand autonomy as a spectrum with multiple levels and can place tools/workflows appropriately. They understand how the levels differ across typical activities (from idea to feedback) and which human key competency is especially important at each level.
-* Participants understand that the way agents collaborate (topology) is its own, independent dimension. They can select and combine suitable topologies and explain how communication and responsibility models affect throughput, quality, risk, and governance.
-* Participants are familiar with common patterns, can distinguish them from one another, and apply them appropriately depending on autonomy level and topology. They understand the typical building blocks (roles, artifacts, control and feedback points), the benefit–risk profile, and the human competencies required for them (e.g., orchestration, guardrails, spec-/prompt design, goals and acceptance criteria).
+* Participants understand autonomy as a spectrum with multiple levels and can place tools/workflows appropriately. They understand how the levels differ across typical activities (from idea to feedback).
+* Participants can name concrete current practices in agentic engineering, such as Spec-Driven Development, Agent Swarms, Conversational Programming, and related workflows, and classify them within the autonomy spectrum.
 
 [[LG-1-6]]
 ==== LG 1-6: Relate AI-supported and agentic engineering to classical software architecture work
 
-* Participants know which activities are typically referred to as "architecture work" and understand that AI has an effect on these activities. 
-* Participants can explain how AI assistants and agents affect core architecture activities - for example quality goal clarification, architectural option generation, trade-off analysis, decision documentation, architecture reviews, architecture governance, and stakeholder communication. They can identify which activities can be supported, accelerated, or partially automated by AI, and where human architectural judgment remains necessary.
+* Participants know which activities are typically referred to as "architecture work" and understand that AI can effect these activities.
+* Participants can explain how AI assistants and agents can support core architecture activities, such as quality goal definition, decision documentation, and architecture reviews. They can identify which activities can be supported, accelerated, or partially automated by AI, and where human architectural judgment remains necessary.
+* Participants can map architecture work to agentic engineering. Instead of merely augmenting traditional activities, they can anchor architecture work in agentic processes and tools — for example, by embedding architecture principles through context engineering, supporting architecture decisions with guardrails, evaluating alternatives by implementing them in agentic loops, and continuously validating architectural assumptions through automated feedback.
 
 // end::EN[]
