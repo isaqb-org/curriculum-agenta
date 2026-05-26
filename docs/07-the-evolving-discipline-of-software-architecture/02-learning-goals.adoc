@@ -58,12 +58,8 @@ tbd.
 ==== LG 7-6: Knows about evolving roles, teams, and architectural scope for AI-supported organizations
 - The course participants know new collaboration patterns that combine humans and AI (e.g. Human + Human + AI pairing) and can identify safeguards that ensure people continue to talk to each other rather than only to the agent and that insights encountered within an AI session might be shared with the human developer team. Correspondendly the course participants know about agent topoligies (e.g. Solo, Sub-Agent, Agent Teams)
 - The course participants knows that collaboration patterns must match to team context and that different team roles can perform different AI-supported activities (e.g. that product roles might trigger agent workflows, that developers might draft features).
-- The course participants understand that roles will tend toward more generalist, product-centric profiles and can anticipate the implications for hiring, skill development, and team composition (specialist versus generalist balance, team size).
-- The course participants know AI can be used as critic, reviewer, tutor, sparring partner, distiller and explainer rather than only as generator.
-- The course participants understand that established agile practices will evolve under AI-supported development (e.g. pull request size, faster feedback loops, changed cadence) and can adapt processes accordingly.
-- The course participants knows examples of use of AI in requirements engineering and collaborative modeling.
-- The course participants can shift their own focus from line-level coding toward broader architectural thinking and know about the importance of building product-centric teams in which architecture is a shared skill.
-- The course participants can deliberately invest in the capability of their coding agents (configuration, context, tooling) as part of the team's overall capability.
+- The course participants can shift their own focus from line-level coding toward a broader architectural, generalist and product-centric thinking and and they can anticipate the implications of this shift for hiring, skill development, and team size and composition.
+- The course participants understand that established agile practices will evolve under AI-supported development (e.g. pull request size, faster feedback loops, changed cadence).
 - The course participants can reason about the evolving role of the architect across architecture levels (software, solution, enterprise) and can identify where AI support has the greatest leverage at each level.
 
 // end::EN[]
