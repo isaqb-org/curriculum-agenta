@@ -7,7 +7,7 @@
 // end::DE[]
 
 // tag::EN[]
-== The Evolving Role of the Architect
+== The Evolving Discipline of the Architect
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]
