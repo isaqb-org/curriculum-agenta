@@ -30,7 +30,7 @@
 | 4. Keeping Agents Aligned with Architectural Goals | 150
 | 5. Architecture Information Extraction | 180
 | 6. Governance and Quality Gates for AI Usage | 90
-| 7. The Evolving Discipline of the Architect | 60
+| 7. The Evolving Discipline of Software Architecture | 60
 | |
 | Total | 900 (15.00h)
 
