@@ -52,7 +52,7 @@ include::05-architecture-information-extraction/00-structure.adoc[{include_confi
 include::06-governance-and-quality/00-structure.adoc[{include_configuration}]
 
 <<<
-include::07-evolving-role-of-the-architect/00-structure.adoc[{include_configuration}]
+include::07-the-evolving-discipline-of-software-architecture/00-structure.adoc[{include_configuration}]
 
 <<<
 include::99-references/00-references.adoc[{include_configuration}]

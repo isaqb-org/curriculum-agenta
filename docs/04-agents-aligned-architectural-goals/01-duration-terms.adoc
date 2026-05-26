@@ -1,6 +1,6 @@
 // tag::DE[]
 |===
-| Dauer: 180 Min. | Übungszeit: 60 Min.
+| Dauer: 150 Min. | Übungszeit: 60 Min.
 |===
 
 === Begriffe und Konzepte
@@ -11,7 +11,7 @@ Harness Engineering, Architekturelle Constraints für KI-Agenten, Automatisierte
 
 // tag::EN[]
 |===
-| Duration: 180 min | Practice time: 60 min
+| Duration: 150 min | Practice time: 60 min
 |===
 
 === Terms and Principles

@@ -1,6 +1,6 @@
 // tag::DE[]
 |===
-| Dauer: 120 Min. | Übungszeit: 45 Min.
+| Dauer: 60 Min. | Übungszeit: 45 Min.
 |===
 
 === Begriffe und Konzepte
@@ -11,7 +11,7 @@ Begriff 1, Begriff 2, Begriff 3
 
 // tag::EN[]
 |===
-| Duration: 120 min | Practice time: 45 min
+| Duration: 60 min | Practice time: 45 min
 |===
 
 === Terms and Principles

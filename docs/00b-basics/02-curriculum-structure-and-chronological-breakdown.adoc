@@ -27,12 +27,12 @@
 | 1. Introduction and Fundamentals | 60
 | 2. AI-Assisted Architectural Decision-Making | 150
 | 3. Providing Architectural Knowledge to Agents | 210
-| 4. Keeping Agents Aligned with Architectural Goals | 210
-| 5. Architecture Information Extraction | 225
+| 4. Keeping Agents Aligned with Architectural Goals | 150
+| 5. Architecture Information Extraction | 180
 | 6. Governance and Quality Gates for AI Usage | 90
-| 7. The Evolving Role of the Architect | 120
+| 7. The Evolving Discipline of Software Architecture | 60
 | |
-| Total | 1.065 (17.75h)
+| Total | 900 (15.00h)
 
 |===
 
