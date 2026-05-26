@@ -72,4 +72,21 @@ Participants understand the limitations of AI in architectural reasoning and the
 * Participants know the value and risks of switching models during a decision process
 * Participants are able to define review checkpoints and know how to maintain human responsibility over consequential architectural decisions
 
+[[LG-2-7]]
+==== LG 2-7: Be able to shift architectural work from implementation to orchestration
+* The course participants can distinguish whether they are directing agents through a fixed plan or composing the agent workflow itself, and can select the appropriate style for a given context.
+* The course participants can reason about the effects of orchestration on throughput (especially regarding less hand-offs causing less friction), traceability, and the development process as a whole.
+* The course participants know about orchestration variants and that meaningful checkpoints at which human judgment is required.
+* The course participants can identify failure modes specific to orchestration (e.g. runaway agents, infinite loops, lost human override points, cascading errors across orchestrated steps) and can design containment mechanisms that limit their impact.
+* The course participants can specify targets, constraints, and acceptance criteria rather than prescribing the exact path, and can explain why this style of guidance is more effective when working with AI agents.
+* The course participants understand that orchestration design has direct cost and sustainability implications (token consumption, agentic loop length, tool-call frequency) and can take these into account when shaping orchestration patterns. See also <<LG-7-4,LG 7-4>>.
+
+
 // end::EN[]
+
+
+
+
+
+
+
