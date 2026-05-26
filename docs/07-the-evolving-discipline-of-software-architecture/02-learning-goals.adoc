@@ -30,12 +30,10 @@ tbd.
 - The course participants understand that orchestration design has direct cost and sustainability implications (token consumption, agentic loop length, tool-call frequency) and can take these into account when shaping orchestration patterns. See also <<LG-7-4,LG 7-4>>.
 
 [[LG-7-2]]
-==== LG 7-2: Be able to take accountability for AI-supported architectural work and preserve engineering judgment
-- The course participants understand that the framing of a task (context, scope, prompt) by the developer determines the outcome — meaning shortcomings often reflect bad engineering practice, and the developer stays responsible for the result: "you push it, you own it".
-- The course participants can use AI to challenge and verify hypotheses through experimentation, instead of treating it as an oracle that produces answers to be accepted.
-- The course participants know about risk-based testing and blast-radius reasoning to AI-supported changes, and can prioritize verification effort accordingly.
-- The course participants can apply review strategies that work outside-in (from observable behavior toward implementation) to AI-generated work.
+==== LG 7-2: Know about the importance of code owndership and the preservation of analytical skills
+- The course participants understand that the developer stays responsible for the result: "you push it, you own it".
 - The course participants understand the risk of skill atrophy through overreliance on AI and can design personal and team practices (e.g. deliberate AI-free practice, human-first / AI-second reasoning practices, traditional and AI-supported katas, using AI as a learning instrument for explanation, summarization, and questioning) to preserve core engineering skills.
+- The course participants understand the remaining importance of critical thinking (keep asking questions and researching until an undertanding of a problem is gained as well as scrutinising and cross-checking ‘AI-generated results’ against their own knowledge and observations)
 
 [[LG-7-3]]
 ==== LG 7-3: Be able to preserve architectural judgment when using coding agents
