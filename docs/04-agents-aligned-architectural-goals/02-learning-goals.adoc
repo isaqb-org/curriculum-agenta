@@ -37,12 +37,14 @@
 - The course participants can explain why AI agents, without explicit constraints, tend to produce work that violates architectural decisions, accumulates technical debt, and introduces inconsistencies.
 - The course participants can describe the factors that determine an AI agent's behavior (e.g. context and tools) and identify where architects can intervene most effectively.
 - The course participants understand the relationship between providing architectural knowledge to agents and constraining agent behavior, and can explain why knowledge alone (e.g. in agent's context) is insufficient.
+- The course participants understand that explicit archirectural controls should only be built and maintained as long as the model itself is not able to reliably perform the controls itself.
 
 [[LG-4-2]]
-==== LG 4-2: Be able to design mechanisms that enforce architectural decisions on AI-generated work
-- The course participants can design preventive and detective controls that work together to keep AI agents within architectural boundaries.
+==== LG 4-2: Be able to design a harness that enforces architectural decisions on AI-generated work
+- The course participants can design preventive and detective controls that work together to keep AI agents within architectural boundaries and aligned with architectural decisions, quality goals, and system constraints.
 - The course participants can assess the trade-offs between different types of enforcement mechanisms, in particular the trade-off between precision and coverage, and between speed and depth of analysis.
 - The course participants can select appropriate enforcement mechanisms for different kinds of architectural concerns (e.g., structural rules, quality attributes) and can explain why some concerns are harder to enforce than others.
+- The course participants know about examples for enforcement mechanisms, such as architecture tests, static analysis, linters, dependency rules, policy checks, review gates, sandboxing, and manual approval workflows.
 
 [[LG-4-3]]
 ==== LG 4-3: Be able to decide where in the development process architectural controls should be applied
@@ -56,7 +58,7 @@
 - The course participants can reason about the trade-off between the effort of establishing controls and the risk of operating AI agents without them.
 
 [[LG-4-5]]
-==== LG 4-5: Be able to introduce architectural controls for AI agents into existing codebases
+==== LG 4-5: Be able to design processes that improve architectural controls over time
 - The course participants can design feedback processes where failures in AI-generated work inform improvements to the control system itself.
 - The course participants can reason about the extent to which the improvement of controls can itself be automated, and where human architectural judgment remains essential.
 
