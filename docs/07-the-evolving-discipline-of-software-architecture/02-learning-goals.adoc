@@ -43,15 +43,6 @@ tbd.
 - The course participants knows that shared terminology and a consistent domain vocabulary (e.g. a domain glossary, ubiquitous language) as anchors that make agent decisions more predictable and aligned with the system's design.
 - Participants know about indicators for whether teams are improving architectural capability, not only producing faster outputs and the goal is to maximaze outcome and impact for the user rather then output (avoiding what's increasingly called 'AI slop')
 
-[[LG-7-4]]
-==== LG 7-4: Know about classical architectural principles and mechanically/deterministic verifiable rules in the AI era
-- The course participants can apply established architectural principles (e.g. single responsibility, bounded contexts, DRY) in AI-supported development and can distinguish essential from incidental duplication when guiding or reviewing agent output.
-- The course participants know about mechanically verifiable rules (e.g. architecture tests, static analysis, linters, fitness functions) as a harness that constrains agent output and surfaces violations early.
-- The course participants know about established architectural patterns (e.g. layered architecture, design patterns) as known-good targets that agents can be directed toward.
-- The course participants know set-based design to keep multiple architectural options open during AI-supported exploration, and can explain why this complements the speed of AI generation.
-- The course participants are familiar with the ‘last reasonable time’ principle and understand how AI pushes this deadline back.
-- The course participants understand the advantages of deterministic, verifiable rules as being robust against changes in new AI models.
-
 [[LG-7-5]]
 ==== LG 7-5: Know what drives the adoption of AI-supported development practices in organizations
 - The course participants can apply a hypothesis-driven approach to AI adoption (identifying a problem, formulating hypotheses, running experiments, measuring outcomes) and explain why this is preferable to broad, untargeted rollouts.
