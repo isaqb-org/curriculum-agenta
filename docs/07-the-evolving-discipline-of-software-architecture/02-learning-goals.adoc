@@ -22,35 +22,35 @@ tbd.
 
 [[LG-7-1]]
 ==== LG 7-1: Know about the importance of code owndership and the preservation of analytical skills
-- The course participants understand that the developer stays responsible for the result: "you push it, you own it".
-- The course participants understand the risk of skill atrophy through overreliance on AI and can design personal and team practices (e.g. deliberate AI-free practice, human-first / AI-second reasoning practices, traditional and AI-supported katas, using AI as a learning instrument for explanation, summarization, and questioning) to preserve core engineering skills.
-- The course participants understand the remaining importance of critical thinking (keep asking questions and researching until an undertanding of a problem is gained as well as scrutinising and cross-checking ‘AI-generated results’ against their own knowledge and observations)
+- The participants understand that the developer stays responsible for the result: "you push it, you own it".
+- The participants understand the risk of skill atrophy through overreliance on AI and can design personal and team practices (e.g. deliberate AI-free practice, human-first / AI-second reasoning practices, traditional and AI-supported katas, using AI as a learning instrument for explanation, summarization, and questioning) to preserve core engineering skills.
+- The participants understand the remaining importance of critical thinking (keep asking questions and researching until an undertanding of a problem is gained as well as scrutinising and cross-checking ‘AI-generated results’ against their own knowledge and observations)
 
 [[LG-7-2]]
 ==== LG 7-2: Be able to preserve architectural judgment when using coding agents
-- The course participants understand that agent decisions are shaped by available context and by both biases in training data (e.g. weighting toward particular vendors, frameworks, or stacks) and biasas in existing artifacts of the own organization, and can identify situations in which such biases distort architectural choices.
+- The participants understand that agent decisions are shaped by available context and by both biases in training data (e.g. weighting toward particular vendors, frameworks, or stacks) and biasas in existing artifacts of the own organization, and can identify situations in which such biases distort architectural choices.
 - Participants can distinguish AI-supported reasoning from delegated decision-making.
 - Participants can identify which architecture activities must remain human-owned and knows that this might change in the future.
-- The course participants knows that shared terminology and a consistent domain vocabulary (e.g. a domain glossary, ubiquitous language) as anchors that make agent decisions more predictable and aligned with the system's design.
+- The participants knows that shared terminology and a consistent domain vocabulary (e.g. a domain glossary, ubiquitous language) as anchors that make agent decisions more predictable and aligned with the system's design.
 - Participants know about indicators for whether teams are improving architectural capability, not only producing faster outputs and the goal is to maximaze outcome and impact for the user rather then output (avoiding what's increasingly called 'AI slop')
 
 [[LG-7-3]]
 ==== LG 7-3: Know what drives the adoption of AI-supported development practices in organizations
-- The course participants can apply a hypothesis-driven approach to AI adoption (identifying a problem, formulating hypotheses, running experiments, measuring outcomes) and explain why this is preferable to broad, untargeted rollouts.
-- The course participants understand AI adoption as a continuous, multi-stage process (e.g. access, adoption, proficiency, ways of working, organizational change) rather than a one-time initiative, and can position an organization within such a model.
-- The course participants knows about enabling measures such as trainings, hackathons, and dedicated time for experimentation, and can argue why protected time for learning is a precondition for sustainable adoption.
-- The course participants knows that explicit ownership of AI adoption within a team or organization is crucial for its success.
-- The course participants understand the importance of a learning culture that tolerates mistakes and creates psychological safety for asking questions, and can identify cultural anti-patterns that block adoption.
-- The course participants can balance ease of access (recommending sensible default tooling) with openness to alternatives, and can justify this trade-off.
-- The course participants can support the shift in engineering identity from writing code toward shipping outcomes, and can explain its implications for individuals and teams.
-- The course participants knows meaningful indicators for the success of AI adoption (e.g. DORA metrics, lead time, change failure rate, developer experience signals) and can use them to validate the hypotheses driving adoption.
+- The participants can apply a hypothesis-driven approach to AI adoption (identifying a problem, formulating hypotheses, running experiments, measuring outcomes) and explain why this is preferable to broad, untargeted rollouts.
+- The participants understand AI adoption as a continuous, multi-stage process (e.g. access, adoption, proficiency, ways of working, organizational change) rather than a one-time initiative, and can position an organization within such a model.
+- The participants knows about enabling measures such as trainings, hackathons, and dedicated time for experimentation, and can argue why protected time for learning is a precondition for sustainable adoption.
+- The participants knows that explicit ownership of AI adoption within a team or organization is crucial for its success.
+- The participants understand the importance of a learning culture that tolerates mistakes and creates psychological safety for asking questions, and can identify cultural anti-patterns that block adoption.
+- The participants can balance ease of access (recommending sensible default tooling) with openness to alternatives, and can justify this trade-off.
+- The participants can support the shift in engineering identity from writing code toward shipping outcomes, and can explain its implications for individuals and teams.
+- The participants knows meaningful indicators for the success of AI adoption (e.g. DORA metrics, lead time, change failure rate, developer experience signals) and can use them to validate the hypotheses driving adoption.
 
 [[LG-7-4]]
 ==== LG 7-4: Knows about evolving roles, teams, and architectural scope for AI-supported organizations
-- The course participants know new collaboration patterns that combine humans and AI (e.g. Human + Human + AI pairing) and can identify safeguards that ensure people continue to talk to each other rather than only to the agent and that insights encountered within an AI session might be shared with the human developer team. Correspondendly the course participants know about agent topoligies (e.g. Solo, Sub-Agent, Agent Teams)
-- The course participants knows that collaboration patterns must match to team context and that different team roles can perform different AI-supported activities (e.g. that product roles might trigger agent workflows, that developers might draft features).
-- The course participants can shift their own focus from line-level coding toward a broader architectural, generalist and product-centric thinking and and they can anticipate the implications of this shift for hiring, skill development, and team size and composition.
-- The course participants understand that established agile practices will evolve under AI-supported development (e.g. pull request size, faster feedback loops, changed cadence).
-- The course participants can reason about the evolving role of the architect across architecture levels (software, solution, enterprise) and can identify where AI support has the greatest leverage at each level.
+- The participants know new collaboration patterns that combine humans and AI (e.g. Human + Human + AI pairing) and can identify safeguards that ensure people continue to talk to each other rather than only to the agent and that insights encountered within an AI session might be shared with the human developer team. Correspondendly the participants know about agent topoligies (e.g. Solo, Sub-Agent, Agent Teams)
+- The participants knows that collaboration patterns must match to team context and that different team roles can perform different AI-supported activities (e.g. that product roles might trigger agent workflows, that developers might draft features).
+- The participants can shift their own focus from line-level coding toward a broader architectural, generalist and product-centric thinking and and they can anticipate the implications of this shift for hiring, skill development, and team size and composition.
+- The participants understand that established agile practices will evolve under AI-supported development (e.g. pull request size, faster feedback loops, changed cadence).
+- The participants can reason about the evolving role of the architect across architecture levels (software, solution, enterprise) and can identify where AI support has the greatest leverage at each level.
 
 // end::EN[]

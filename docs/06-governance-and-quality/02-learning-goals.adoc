@@ -53,43 +53,43 @@
 
 [[LG-6-1]]
 ==== LG 6-1: Understand, classify, and properly address the legal framework conditions when using AI tools in the organization
-- Course participants can describe how AI-supported systems should be responsibly operated, monitored, reviewed, and documented over time, and explain why clear governance is necessary from introduction to decommissioning.
-- Course participants can explain copyright issues such as copyleft licenses and assess which obligations may arise when using, adapting, and especially distributing software/artifacts in an AI context.
-- Course participants can, when using AI tools, check from a data protection perspective whether and which personal data are processed, classify roles and responsibilities (controller/processor), and derive when contractual requirements must be clarified.
-- Course participants can apply the EU AI Act in its basic features (roles, risk logic, phased applicability) to typical AI tool scenarios and explain the timeline for application with key dates.
-- Course participants can decide for concrete initiatives when they must involve which internal and external stakeholders (e.g., data protection officer, information security) and can document the results in a way that is audit-ready and decision-ready.
+- The participants can describe how AI-supported systems should be responsibly operated, monitored, reviewed, and documented over time, and explain why clear governance is necessary from introduction to decommissioning.
+- The participants can explain copyright issues such as copyleft licenses and assess which obligations may arise when using, adapting, and especially distributing software/artifacts in an AI context.
+- The participants can, when using AI tools, check from a data protection perspective whether and which personal data are processed, classify roles and responsibilities (controller/processor), and derive when contractual requirements must be clarified.
+- The participants can apply the EU AI Act in its basic features (roles, risk logic, phased applicability) to typical AI tool scenarios and explain the timeline for application with key dates.
+- The participants can decide for concrete initiatives when they must involve which internal and external stakeholders (e.g., data protection officer, information security) and can document the results in a way that is audit-ready and decision-ready.
 
 [[LG-6-2]]
 ==== LG 6-2 Ensure traceability of AI-generated outputs and their context
-- Course participants can explain what is meant by traceability of AI outputs and justify why this is important for quality assurance, incident analysis, governance, and auditability.
-- Course participants can evaluate and weigh concrete measures to ensure traceability in a system context, in particular *structured logging*, *consistent referencing* of context artifacts, and *quoting & citation* as a mechanism for verifiable provenance of statements.
-- Course participants can design a practical versioning and observability concept for AI applications that includes at least prompt/template versioning, model/configuration states, traceable changes, and suitable observability/tracing tools, and can assess whether the resulting artifacts sufficiently support later reconstruction of relevant events.
+- The participants can explain what is meant by traceability of AI outputs and justify why this is important for quality assurance, incident analysis, governance, and auditability.
+- The participants can evaluate and weigh concrete measures to ensure traceability in a system context, in particular *structured logging*, *consistent referencing* of context artifacts, and *quoting & citation* as a mechanism for verifiable provenance of statements.
+- The participants can design a practical versioning and observability concept for AI applications that includes at least prompt/template versioning, model/configuration states, traceable changes, and suitable observability/tracing tools, and can assess whether the resulting artifacts sufficiently support later reconstruction of relevant events.
 
 [[LG-6-3]]
 ==== LG 6-3 Design consistent scaling of AI governance across teams and processes
-- Course participants can classify and compare token-based billing models versus subscription/seat-based models and select a suitable governance and budgeting model for different team and use-case contexts.
-- Course participants can consider dependency risks (vendor lock-in) and data sovereignty when selecting LLM providers and understand the importance of flexible options to switch providers.
-- Course participants can design guardrails for agent and tool usage that are consistent across the organization and can explain how these guardrails reduce risks (compliance, data leakage, misuse) without unnecessarily slowing the pace of innovation.
-- Course participants can implement an allowlist/whitelist strategy for tool integrations, describe appropriate authorization and approval processes, and justify the trade-offs between flexibility and control for different organizational areas.
+- The participants can classify and compare token-based billing models versus subscription/seat-based models and select a suitable governance and budgeting model for different team and use-case contexts.
+- The participants can consider dependency risks (vendor lock-in) and data sovereignty when selecting LLM providers and understand the importance of flexible options to switch providers.
+- The participants can design guardrails for agent and tool usage that are consistent across the organization and can explain how these guardrails reduce risks (compliance, data leakage, misuse) without unnecessarily slowing the pace of innovation.
+- The participants can implement an allowlist/whitelist strategy for tool integrations, describe appropriate authorization and approval processes, and justify the trade-offs between flexibility and control for different organizational areas.
 
 [[LG-6-4]]
 ==== LG 6-4 Understand the environmental costs of AI-supported software development and derive sustainable usage strategies
-- Course participants can explain and distinguish the key environmental impacts of AI-supported development across the lifecycle and classify typical misconceptions about them.
-- Course participants can identify and assess the most important drivers of energy and emissions impact in AI-assisted development (e.g., model size, multi-stage/agentic workflows) and create awareness of them within the organization.
-- Course participants can justify and prioritize effective reduction measures for the use of code and chat assistants (e.g., routing to specialized models, re-using scripts, caching/reuse, prompt and context hygiene) and clearly present trade-offs like quality, cost and latency.
-- Course participants can translate sustainability requirements into governance and procurement and derive actionable guidelines for teams from them.
+- The participants can explain and distinguish the key environmental impacts of AI-supported development across the lifecycle and classify typical misconceptions about them.
+- The participants can identify and assess the most important drivers of energy and emissions impact in AI-assisted development (e.g., model size, multi-stage/agentic workflows) and create awareness of them within the organization.
+- The participants can justify and prioritize effective reduction measures for the use of code and chat assistants (e.g., routing to specialized models, re-using scripts, caching/reuse, prompt and context hygiene) and clearly present trade-offs like quality, cost and latency.
+- The participants can translate sustainability requirements into governance and procurement and derive actionable guidelines for teams from them.
 
 [[LG-6-5]]
 ==== LG 6-5 Handle sensitive information securely, confidentially, and in compliance with data protection when using AI tools
-- Course participants can identify and classify sensitive information and decide what must not be shared with AI tools.
-- Course participants can assess data flows and data retention of AI tool usage and identify key risks.
-- Course participants can define team-appropriate rules for selecting and using AI tools in a secure and data-protection-compliant way.
+- The participants can identify and classify sensitive information and decide what must not be shared with AI tools.
+- The participants can assess data flows and data retention of AI tool usage and identify key risks.
+- The participants can define team-appropriate rules for selecting and using AI tools in a secure and data-protection-compliant way.
 
 [[LG-6-6]]
 ==== LG 6-6 Ensure the security of agent and tool integrations (prompt injection, tool misuse, sandboxing)
-- The course participants are familiar with the OWASP LLM Top 10 and know which risks are relevant to agentic engineering (among others, prompt injection and tool misuse). They have also heard of the MITRE ATLAS knowledge base.
-- The course participants can recognize prompt-injection attacks (direct and indirect) in agentic systems, explain the associated "confused deputy" risk, and derive requirements for robust prompt/context boundaries (e.g. clear separation of data and instructions, no trust in externally sourced content).
-- The course participants are familiar with suitable measures to reduce these risks (e.g. least privilege, scoped credentials, explicit approvals / human-in-the-loop, monitoring).
-- The course participants can select and implement suitable sandboxing strategies for tool execution and know the advantages and disadvantages of container-based versus VM-based solutions.
+- The participants are familiar with the OWASP LLM Top 10 and know which risks are relevant to agentic engineering (among others, prompt injection and tool misuse). They have also heard of the MITRE ATLAS knowledge base.
+- The participants can recognize prompt-injection attacks (direct and indirect) in agentic systems, explain the associated "confused deputy" risk, and derive requirements for robust prompt/context boundaries (e.g. clear separation of data and instructions, no trust in externally sourced content).
+- The participants are familiar with suitable measures to reduce these risks (e.g. least privilege, scoped credentials, explicit approvals / human-in-the-loop, monitoring).
+- The participants can select and implement suitable sandboxing strategies for tool execution and know the advantages and disadvantages of container-based versus VM-based solutions.
 
 // end::EN[]
