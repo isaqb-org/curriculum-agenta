@@ -28,14 +28,29 @@ ATTENTION: labels have to be non-numeric.
 
 **A**
 
-- [[[anthropic,Anthropic 2025]]] Anthropic (2025): Effective harnesses for long-running agents.
-- [[[aiact, AI Act 2024]]] EU AI Act (2024): https://ai-act-service-desk.ec.europa.eu/en 
+- [[[academiccodified,Academic 2025a]]] Academic (2025): "Codified Context: Infrastructure for AI Agents." arXiv
+- [[[academicsurvey,Academic 2025b]]] Academic (2025): "A Survey of Context Engineering for Large Language Models." arXiv
+- [[[aiact,AI Act 2024]]] EU AI Act (2024): https://ai-act-service-desk.ec.europa.eu/en
+- [[[anthropicagentic,Anthropic 2026]]] Anthropic (2026): "2026 Agentic Coding Trends Report."
+- [[[anthropiceffective,Anthropic 2025a]]] Anthropic (2025): "Effective context engineering for AI agents." anthropic.com
+- [[[anthropicharness,Anthropic 2025b]]] Anthropic (2025): Effective harnesses for long-running agents.
+- [[[anthropicmcp,Anthropic 2024]]] Anthropic (2024–2025): "Model Context Protocol." modelcontextprotocol.io
+- [[[ashby,Ashby 1956]]] Ashby, W. R. (1956): "An Introduction to Cybernetics." (Law of Requisite Variety)
 
 **B**
 
 - [[[bachmann,Bachmann et al. 2000]]] Bachmann, F., L. Bass, et al.: Software Architecture Documentation in Practice. Software Engineering Institute, CMU/SEI-2000-SR-004.
 - [[[bass,Bass et al. 2021]]] Bass, L., Clements, P. und Kazman, R. (2021): Software Architecture in Practice, 4th Edition. O'Reilly
-- [[[boeckeler,Boeckeler 2026]]] Boeckeler, B. (2026): Harness engineering for coding agent users. martinfowler.com
+- [[[beck,Beck 2025]]] Beck, K. (2025): "Augmented Coding: Beyond the Vibes." Tidy First
+- [[[bishopfox,Bishop Fox 2025]]] Bishop Fox (2025): "Secure AI-Assisted Development: 15 Guardrails."
+- [[[boeckeleranchoring,Boeckeler 2025a]]] Boeckeler, B. (2025): "Anchoring AI to a reference application." martinfowler.com
+- [[[boeckelerrole,Boeckeler 2025b]]] Boeckeler, B. (2025): "The role of developer skills in agentic coding." martinfowler.com
+- [[[boeckelerspec,Boeckeler 2025c]]] Boeckeler, B. (2025): "Spec-Driven Development." martinfowler.com
+- [[[boeckelertovibe,Boeckeler 2025d]]] Boeckeler, B. (2025): "To vibe or not to vibe." martinfowler.com
+- [[[boeckelercontext,Boeckeler 2026a]]] Boeckeler, B. (2026): "Context Engineering for Coding Agents." martinfowler.com
+- [[[boeckelerharness,Boeckeler 2026b]]] Boeckeler, B. (2026): Harness engineering for coding agent users. martinfowler.com
+- [[[boeckelerexploring,Boeckeler et al. 2024]]] Boeckeler, B. et al. (2024–2025): "Exploring Generative AI" series: Onboarding to a legacy codebase, AI-assisted reverse engineering, Building an AI agent for tech stack migration, Modernizing Bahmni. martinfowler.com
+- [[[boeckelerpodcast,Boeckeler and Thiagarajan 2024]]] Boeckeler, B. & Thiagarajan, C. (2024–2025): "Context engineering: Tackling legacy systems with generative AI." ThoughtWorks Technology Podcast
 - [[[brown,Brown et al. 2020]]] Brown et al. (2020): Language Models are Few-Shot Learners. DOI:10.48550/arXiv.2005.14165
 - [[[sbrown,Brown 2026]]] The C4 Model (2026): Visualizing Software Architecture. O'Reilly. 2026
 
@@ -43,36 +58,65 @@ ATTENTION: labels have to be non-numeric.
 
 - [[[clements,Clements et al. 2003]]] Clements, P., F. Bachmann, L. Bass, D. Garlan, J. Ivers et al.: Documenting Software Architectures – Views and Beyond. Addison Wesley, 2003.
 
+**E**
+
+- [[[equalexperts,Equal Experts 2024]]] Equal Experts (2024): "Accelerating ADRs with Generative AI."
+
+**F**
+
+- [[[ford,Ford et al. 2023]]] Ford, N., Parsons, R., Kua, P. & Sadalage, P. (2023): "Building Evolutionary Architectures." 2nd Ed., O'Reilly
+- [[[fowlerabstraction,Fowler 2025a]]] Fowler, M. (2025): "LLMs bring new nature of abstraction." martinfowler.com
+- [[[fowlerthoughts,Fowler 2025b]]] Fowler, M. (2025): "Some thoughts on LLMs and Software Development." martinfowler.com
+
+**G**
+
+- [[[gitclear,GitClear 2025]]] GitClear (2025): "AI Copilot Code Quality: 2025 Data."
+- [[[gumbley,Gumbley and Ryan 2025]]] Gumbley, D. & Ryan, J. (2025): "Coding Assistants Threaten the Software Supply Chain." martinfowler.com
+
 **H**
 
 - [[[hargis,Hargis 2004]]] Hargis, Gretchen et al.: Quality Technical Information: A Handbook for Writers and Editors. Prentice Hall, IBM Press, 2004.
+- [[[hohpe,Hohpe 2020]]] Hohpe, G. (2020): "The Software Architect Elevator." O'Reilly
+
+**I**
+
+- [[[infoq,InfoQ 2025]]] InfoQ (2025): "Where Architects Sit in the Era of AI."
 
 **K**
 
+- [[[karpathycontext,Karpathy 2025a]]] Karpathy, A. (2025): In: Willison, S. "Context engineering."
+- [[[karpathyreview,Karpathy 2025b]]] Karpathy, A. (2025): "2025 LLM Year in Review."
+- [[[kimdora,Kim 2025]]] Kim, G. (2025): "Potential GenAI Impact on DORA Metrics." IT Revolution
+- [[[kimspear,Kim and Spear 2023]]] Kim, G. & Spear, S. (2023): "Wiring the Winning Organization." IT Revolution
 - [[[kruchten,Kruchten 1995]]] Kruchten, P.: Architectural Blueprints – The 4-1 View Model of Architecture. IEEE Software November 1995; 12(6), p. 42-50.
 
 **L**
 
+- [[[langchain,LangChain 2025]]] LangChain (2025): "Context engineering for agents." (W-S-C-I framework)
+- [[[letcher,Letcher 2026]]] Letcher, N. (2026): On "ambient affordances." (via Boeckeler)
 - [[[lopopolo,Lopopolo 2026]]] Lopopolo, R. (2026): Harness engineering: leveraging Codex in an agent-first world. openai.com
 
 **M**
 
 - [[[marco,Marco 2026]]] E. Marco (2026): Agentic Coding with Claude Code. packt. 2026
+- [[[melegati,Melegati et al. 2025]]] Melegati, J. et al. (2025): "ArchHypo: Managing Software Architecture Uncertainty Using Hypotheses Engineering." IEEE TSE
+- [[[mitre,MITRE ATLAS 2026]]] MITRE ATLAS (2026): Threat-modeling knowledge base for adversarial AI tactics and techniques. https://atlas.mitre.org/
 - [[[morris,Morris 2026]]] Morris, K. (2026): Humans and Agents in Software Engineering Loops. martinfowler.com
-- [[[mitre,MITRE ATLAS 2026]]] MITRE ATLAS (2026): Threat-modeling knowledge base for adversarial AI tactics and techniques. https://atlas.mitre.org/ 
 
 **N**
 
+- [[[newman,Newman 2019]]] Newman, S. (2019): "Monolith to Microservices." O'Reilly
 - [[[nygard,Nygard 2011]]] M. Nygard (2011): Documenting Architecture Decisions. https://www.cognitect.com/blog/2011/11/15/documenting-architecture-decisions
 
 **O**
 
-- [[[owaspllm,OWASP 2026]]] OWASP (2026): OWASP Top 10 for Large Language Model Applications. https://owasp.org/www-project-top-10-for-large-language-model-applications 
+- [[[oreillycode,OReilly 2025a]]] O'Reilly Radar (2025): "Architecture as Code to Teach Humans and Agents About Architecture."
+- [[[oreillygov,OReilly 2025b]]] O'Reilly Radar (2025): "How Agentic AI Empowers Architecture Governance."
+- [[[owaspllm,OWASP 2026]]] OWASP (2026): OWASP Top 10 for Large Language Model Applications. https://owasp.org/www-project-top-10-for-large-language-model-applications
 
 **P**
 
-- [[[park,Park et. al. 2023]]] Park et al. (2023): Generative Agents: Interactive Simulacra of Human Behavior. UIST '23: Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology
-Article No.: 2, Pages 1 - 22
+- [[[park,Park et. al. 2023]]] Park et al. (2023): Generative Agents: Interactive Simulacra of Human Behavior. UIST '23: Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology Article No.: 2, Pages 1 - 22
 
 **R**
 
@@ -85,18 +129,23 @@ Article No.: 2, Pages 1 - 22
 
 **T**
 
-- [[[toth,Toth 2025]]] S. Toth (2025): Vorgehensmuster für Softwarearchitektur - Kombinierbare Praktiken in Zeiten von Agile und Lean. 4. Auflage 2025, Carl Hanser Verlag, München.
 - [[[toche,Toche et. al. 2020]]] B. Toche, R. Pellerin, C. Fortin (2020): Set-based design: a review and new directions. Des. Sci., vol. 6, e18 journals.cambridge.org/dsj DOI: 10.1017/dsj.2020.16
+- [[[toth,Toth 2025]]] S. Toth (2025): Vorgehensmuster für Softwarearchitektur - Kombinierbare Praktiken in Zeiten von Agile und Lean. 4. Auflage 2025, Carl Hanser Verlag, München.
 
 **V**
 
-- [[[vries,Vries 2023]]] Alex de Vries (2023): The growing energy footprint of artificial intelligence. Joule, Volume 7, Issue 10, 2023,
-Pages 2191-2194
+- [[[vries,Vries 2023]]] Alex de Vries (2023): The growing energy footprint of artificial intelligence. Joule, Volume 7, Issue 10, 2023, Pages 2191-2194
+
+**W**
+
+- [[[willisonagentic,Willison 2025a]]] Willison, S. (2025): "Agentic Engineering Patterns."
+- [[[willisoncontext,Willison 2025b]]] Willison, S. (2025): "Context engineering." simonwillison.net
+- [[[willisoninjection,Willison Various]]] Willison, S.: Various writings on prompt injection and the lethal trifecta.
 
 **Y**
 
-- [[[yao,Yao et al. 2023]]] S. Yao, D. Yu, J. Zhao, I. Shafran, T. L. Griffiths, Y. Cao, K. Narasimhan (2023): Tree of Thoughts: Deliberate Problem Solving with Large Language Models. NIPS '23: Proceedings of the 37th International Conference on Neural Information Processing Systems
-Article No.: 517, Pages 11809 - 11822
+- [[[yao,Yao et al. 2023]]] S. Yao, D. Yu, J. Zhao, I. Shafran, T. L. Griffiths, Y. Cao, K. Narasimhan (2023): Tree of Thoughts: Deliberate Problem Solving with Large Language Models. NIPS '23: Proceedings of the 37th International Conference on Neural Information Processing Systems Article No.: 517, Pages 11809 - 11822
 
 **Z**
-- [[[zoerner, Zoerner 2022]]] S. Zoerner (2022): Softwarearchitekturen dokumentieren und kommunizieren. 3. Auflage, Carl Hanser Verlag. 
+
+- [[[zoerner,Zoerner 2022]]] S. Zoerner (2022): Softwarearchitekturen dokumentieren und kommunizieren. 3. Auflage, Carl Hanser Verlag.

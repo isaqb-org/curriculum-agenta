@@ -1,6 +1,20 @@
 === {references}
 
-<<boeckeler>>
+<<anthropicagentic>>
+
+<<boeckelerrole>>
+
+<<fowlerabstraction>>
+
+<<fowlerthoughts>>
+
+<<hohpe>>
+
+<<infoq>>
+
+<<kimdora>>
+
+<<kimspear>>
 
 <<morris>>
 

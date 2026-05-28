@@ -2,9 +2,19 @@
 
 <<aiact>>
 
+<<bishopfox>>
+
+<<gumbley>>
+
+<<mitre>>
+
+<<oreillygov>>
+
 <<owaspllm>>
 
 <<vries>>
+
+<<willisoninjection>>
 
 // tag::DE[]
 // silence asciidoctor warnings

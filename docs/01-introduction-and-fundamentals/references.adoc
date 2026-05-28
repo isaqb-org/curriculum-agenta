@@ -4,7 +4,15 @@
 
 <<bachmann>>
 
+<<beck>>
+
+<<boeckelerspec>>
+
+<<boeckelertovibe>>
+
 <<brown>>
+
+<<karpathyreview>>
 
 <<kruchten>>
 
@@ -13,6 +21,8 @@
 <<raschka>>
 
 <<starke>>
+
+<<willisonagentic>>
 
 // tag::DE[]
 // silence asciidoctor warnings
