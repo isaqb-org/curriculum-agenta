@@ -29,12 +29,15 @@ ATTENTION: labels have to be non-numeric.
 **A**
 
 - [[[anthropic,Anthropic 2025]]] Anthropic (2025): Effective harnesses for long-running agents.
+- [[[aiact, AI Act 2024]]] EU AI Act (2024): https://ai-act-service-desk.ec.europa.eu/en 
 
 **B**
 
 - [[[bachmann,Bachmann et al. 2000]]] Bachmann, F., L. Bass, et al.: Software Architecture Documentation in Practice. Software Engineering Institute, CMU/SEI-2000-SR-004.
-- [[[bass,Bass et al. 2003]]] Bass, L., Clements, P. und Kazman, R. (2003): Software Architecture in Practice. Addison-Wesley, Reading, Mass
+- [[[bass,Bass et al. 2021]]] Bass, L., Clements, P. und Kazman, R. (2021): Software Architecture in Practice, 4th Edition. O'Reilly
 - [[[boeckeler,Boeckeler 2026]]] Boeckeler, B. (2026): Harness engineering for coding agent users. martinfowler.com
+- [[[brown,Brown et al. 2020]]] Brown et al. (2020): Language Models are Few-Shot Learners. DOI:10.48550/arXiv.2005.14165
+- [[[sbrown,Brown 2026]]] The C4 Model (2026): Visualizing Software Architecture. O'Reilly. 2026
 
 **C**
 
@@ -54,9 +57,46 @@ ATTENTION: labels have to be non-numeric.
 
 **M**
 
+- [[[marco,Marco 2026]]] E. Marco (2026): Agentic Coding with Claude Code. packt. 2026
 - [[[morris,Morris 2026]]] Morris, K. (2026): Humans and Agents in Software Engineering Loops. martinfowler.com
+- [[[mitre,MITRE ATLAS 2026]]] MITRE ATLAS (2026): Threat-modeling knowledge base for adversarial AI tactics and techniques. https://atlas.mitre.org/ 
+
+**N**
+
+- [[[nygard,Nygard 2011]]] M. Nygard (2011): Documenting Architecture Decisions. https://www.cognitect.com/blog/2011/11/15/documenting-architecture-decisions
+
+**O**
+
+- [[[owaspllm,OWASP 2026]]] OWASP (2026): OWASP Top 10 for Large Language Model Applications. https://owasp.org/www-project-top-10-for-large-language-model-applications 
+
+**P**
+
+- [[[park,Park et. al. 2023]]] Park et al. (2023): Generative Agents: Interactive Simulacra of Human Behavior. UIST '23: Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology
+Article No.: 2, Pages 1 - 22
+
+**R**
+
+- [[[raschka,Raschka 2026]]] S. Raschka (2026): Components of A Coding Agent. https://magazine.sebastianraschka.com/p/components-of-a-coding-agent
+- [[[rothman,Rothman 2025]]] D. Rothman (2025): Context Engineering for Multi-Agent Systems: Move beyond prompting to build a Context Engine, a transparent architecture of context and reasoning. packt, 2025
 
 **S**
 
 - [[[starke,Starke 2011]]] Starke, G. (2011): Effektive Software-Architekturen - Ein praktischer Leitfaden. 5. Auflage 2011, Carl Hanser Verlag, München.
 
+**T**
+
+- [[[toth,Toth 2025]]] S. Toth (2025): Vorgehensmuster für Softwarearchitektur - Kombinierbare Praktiken in Zeiten von Agile und Lean. 4. Auflage 2025, Carl Hanser Verlag, München.
+- [[[toche,Toche et. al. 2020]]] B. Toche, R. Pellerin, C. Fortin (2020): Set-based design: a review and new directions. Des. Sci., vol. 6, e18 journals.cambridge.org/dsj DOI: 10.1017/dsj.2020.16
+
+**V**
+
+- [[[vries,Vries 2023]]] Alex de Vries (2023): The growing energy footprint of artificial intelligence. Joule, Volume 7, Issue 10, 2023,
+Pages 2191-2194
+
+**Y**
+
+- [[[yao,Yao et al. 2023]]] S. Yao, D. Yu, J. Zhao, I. Shafran, T. L. Griffiths, Y. Cao, K. Narasimhan (2023): Tree of Thoughts: Deliberate Problem Solving with Large Language Models. NIPS '23: Proceedings of the 37th International Conference on Neural Information Processing Systems
+Article No.: 517, Pages 11809 - 11822
+
+**Z**
+- [[[zoerner, Zoerner 2022]]] S. Zoerner (2022): Softwarearchitekturen dokumentieren und kommunizieren. 3. Auflage, Carl Hanser Verlag. 

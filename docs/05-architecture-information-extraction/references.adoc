@@ -1,15 +1,12 @@
 === {references}
 
-<<starke>>
+<<sbrown>>
 
-[NOTE]
-====
-Eine Quelle wird über `\<<label>>` referenziert. Dieses muss in `99-references/00-references.adoc` definiert sein.
+<<nygard>>
 
-= = =
+<<marco>>
 
-A reference source is referenced via `\<<label>>`. The label has to be defined in `99-references/00-references.adoc`.
-====
+<<zoerner>>
 
 // tag::DE[]
 // silence asciidoctor warnings

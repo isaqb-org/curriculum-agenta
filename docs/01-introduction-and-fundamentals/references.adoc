@@ -1,17 +1,18 @@
 === {references}
 
-<<bass>>, <<bachmann>>, <<kruchten>>, <<starke>>
+<<bass>>
 
+<<bachmann>>
 
+<<brown>>
 
-[NOTE]
-====
-Eine Quelle wird über `\<<label>>` referenziert. Dieses muss in `99-references/00-references.adoc` definiert sein.
+<<kruchten>>
 
-= = =
+<<park>>
 
-A reference source is referenced via `\<<label>>`. The label has to be defined in `99-references/00-references.adoc`.
-====
+<<raschka>>
+
+<<starke>>
 
 // tag::DE[]
 // silence asciidoctor warnings
