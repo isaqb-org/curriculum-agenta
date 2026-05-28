@@ -1,14 +1,24 @@
 === {references}
 
-<<anthropic>>
+<<anthropicharness>>
 
-<<boeckeler>>
+<<ashby>>
+
+<<boeckelerharness>>
+
+<<ford>>
+
+<<gitclear>>
 
 <<kruchten>>
+
+<<letcher>>
 
 <<lopopolo>>
 
 <<morris>>
+
+<<oreillycode>>
 
 // tag::DE[]
 // silence asciidoctor warnings
