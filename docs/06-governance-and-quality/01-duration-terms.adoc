@@ -14,6 +14,6 @@ Begriff 1, Begriff 2, Begriff 3
 |===
 
 === Terms and Principles
-TBD
+AI Governance, Compliance, EU Act, OWASP Top 10 LLM, MITRA ATLAS, Human-In-The-Loop, Prompt Injection, Souvereignity, Sustainability of LLMs, LLM Footprint
 
 // end::EN[]
