@@ -46,7 +46,7 @@ tbd.
 - Participants knows meaningful indicators for the success of AI adoption (e.g. DORA metrics, lead time, change failure rate, developer experience signals) and can use them to validate the hypotheses driving adoption.
 
 [[LG-7-4]]
-==== LG 7-4: Knows about evolving roles, teams, and architectural scope for AI-supported organizations
+==== LG 7-4: Know about evolving roles, teams, and architectural scope for AI-supported organizations
 - Participants know new collaboration patterns that combine humans and AI (e.g. Human + Human + AI pairing) and can identify safeguards that ensure people continue to talk to each other rather than only to the agent and that insights encountered within an AI session might be shared with the human developer team. Correspondendly the participants know about agent topoligies (e.g. Solo, Sub-Agent, Agent Teams)
 - Participants knows that collaboration patterns must match to team context and that different team roles can perform different AI-supported activities (e.g. that product roles might trigger agent workflows, that developers might draft features).
 - Participants can shift their own focus from line-level coding toward a broader architectural, generalist and product-centric thinking and and they can anticipate the implications of this shift for hiring, skill development, and team size and composition.

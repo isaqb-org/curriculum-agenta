@@ -26,7 +26,7 @@ tbd.
 - Participants can explain the inherent limitation: providing knowledge increases the probability of good results but cannot guarantee them.
 
 [[LG-3-2]]
-==== LG 3-2: Design agent-facing representations of architectural knowledge
+==== LG 3-2: Know how to design agent-facing representations of architectural knowledge
 - Participants can identify which aarchitectural decisions, constraints, quality goals, principles, domain concepts, integration rules, and system boundaries are relevant for AI agents working in a given codebase, and can assess which are missing.
 - Participants can evaluate different forms of representing architectural knowledge for agent consumption and assess their trade-offs in terms of precision, maintainability, and effectiveness.
 - Participants can select suitable representation forms, such as ADRs, architecture rules, context files, knowledge bases, retrieval indexes, diagrams-as-code, or structured constraints.

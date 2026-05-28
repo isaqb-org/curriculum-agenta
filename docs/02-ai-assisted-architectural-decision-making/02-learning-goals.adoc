@@ -24,7 +24,7 @@ In detail, participants:
 * can explain how these effects make it possible to establish a continuous, evidence based architecture process, and why this is a good thing.
 
 [[LG-2-2]]
-==== LG 2-2: Refine quality goals into architectural drivers (top-down)
+==== LG 2-2: Be able to refine quality goals into architectural drivers (top-down)
 
 Participants are able to decompose quality goals into concrete architectural drivers and use them to reason about the output of agentic development. They understand why it is important to handle these drivers and the resulting architectural decisions seperately and distinctively.
 In detail, participants: 
@@ -35,7 +35,7 @@ In detail, participants:
 * understand why it is important to have different concepts in the agentic workflow to handle architectural drivers & goals on one side and architectural decisions & concepts on the other side. 
 
 [[LG-2-3]]
-==== LG 2-3: Identify architectural / structural pain points (bottom-up)
+==== LG 2-3: Be able to identify architectural / structural pain points (bottom-up)
 
 Participants are able to identify architectural drivers and structural pain points by using a mixture of established tools and AI-assisted techniques. 
 
@@ -44,7 +44,7 @@ Participants are able to identify architectural drivers and structural pain poin
 * can use AI-assisted techniques to support bottom-up driver identification: AI-driven architecture reviews and structural assessments, consistency checks and quality assessments
 
 [[LG-2-4]]
-==== LG 2-4: Use AI for design exploration and architectural variant generation
+==== LG 2-4: Be able to use AI for design exploration and architectural variant generation
 
 Participants are able to use AI to support the exploration of architectural options. They understand why architectural drivers, constraints, existing decisions and architectural principles are important and for the generation of architectural variants.
 
@@ -53,7 +53,7 @@ Participants are able to use AI to support the exploration of architectural opti
 * Understanding the limits of AI-generated suggestions and the omnipresent nature of trade-offs in architectural decisions
 
 [[LG-2-5]]
-==== LG 2-5: Treat architectural decisions as testable hypotheses
+==== LG 2-5: Be able to treat architectural decisions as testable hypotheses
 
 Participants can formulate architectural decisions as hypotheses with explicit assumptions, expected quality effects, risks, and validation criteria. They can design lightweight experiments and use the results to support, revise, or reject architectural options.
 

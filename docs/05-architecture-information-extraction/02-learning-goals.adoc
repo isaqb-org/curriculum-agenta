@@ -20,7 +20,7 @@ tbd.
 
 // tag::EN[]
 [[LG-5-1]]
-==== LG 5-1: Distinguish as-is, to-be, human-facing, and agent-facing architecture documentation
+==== LG 5-1: Understand the difference between as-is, to-be, human-facing, and agent-facing architecture documentation
 
 Participants can distinguish key types of architecture documentation and understand the different role AI plays in creating and maintaining each. They understand that documents are a means to shared understanding, not an end in themselves — and that this principle applies especially in agentic contexts.
 
@@ -30,7 +30,7 @@ Participants can distinguish key types of architecture documentation and underst
 * Know that agent-facing documentation (e.g. as context for coding agents or AI-assisted workflows) has more options than traditional formats or templates, and that concise, machine-readable representations often outperform traditional documents
 
 [[LG-5-2]]
-==== LG 5-2: Maintain architectural decisions and documentation through agentic development loops
+==== LG 5-2: Understand how they maintain architectural decisions and documentation through agentic development loops
 
 Participants understand that agentic development loops continuously evolve the system architecture — often implicitly. They know how to accompany these loops with appropriate decision tracking and documentation practices that ensure traceability and human accountability without becoming a bottleneck.
 
@@ -43,7 +43,7 @@ Participants understand that agentic development loops continuously evolve the s
 * Know where to place human review checkpoints in agentic loops to ensure accountability for consequential architectural decisions is never fully delegated to the agent
 
 [[LG-5-3]]
-==== LG 5-3: Use AI and agents to extract architectural information from existing system parts
+==== LG 5-3: Know how to use AI and agents to extract architectural information from existing system parts
 
 Participants know how AI tools and agents can extract relevant architectural information from existing system artifacts. They understand what kinds of information can be recovered, which techniques are available, and how to validate and combine findings — including the strengths and limitations of each approach.
 
@@ -55,7 +55,7 @@ Participants know how AI tools and agents can extract relevant architectural inf
 * Identify gaps, inconsistencies, and uncertainties in recovered information, and validate findings using static/dynamic analysis tools, code inspection, and stakeholder communication
 
 [[LG-5-4]]
-==== LG 5-4: Generate architectural views from gathered architectural information
+==== LG 5-4: Understand how to generate architectural views from gathered architectural information
 
 Participants understand how AI can support the creation and ongoing maintenance of architectural views and documentation. They know how to combine AI-generated insights with static and dynamic analysis to derive accurate, up-to-date architectural representations.
 

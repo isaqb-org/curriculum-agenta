@@ -101,7 +101,7 @@ Participants can distinguish the following important disciplines in the context 
 * Participants can name concrete current practices in agentic engineering, such as Spec-Driven Development, Agent Swarms, Conversational Programming, and related workflows, and classify them within the autonomy spectrum.
 
 [[LG-1-6]]
-==== LG 1-6: Relate AI-supported and agentic engineering to classical software architecture work
+==== LG 1-6: Understand the Relation of AI-supported and agentic engineering to classical software architecture work
 
 * Participants know which activities are typically referred to as "architecture work" and understand that AI can effect these activities.
 * Participants can explain how AI assistants and agents can support core architecture activities, such as quality goal definition, decision documentation, and architecture reviews. They can identify which activities can be supported, accelerated, or partially automated by AI, and where human architectural judgment remains necessary.

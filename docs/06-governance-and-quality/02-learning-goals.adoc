@@ -56,13 +56,13 @@
 - Participants can decide for concrete initiatives when they must involve which internal and external stakeholders (e.g., data protection officer, information security) and can document the results in a way that is audit-ready and decision-ready.
 
 [[LG-6-2]]
-==== LG 6-2 Ensure traceability of AI-generated outputs and their context
+==== LG 6-2 Know how to Ensure traceability of AI-generated outputs and their context
 - Participants can explain what is meant by traceability of AI outputs and justify why this is important for quality assurance, incident analysis, governance, and auditability.
 - Participants can evaluate and weigh concrete measures to ensure traceability in a system context, in particular *structured logging*, *consistent referencing* of context artifacts, and *quoting & citation* as a mechanism for verifiable provenance of statements.
 - Participants can explain why versioning and observability are necessary for AI applications, and can name key components such as prompt/template versioning, model/configuration states, traceable changes, as well as logging, tracing, or monitoring.
 
 [[LG-6-3]]
-==== LG 6-3 Design consistent scaling of AI governance across teams and processes
+==== LG 6-3 Know how to Design consistent scaling of AI governance across teams and processes
 - Participants can classify and compare token-based billing models versus subscription/seat-based models and select a suitable governance and budgeting model for different team and use-case contexts.
 - Participants can consider dependency risks (vendor lock-in) and data sovereignty when selecting LLM providers and understand the importance of flexible options to switch providers.
 - Participants can explain why guardrails are important for agent and tool usage, and can describe how they can help reduce risks such as compliance violations, data leakage, or misuse.
@@ -74,13 +74,13 @@
 - Participants can identify and assess the most important drivers of energy and emissions impact in AI-assisted development (e.g., model size, multi-stage/agentic workflows) and create awareness of them within the organization.
 
 [[LG-6-5]]
-==== LG 6-5 Handle sensitive information securely, confidentially, and in compliance with data protection when using AI tools
+==== LG 6-5 Know how to handle sensitive information securely, confidentially, and in compliance with data protection when using AI tools
 - Participants can identify and classify sensitive information and decide what must not be shared with AI tools.
 - Participants can assess data flows and data retention of AI tool usage and identify key risks.
 - Participants can define team-appropriate rules for selecting and using AI tools in a secure and data-protection-compliant way.
 
 [[LG-6-6]]
-==== LG 6-6 Ensure the security of agent and tool integrations (prompt injection, tool misuse, sandboxing)
+==== LG 6-6 Know how to ensure the security of agent and tool integrations (prompt injection, tool misuse, sandboxing)
 - Participants are familiar with the OWASP LLM Top 10 and know which risks are relevant to agentic engineering (among others, prompt injection and tool misuse). They have also heard of the MITRE ATLAS knowledge base.
 - Participants can recognize prompt-injection attacks (direct and indirect) in agentic systems, explain the associated "confused deputy" risk, and derive requirements for robust prompt/context boundaries (e.g. clear separation of data and instructions, no trust in externally sourced content).
 - Participants are familiar with suitable measures to reduce these risks (e.g. least privilege, scoped credentials, explicit approvals / human-in-the-loop, monitoring).
