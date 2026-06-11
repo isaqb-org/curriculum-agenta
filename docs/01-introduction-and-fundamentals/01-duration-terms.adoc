@@ -18,7 +18,7 @@ Die Grundlagen schaffen bzw. wiederholen, die notwendig sind, um alle nachfolgen
 
 === Terms and Principles
 Definition of basic concepts, Artificial intelligence, Large Language Models, Prompt Engineering, Agents
-// end::EN[]
 
 === Goal of the chapter
 Establish and revisit the fundamentals necessary for understanding all subsequent topics in this curriculum. Help to bring along participants with no prior AI experience so that the chapters building on it become comprehensible.
+// end::EN[]
