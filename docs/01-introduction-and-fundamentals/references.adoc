@@ -2,8 +2,6 @@
 
 <<bass>>
 
-<<bachmann>>
-
 <<beck>>
 
 <<boeckelerspec>>
