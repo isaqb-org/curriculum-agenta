@@ -24,8 +24,6 @@
 
 <<rothman>>
 
-<<starke>>
-
 <<willisoncontext>>
 
 // tag::DE[]

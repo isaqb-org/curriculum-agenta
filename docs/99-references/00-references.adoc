@@ -9,23 +9,6 @@ Dieser Abschnitt enthält Quellenangaben, die ganz oder teilweise im Curriculum 
 This section contains references that are cited in the curriculum.
 // end::EN[]
 
-[NOTE]
-====
-Aufbau eines Eintrags-Ankers:
-```
-- [[[label,Text der erscheint]]]
-```
-ACHTUNG: Die Labels dürfen nur Buchstaben beinhalten, keine Zahlen oder Sonderzeichen
-
-= = =
-
-Structure of an anchor:
-```
-- [[[label,text that will be shown]]]
-```
-ATTENTION: labels have to be non-numeric.
-====
-
 **A**
 
 - [[[academiccodified,Academic 2025a]]] Academic (2025): "Codified Context: Infrastructure for AI Agents." arXiv
@@ -39,7 +22,6 @@ ATTENTION: labels have to be non-numeric.
 
 **B**
 
-- [[[bachmann,Bachmann et al. 2000]]] Bachmann, F., L. Bass, et al.: Software Architecture Documentation in Practice. Software Engineering Institute, CMU/SEI-2000-SR-004.
 - [[[bass,Bass et al. 2021]]] Bass, L., Clements, P. und Kazman, R. (2021): Software Architecture in Practice, 4th Edition. O'Reilly
 - [[[beck,Beck 2025]]] Beck, K. (2025): "Augmented Coding: Beyond the Vibes." Tidy First
 - [[[bishopfox,Bishop Fox 2025]]] Bishop Fox (2025): "Secure AI-Assisted Development: 15 Guardrails."
