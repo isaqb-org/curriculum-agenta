@@ -7,7 +7,7 @@ include::config/setup.adoc[]
 
 The international Software Architecture Qualification Board (link:https://isaqb.org[iSAQB]) defines curricula on several levels for software architects.
 
-The **Release Candidates** of the **{curriculum-name} [{curriculum-short}]** advanced level curriculum are currently maintained and published in both English (EN) and German (DE). Maintainers of this curriculum and voluntary reviewers collaborate on https://github.com/isaqb-org[GitHub] to improve the curriculum.
+The **Release Candidates** of the **{curriculum-name} [{curriculum-short}]** advanced level curriculum are currently maintained and published only in English (EN). Maintainers of this curriculum and voluntary reviewers collaborate on https://github.com/isaqb-org[GitHub] to improve the curriculum.
 
 == Current Release Candidate {release-version}
 
@@ -20,8 +20,8 @@ image:https://img.shields.io/github/commits-since/isaqb-org/{repo-name}/latest.s
 | Version | HTML | PDF
 
 | German
-| link:{curriculumFileName}-de.html[HTML]
-| link:{curriculumFileName}-de.pdf[PDF]
+| aktuell nicht verfügbar
+| aktuell nicht verfügbar
 
 | English
 | link:{curriculumFileName}-en.html[HTML]
