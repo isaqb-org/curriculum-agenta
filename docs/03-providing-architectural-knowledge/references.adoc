@@ -1,32 +1,6 @@
 === {references}
 
-<<academiccodified>>
-
-<<academicsurvey>>
-
-<<anthropiceffective>>
-
-<<anthropicmcp>>
-
-<<boeckeleranchoring>>
-
-<<boeckelercontext>>
-
-<<boeckelerpodcast>>
-
-<<hargis>>
-
-<<karpathycontext>>
-
-<<langchain>>
-
-<<marco>>
-
-<<rothman>>
-
-<<starke>>
-
-<<willisoncontext>>
+<<academiccodified>>, <<academicsurvey>>, <<anthropiceffective>>, <<anthropicmcp>>, <<boeckeleranchoring>>, <<boeckelercontext>>, <<boeckelerpodcast>>, <<hargis>>, <<karpathycontext>>, <<langchain>>, <<marco>>, <<rothman>>, <<starke>>, <<willisoncontext>>
 
 // tag::DE[]
 // silence asciidoctor warnings
