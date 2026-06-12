@@ -1,6 +1,6 @@
 === {references}
 
-<<bass>>, <<bachmann>>, <<beck>>, <<boeckelerspec>>, <<boeckelertovibe>>, <<brown>>,
+<<bass>>, <<beck>>, <<boeckelerspec>>, <<boeckelertovibe>>, <<brown>>,
 <<karpathyreview>>, <<kruchten>>, <<park>>, <<raschka>>, <<starke>>, <<willisonagentic>>
 
 // tag::DE[]
