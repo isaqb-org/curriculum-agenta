@@ -107,7 +107,7 @@ This section contains references that are cited in the curriculum.
 
 **S**
 
-- [[[starke,Starke 2011]]] Starke, G. (2011): Effektive Software-Architekturen - Ein praktischer Leitfaden. 5. Auflage 2011, Carl Hanser Verlag, München.
+- [[[starke,Starke 2024]]] Starke, G. (2011): Effektive Software-Architekturen – Ein praktischer Leitfaden. 10. Auflage 2024, Carl Hanser Verlag, München.
 
 **T**
 
