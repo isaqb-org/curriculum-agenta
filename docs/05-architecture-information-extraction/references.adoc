@@ -1,6 +1,6 @@
 === {references}
 
-<<boeckelerexploring>>, <<equalexperts>>, <<marco>>, <<newman>>, <<nygard>>, <<sbrown>>, <<zoerner>>
+ <<equalexperts>>, <<marco>>, <<newman>>, <<nygard>>, <<sbrown>>, <<zoerner>>
 
 // tag::DE[]
 // silence asciidoctor warnings

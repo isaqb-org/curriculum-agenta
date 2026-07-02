@@ -11,10 +11,8 @@ This section contains references that are cited in the curriculum.
 
 **A**
 
-// TODO(review): placeholder author "Academic" replaced with the real, verified author. Year corrected 2025 -> 2026 (arXiv submission date).
 - [[[academiccodified,Vasilopoulos 2026]]] Vasilopoulos, A. (2026): "Codified Context: Infrastructure for AI Agents in a Complex Codebase." arXiv:2602.20478. https://arxiv.org/abs/2602.20478
 - [[[academicsurvey,Mei et al. 2025]]] Mei, L. et al. (2025): "A Survey of Context Engineering for Large Language Models." arXiv:2507.13334. https://arxiv.org/abs/2507.13334
-// TODO(review): original URL (ai-act-service-desk.ec.europa.eu) is a genuine EU Commission compliance-help portal, not the legal text itself. Primary link switched to EUR-Lex (the official regulation text); restore the service-desk link instead if the curriculum intends to point learners at the practical compliance tool rather than the statute.
 - [[[aiact,AI Act 2024]]] EU AI Act — Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence. Official Journal of the EU, 12 July 2024. https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng
 - [[[anthropicagentic,Anthropic 2026]]] Anthropic (2026): "2026 Agentic Coding Trends Report: How Coding Agents Are Reshaping Software Development." resources.anthropic.com. https://resources.anthropic.com/2026-agentic-coding-trends-report
 - [[[anthropiceffective,Anthropic 2025a]]] Anthropic (2025): "Effective context engineering for AI agents." anthropic.com/engineering, 29 September 2025. https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents
@@ -39,19 +37,9 @@ Specification and documentation: modelcontextprotocol.io. https://modelcontextpr
 - [[[boeckelercontext,Boeckeler 2026a]]] Böckeler, B. (2026): "Context Engineering for Coding Agents." martinfowler.com, 5 February 2026. https://martinfowler.com/articles/exploring-gen-ai/context-engineering-coding-agents.html
 - [[[boeckelerharness,Boeckeler 2026b]]] Böckeler, B. (2026): "Harness engineering for coding agent users." martinfowler.com, 2 April 2026. https://martinfowler.com/articles/harness-engineering.html
 
-// TODO(review): the original entry names four sub-topics.
-// Only two could be confirmed as Böckeler pieces on martinfowler.com (listed below).
-// "AI-assisted reverse engineering" closest match is Böckeler's "Blackbox reverse engineering..."
-// on thoughtworks.com (not part of this martinfowler.com series). "Modernizing Bahmni" could not be confirmed under her authorship at all — the closest martinfowler.com piece on Bahmni ("Research, Review, Rebuild") is by Rahul Ramesh, not Böckeler. Please verify original intent before publishing; consider splitting into separate, correctly attributed entries.
-- [[[boeckelerexploring,Boeckeler 2024]]] Böckeler, B. (2024): "Exploring Generative AI" series, martinfowler.com: "Onboarding to a 'legacy' codebase with the help of AI" (15 August 2024, https://martinfowler.com/articles/exploring-gen-ai/09-ai-help-onboarding-codebase.html) and "Building an AI agent application to migrate a tech stack" (20 August 2024, https://martinfowler.com/articles/exploring-gen-ai/10-ai-for-tech-stack-migration.html)
-
-// TODO(review): year range corrected from "2024–2025" to 2025 (confirmed air date);
-// guest name spelling corrected to "Chandirasekar Thiagarajan."
 - [[[boeckelerpodcast,Boeckeler and Thiagarajan 2025]]] Böckeler, B. & Thiagarajan, C. (2025): "Context engineering: Tackling legacy systems with generative AI." ThoughtWorks Technology Podcast, 21 August 2025. https://www.thoughtworks.com/insights/podcasts/technology-podcasts/context-engineering-tackling-legacy-systems-generative-ai
 - [[[brown,Brown et al. 2020]]] Brown, T. B. et al. (2020): "Language Models are Few-Shot Learners." arXiv:2005.14165. https://arxiv.org/abs/2005.14165
 
-// TODO(review): original entry listed "The C4 Model" as the author name — corrected to the actual author, Simon Brown.
-// no connection to AGENTA module, remove
 - [[[sbrown,Brown 2026]]] Brown, S. (2026): The C4 Model: Visualizing Software Architecture. O'Reilly Media. ISBN 979-8-3416-6011-3. https://www.oreilly.com/library/view/the-c4-model/9798341660113/
 
 **C**
@@ -60,30 +48,22 @@ Specification and documentation: modelcontextprotocol.io. https://modelcontextpr
 - [[[clements,Clements et al. 2003]]] Clements, P., Bachmann, F., Bass, L., Garlan, D., Ivers, J. et al. (2003): Documenting Software Architectures – Views and Beyond. Addison-Wesley Professional. ISBN 978-0-201-70372-6. https://www.informit.com/store/documenting-software-architectures-views-and-beyond-9780201703726
 
 **E**
-
-// TODO(review): year corrected from 2024 to 2025 (confirmed publish date).
-// Byline corrected from generic "Equal Experts" to the individually credited authors — revert to organizational attribution if that better matches house style.
-// imho (Gernot's opinion) overly trivial content, could be removed
 https://www.equalexperts.com/blog/our-thinking/accelerating-architectural-decision-records-adrs-with-generative-ai
 **F**
 
-// TODO(review): O'Reilly's own catalog lists a November 2022 release for the 2nd edition; some retailers show a 2023 print/copyright date. Kept as originally cited — verify intended year. Full subtitle added ("Automated Software Governance").
 - [[[ford,Ford et al. 2023]]] Ford, N., Parsons, R., Kua, P. & Sadalage, P. (2023): Building Evolutionary Architectures: Automated Software Governance. 2nd Edition. O'Reilly Media. https://www.oreilly.com/library/view/building-evolutionary-architectures/9781492097532/
 - [[[fowlerabstraction,Fowler 2025a]]] Fowler, M. (2025): "LLMs bring new nature of abstraction." martinfowler.com, 24 June 2025. https://martinfowler.com/articles/2025-nature-abstraction.html
 - [[[fowlerthoughts,Fowler 2025b]]] Fowler, M. (2025): "Some thoughts on LLMs and Software Development." martinfowler.com, 28 August 2025. https://martinfowler.com/articles/202508-ai-thoughts.html
 
 **G**
 
-// TODO(review): title was truncated .
 - [[[gitclear,GitClear 2025]]] GitClear (2025): "AI Copilot Code Quality: 2025 Data Suggests 4x Growth in Code Clones." gitclear.com. https://www.gitclear.com/ai_assistant_code_quality_2025_research
 
-// TODO(review): author initials were wrong in the original entry — corrected to the real authors, Jim Gumbley and Lilly Ryan.
 - [[[gumbley,Gumbley and Ryan 2025]]] Gumbley, J. & Ryan, L. (2025): "Coding Assistants Threaten the Software Supply Chain." martinfowler.com, 13 May 2025. https://martinfowler.com/articles/exploring-gen-ai/software-supply-chain-attack-surface.html
 
 **H**
 
-// TODO(review): title was missing its leading word ("Developing") — corrected to match the publisher's listing. There is also a 3rd edition (2014, ISBN 978-0-13-311897-1) with a smaller author list — confirm which edition is intended; this entry matches the 2nd edition (2004).
-// no connection to module content, remove
+// TODO: no connection to module content, remove
 - [[[hargis,Hargis et al. 2004]]] Hargis, G., Carey, M., Hernandez, A. K., Hughes, P., Longo, D., Rouiller, S. & Wilde, E. (2004): Developing Quality Technical Information: A Handbook for Writers and Editors. 2nd Edition. IBM Press / Prentice Hall. ISBN 978-0-13-147749-0. https://www.informit.com/store/developing-quality-technical-information-a-handbook-9780131477490
 
 // TODO as much as I admire Gregors writings, the elevator seems not adequate for this module, remove
@@ -107,21 +87,16 @@ Quoted in: Willison, S., "Context engineering," simonwillison.net, 27 June 2025 
 
 **L**
 
-// TODO(review): removed "(W-S-C-I framework)" — that acronym does not appear in the source article; replaced with the four strategies it actually names (write, select, compress, isolate).
 - [[[langchain,LangChain 2025]]] LangChain (2025): "Context Engineering for Agents." langchain.com, 2 July 2025. https://www.langchain.com/blog/context-engineering-for-agents (four strategies: write, select, compress, isolate)
 
 // TODO(review): no independent Letcher publication could be found. Full name is Ned Letcher; this is an oral/personal-communication credit inside the Böckeler article, not a standalone citable source. Consider merging into boeckelerharness or removing this as a separate bibliography entry.
 - [[[letcher,Letcher 2026]]] Letcher, N. (2026): Term "ambient affordances" (personal communication), cited in: Böckeler, B. (2026), "Harness engineering for coding agent users," martinfowler.com (see <<boeckelerharness>>)
 - [[[lopopolo,Lopopolo 2026]]] Lopopolo, R. (2026): "Harness engineering: leveraging Codex in an agent-first world." openai.com, 11 February 2026. https://openai.com/index/harness-engineering/
 
-// TODO(review): full author name is Eden Marco (initial "E." expanded); subtitle added.
 - [[[marco,Marco 2026]]] Marco, E. (2026): Agentic Coding with Claude Code: The Everyday Developer's Guide to Agentic Coding with Claude Code. Packt, 27 March 2026. https://www.packtpub.com/en-us/product/agentic-coding-with-claude-code-9781806022595
 
 **M**
 
-// TODO(review): the paper's first author is Kelson Silva, not Melegati (Melegati is 2nd author).
-// Author order corrected below; the "melegati" anchor id is kept unchanged since it is referenced elsewhere in the curriculum — confirm whether foregrounding Melegati specifically was an intentional editorial choice.
-- [[[melegati,Melegati et al. 2025]]] Silva, K., Melegati, J., Silveira, F., Wang, X., Ferreira, M. & Guerra, E. (2025): "ArchHypo: Managing Software Architecture Uncertainty Using Hypotheses Engineering." IEEE Transactions on Software Engineering, 51(2), pp. 430-448. DOI: 10.1109/TSE.2024.3520477. https://doi.org/10.1109/TSE.2024.3520477
 - [[[mitre,MITRE ATLAS 2026]]] MITRE ATLAS™ (2026): Adversarial Threat Landscape for Artificial-Intelligence Systems — a knowledge base of adversarial AI tactics and techniques. https://atlas.mitre.org/
 - [[[morris,Morris 2026]]] Morris, K. (2026): "Humans and Agents in Software Engineering Loops." martinfowler.com, 4 March 2026. https://martinfowler.com/articles/exploring-gen-ai/humans-and-agents.html
 
@@ -132,14 +107,9 @@ Quoted in: Willison, S., "Context engineering," simonwillison.net, 27 June 2025 
 
 **O**
 
-// TODO(review): year corrected from 2025 to 2026 (confirmed publish date, 9 April 2026). Authors identified as Neal Ford & Mark Richards.
 - [[[oreillycode,OReilly 2026a]]] Ford, N. & Richards, M. (2026): "Architecture as Code to Teach Humans and Agents About Architecture." O'Reilly Radar, 9 April 2026. https://www.oreilly.com/radar/architecture-as-code-to-teach-humans-and-agents-about-architecture/
 - [[[oreillygov,OReilly 2025b]]] Ford, N. & Richards, M. (2025): "How Agentic AI Empowers Architecture Governance." O'Reilly Radar, 19 November 2025. https://www.oreilly.com/radar/how-agentic-ai-empowers-architecture-governance/
-
-// TODO(review): OWASP has folded this project into the broader "OWASP GenAI Security Project";
-// the current Top-10 list itself is now published at https://genai.owasp.org/llm-top-10/. Kept the original owasp.org project page (still live) as primary.
-// switch if house style prefers the newer domain.
-- [[[owaspllm,OWASP 2026]]] OWASP (2026): "OWASP Top 10 for Large Language Model Applications" (now part of the OWASP GenAI Security Project). https://owasp.org/www-project-top-10-for-large-language-model-applications/ (current list: https://genai.owasp.org/llm-top-10/)
+- [[[owaspllm,OWASP 2026]]] OWASP (2026): "OWASP Top 10 for LLM Applications" . https://genai.owasp.org/llm-top-10/ 
 
 **P**
 
@@ -154,12 +124,11 @@ Quoted in: Willison, S., "Context engineering," simonwillison.net, 27 June 2025 
 
 // TODO (remove): I'm the author, but that book is not helpful for AGENTA
 - [[[starke,Starke 2024]]] Starke, G. (2002): Effektive Softwarearchitekturen – Ein praktischer Leitfaden. 10. Auflage 2024, Carl Hanser Verlag, München. ISBN 978-3-446-47672-1. https://www.hanser-fachbuch.de/Effektive-Softwarearchitekturen/978-3-446-47672-1
+- [[[silva,Silva et al. 2025]]] Silva, K., Melegati, J., Silveira, F., Wang, X., Ferreira, M. & Guerra, E. (2025): "ArchHypo: Managing Software Architecture Uncertainty Using Hypotheses Engineering." IEEE Transactions on Software Engineering, 51(2), pp. 430-448. DOI: 10.1109/TSE.2024.3520477. https://doi.org/10.1109/TSE.2024.3520477
 
 **T**
 
 - [[[toche,Toche et. al. 2020]]] Toche, B., Pellerin, R. & Fortin, C. (2020): "Set-based design: a review and new directions." Design Science, vol. 6, e18. Cambridge University Press. DOI: 10.1017/dsj.2020.16. https://doi.org/10.1017/dsj.2020.16
-
-// TODO (remove) sorry Stefan, also your book seems not specific enough for AGENTA
 - [[[toth,Toth 2025]]] Toth, S. (2025): Vorgehensmuster für Softwarearchitektur - Kombinierbare Praktiken in Zeiten von Agile und Lean. 4. Auflage 2025, Carl Hanser Verlag, München. ISBN 978-3-446-47993-7. https://www.hanser-fachbuch.de/Vorgehensmuster-fuer-Softwarearchitektur/978-3-446-47993-7
 
 **V**
@@ -168,12 +137,8 @@ Quoted in: Willison, S., "Context engineering," simonwillison.net, 27 June 2025 
 
 **W**
 
-// TODO(review): year corrected from 2025 to 2026. This is a living/evolving guide rather than a single dated post — cited the guide URL with its announcement post as a fixed reference point.
-- [[[willisonagentic,Willison 2026a]]] Willison, S. (2026): "Agentic Engineering Patterns." simonwillison.net. https://simonwillison.net/guides/agentic-engineering-patterns/ (announced 23 February 2026: https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/)
+- [[[willisonagentic,Willison 2026a]]] Willison, S. (2026): "Agentic Engineering Patterns." simonwillison.net. https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/
 - [[[willisoncontext,Willison 2025b]]] Willison, S. (2025): "Context engineering." simonwillison.net, 27 June 2025. https://simonwillison.net/2025/Jun/27/context-engineering/
-
-// TODO(review): original entry was a vague catch-all ("Various writings").
-// Tightened to a dated, specific key post plus the tag archive for broader context — reconsider scope if a different post was originally intended.
 - [[[willisoninjection,Willison Various]]] Willison, S.: Writings on prompt injection and the lethal trifecta. Tag archive (150+ posts, 2022–present): https://simonwillison.net/tags/prompt-injection/ +
 Key post: Willison, S. (2025): "The lethal trifecta for AI agents: private data, untrusted content, and external communication." simonwillison.net, 16 June 2025. https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/
 
@@ -183,5 +148,4 @@ Key post: Willison, S. (2025): "The lethal trifecta for AI agents: private data,
 
 **Z**
 
-// TODO(remove): Sorry, other Stefan, no connection to AGENTA, remove
 - [[[zoerner,Zörner 2021]]] Zörner, S. (2021): Software-Architekturen dokumentieren und kommunizieren. Entwürfe, Entscheidungen und Lösungen nachvollziehbar und wirkungsvoll festhalten. 3. Auflage, Carl Hanser Verlag, München. ISBN 978-3-446-46928-0. https://www.hanser-fachbuch.de/fachbuch/artikel/9783446469280
