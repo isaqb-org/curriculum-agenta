@@ -50,7 +50,7 @@ Participants know how AI tools and agents can extract relevant architectural inf
 * Summarize and analyze available system artifacts: source code, deployment descriptors, configuration, tests, and interfaces
 * Interpret structural information from code, repositories, interfaces, and dependency graphs; combine findings into usable representations such as knowledge graphs or structure models, and keep them continuously up-to-date
 * Combine AI-generated insights with traditional static and dynamic analysis to improve accuracy and coverage
-* Detect technologies and frameworks using code property graphs (e.g. Joern) or AI coding agents; recognize recurring architectural and design patterns in a domain-informed way; relate findings to architectural structures and modernization concerns
+* Detect technologies and frameworks using code property graphs (e.g. Joern, see <<joern>>) or AI coding agents; recognize recurring architectural and design patterns in a domain-informed way; relate findings to architectural structures and modernization concerns
 * Extract candidate business rules from code, tests, and configuration; relate them to documented domain concepts and business processes; prepare them for validation with domain experts and stakeholders
 * Identify gaps, inconsistencies, and uncertainties in recovered information, and validate findings using static/dynamic analysis tools, code inspection, and stakeholder communication
 

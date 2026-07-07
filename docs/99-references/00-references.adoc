@@ -59,6 +59,8 @@ https://www.equalexperts.com/blog/our-thinking/accelerating-architectural-decisi
 
 - [[[gitclear,GitClear 2025]]] GitClear (2025): "AI Copilot Code Quality: 2025 Data Suggests 4x Growth in Code Clones." gitclear.com. https://www.gitclear.com/ai_assistant_code_quality_2025_research
 
+- [[[gudomain,Gu et al. 2025]]] Gu, X., Chen, M., Lin, Y., Hu, Y., Zhang, H., Wan, C., Wei, Z., Xu, Y. & Wang, J. (2025): "On the Effectiveness of Large Language Models in Domain-Specific Code Generation." ACM Transactions on Software Engineering and Methodology (TOSEM). DOI: 10.1145/3697012. https://doi.org/10.1145/3697012 (preprint: https://arxiv.org/abs/2312.01639)
+
 - [[[gumbley,Gumbley and Ryan 2025]]] Gumbley, J. & Ryan, L. (2025): "Coding Assistants Threaten the Software Supply Chain." martinfowler.com, 13 May 2025. https://martinfowler.com/articles/exploring-gen-ai/software-supply-chain-attack-surface.html
 
 **H**
@@ -72,6 +74,11 @@ https://www.equalexperts.com/blog/our-thinking/accelerating-architectural-decisi
 **I**
 
 - [[[infoq,InfoQ 2025]]] Holliday, D., Gonçalves, J. C. & Yadav, M. K. (2025): "Where Architects Sit in the Era of AI." infoq.com, 19 December 2025. https://www.infoq.com/articles/architects-ai-era/
+
+**J**
+
+- [[[joern,Joern]]] Joern — The Bug Hunter's Workbench: an open-source platform for static code analysis based on code property graphs (CPGs), supporting multiple languages. https://joern.io +
+Documentation: https://docs.joern.io — Source: https://github.com/joernio/joern
 
 **K**
 

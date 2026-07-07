@@ -19,7 +19,7 @@ Participants understand the phases of an architectural decision lifecycle, from 
 In detail, participants: 
 
 * understand the phases of the decision lifecycle: problem identification, option exploration, (in)validation of alternatives, decision making, decision establishment, deprecation, and iteration
-* understand the effect of agentic engineering: It accelerates exploration and (prototype) development, and - paired with continuous validation - increases decision cycle frequency
+* understand the effect of agentic engineering: It can accelerate exploration and (prototype) development, and - paired with continuous validation - can increase decision cycle frequency
 * understand that it is important to establish feedback loops from development, testing, and operations into ongoing architectural reasoning
 * can explain how these effects make it possible to establish a continuous, evidence based architecture process, and why this is a good thing.
 
@@ -55,7 +55,7 @@ Participants are able to use AI to support the exploration of architectural opti
 [[LG-2-5]]
 ==== LG 2-5: Be able to treat architectural decisions as testable hypotheses
 
-Participants can formulate architectural decisions as hypotheses with explicit assumptions, expected quality effects, risks, and validation criteria. They can design lightweight experiments and use the results to support, revise, or reject architectural options.
+Participants can formulate architectural decisions as hypotheses with explicit assumptions, expected impact on the system's quality characteristics, risks, and validation criteria. They can design lightweight experiments and use the results to support, revise, or reject architectural options.
 
 * Framing architectural decisions as hypotheses with assumptions, expected outcomes, and measurable criteria for validation or invalidation.
 * Replacing potentially existing meeting-based approaches for architectural design with experimental loops
@@ -70,7 +70,7 @@ Participants understand the limitations of AI in architectural reasoning and the
 
 * Known risks include model-inherent aspects that need attention: hallucinations, bias, sensitivity to prompt structure and instruction ordering, differences in context effectiveness, potentially sponsored technologies, ...
 * Participants know the value and risks of switching models during a decision process
-* Participants are able to define review checkpoints and know how to maintain human responsibility over consequential architectural decisions
+* Participants are able to define review checkpoints and know how to maintain human responsibility over consequential architectural decisions by enforcing these checkpoints and using additional methods (e.g., setting boundaries for agentic decisions, enforcing guardrails)
 
 [[LG-2-7]]
 ==== LG 2-7: Be able to shift architectural work from implementation to orchestration

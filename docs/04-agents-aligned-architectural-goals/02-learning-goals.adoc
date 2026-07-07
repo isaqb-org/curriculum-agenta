@@ -6,12 +6,13 @@
 - Die Teilnehmer können erklären, warum KI-Agenten ohne explizite Leitplanken dazu neigen, Architekturentscheidungen zu verletzen, technische Schulden aufzubauen und Inkonsistenzen einzuführen.
 - Die Teilnehmer können die Faktoren beschreiben, die das Verhalten eines KI-Agenten bestimmen, z.B. Kontext und Tools. Sie können Stellen identifizieren, an denen Architekten am wirksamsten eingreifen können.
 - Die Teilnehmer verstehen, wie bereitgestelltes Architekturwissen das Verhalten von Agenten einschränkt. Sie können erklären, warum Wissen (z.B. im Kontext von Agenten) allein nicht ausreicht.
+- Die Teilnehmer verstehen, dass explizite architekturelle Leitplanken die Evolvierbarkeit behindern können und daher eine temporäre, "versinkende" Investition sind — sie werden nur gepflegt, bis Modelle und Agenten die Kontrollen zuverlässig selbst durchsetzen können, und mit wachsenden Fähigkeiten wieder abgebaut.
 
 [[LZ-4-2]]
 ==== LZ 4-2: Mechanismen entwerfen können, die Architekturentscheidungen gegenüber KI-generiertem Code durchsetzen
 - Die Teilnehmer können präventive und detektive Leitplanken entwerfen, die KI-Agenten innerhalb architektureller Grenzen halten.
 - Die Teilnehmer können die Trade-Offs zwischen verschiedenen Arten von Leitplanken beurteilen, insbesondere zwischen Präzision und Abdeckung sowie zwischen Geschwindigkeit und Analysetiefe.
-- Die Teilnehmer können geeignete Leitplanken für verschiedene Arten architektureller Belange auswählen (z.B. strukturelle Regeln, Qualitätsattribute) und erklären, warum manche Belange schwerer durchzusetzen sind als andere.
+- Die Teilnehmer können geeignete Leitplanken für verschiedene architekturelle Belange auswählen (z.B. strukturelle Regeln, Qualitätsattribute) und erklären, warum manche schwerer durchzusetzen sind als andere — atomare strukturelle Regeln erlauben schnelle, deterministische Prüfungen, während holistische Qualitätsattribute wie Wartbarkeit oder Benutzbarkeit nur schwer automatisiert prüfbares, holistisches Feedback liefern (vgl. atomare vs. holistische Fitness Functions).
 
 [[LZ-4-3]]
 ==== LZ 4-3: Entscheiden können, an welcher Stelle im Entwicklungsprozess architekturelle Leitplanken greifen sollen
@@ -37,13 +38,13 @@
 - Participants can explain why AI agents, without explicit constraints, tend to produce work that violates architectural decisions, accumulates technical debt, and introduces inconsistencies.
 - Participants can describe the factors that determine an AI agent's behavior (e.g. context and tools) and identify where architects can intervene most effectively.
 - Participants understand the relationship between providing architectural knowledge to agents and constraining agent behavior, and can explain why knowledge alone (e.g. in agent's context) is insufficient.
-- Participants understand that explicit archirectural controls should only be built and maintained as long as the model itself is not able to reliably perform the controls itself.
+- Participants understand that explicit architectural controls can hinder evolvability and are therefore a temporary, "sinking" investment — maintained only until models and agents can reliably enforce the controls themselves, and reduced as their capabilities grow.
 
 [[LG-4-2]]
 ==== LG 4-2: Be able to design a harness that enforces architectural decisions on AI-generated work
 - Participants can design preventive and detective controls that work together to keep AI agents within architectural boundaries and aligned with architectural decisions, quality goals, and system constraints.
 - Participants can assess the trade-offs between different types of enforcement mechanisms, in particular the trade-off between precision and coverage, and between speed and depth of analysis.
-- Participants can select appropriate enforcement mechanisms for different kinds of architectural concerns (e.g., structural rules, quality attributes) and can explain why some concerns are harder to enforce than others.
+- Participants can select appropriate enforcement mechanisms for different architectural concerns (e.g., structural rules, quality attributes) and can explain why some are harder to enforce than others — atomic structural rules allow fast, deterministic checks, whereas holistic quality attributes like maintainability or usability yield only holistic feedback that is hard to obtain automatically (cf. atomic vs. holistic fitness functions).
 - Participants know about examples for enforcement mechanisms, such as architecture tests, static analysis, linters, dependency rules, policy checks, review gates, sandboxing, and manual approval workflows.
 
 [[LG-4-3]]
