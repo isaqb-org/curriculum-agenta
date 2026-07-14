@@ -31,7 +31,7 @@ tbd.
 - Participants understand that agent decisions are shaped by available context and by both biases in training data (e.g. weighting toward particular vendors, frameworks, or stacks) and biasas in existing artifacts of the own organization, and can identify situations in which such biases distort architectural choices.
 - Participants can distinguish AI-supported reasoning from delegated decision-making.
 - Participants can identify which architecture activities must remain human-owned and knows that this might change in the future.
-- Participants knows that shared terminology and a consistent domain vocabulary (e.g. a domain glossary, ubiquitous language) as anchors that make agent decisions more predictable and aligned with the system's design.
+- Participants know that shared terminology and a consistent domain vocabulary (e.g. a domain glossary, ubiquitous language) act as anchors that make agent decisions more predictable and aligned with the system's design (see <<gudomain>>).
 - Participants know about indicators for whether teams are improving architectural capability, not only producing faster outputs and the goal is to maximaze outcome and impact for the user rather then output (avoiding what's increasingly called 'AI slop')
 
 [[LG-7-3]]

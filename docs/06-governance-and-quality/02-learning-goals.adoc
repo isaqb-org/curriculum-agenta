@@ -5,6 +5,7 @@
 [[LZ-6-1]]
 ==== LZ 6-1: Rechtliche Rahmenbedingungen beim Einsatz von KI-Tools verstehen, einordnen und in der Organisation richtig adressieren
 - Die Kursteilnehmenden können Copyright-Problematiken wie beispielsweise Copyleft-Lizenzen erklären und beurteilen, welche Pflichten (z.B. Lizenzhinweise, Bereitstellung von Quelltext bei Weitergabe abgeleiteter Werke) beim Einsatz, der Anpassung und insbesondere bei der Verteilung von Software/Artefakten im KI-Kontext entstehen können.
+- Die Kursteilnehmenden sind sich der daraus resultierenden rechtlichen Risiken bewusst und verstehen, dass ein KI-gestützter Architekturprozess Kontrollen und Prozesse etablieren muss, die den generierten Code und die Artefakte vor Copyright-bezogenen Haftungsrisiken schützen.
 - Die Kursteilnehmenden können beim Einsatz von KI-Tools datenschutzrechtlich prüfen, ob und welche personenbezogenen Daten verarbeitet werden, die Rollen und Verantwortlichkeiten (Verantwortlicher/Auftragsverarbeiter) einordnen und ableiten, wann vertragliche Anforderungen zu klären sind. 
 - Die Kursteilnehmenden können den EU AI Act in seinen Grundzügen (Rollen, Risiko-Logik, stufenweise Geltung) auf typische KI-Tool-Szenarien übertragen und den zeitlichen Anwendungsfahrplan mit Schlüsseldaten erklären.
 - Die Kursteilnehmenden können für konkrete Vorhaben entscheiden, wann sie welche internen und externen Stellen einbinden müssen (z.B. Datenschutzbeauftragte/r, Informationssicherheit) und können die Ergebnisse so dokumentieren, dass sie audit- und entscheidungsfähig sind.
@@ -51,6 +52,7 @@
 [[LG-6-1]]
 ==== LG 6-1: Understand, classify, and properly address the legal framework conditions when using AI tools in the organization
 - Participants can explain copyright issues such as copyleft licenses and assess which obligations may arise when using, adapting, and especially distributing software/artifacts in an AI context.
+- Participants are aware of the resulting legal risks and understand that an AI-augmented architectural process needs to establish controls and processes that shield the generated code and artifacts from copyright-related liabilities.
 - Participants can, when using AI tools, check from a data protection perspective whether and which personal data are processed, classify roles and responsibilities (controller/processor), and derive when contractual requirements must be clarified.
 - Participants can apply the EU AI Act in its basic features (roles, risk logic, phased applicability) to typical AI tool scenarios and explain the timeline for application with key dates.
 - Participants can decide for concrete initiatives when they must involve which internal and external stakeholders (e.g., data protection officer, information security) and can document the results in a way that is audit-ready and decision-ready.

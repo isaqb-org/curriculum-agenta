@@ -1,6 +1,6 @@
 === {references}
 
-<<anthropicagentic>>, <<boeckelerrole>>, <<fowlerabstraction>>, <<fowlerthoughts>>, <<hohpe>>, <<infoq>>, <<kimdora>>, <<kimspear>>, <<morris>>
+<<anthropicagentic>>, <<boeckelerrole>>, <<fowlerabstraction>>, <<fowlerthoughts>>, <<gudomain>>, <<hohpe>>, <<infoq>>, <<kimdora>>, <<kimspear>>, <<morris>>
 
 // tag::DE[]
 // silence asciidoctor warnings
