@@ -1,6 +1,6 @@
 === {references}
 
-<<anthropicharness>>, <<ashby>>, <<boeckelerharness>>, <<ford>>, <<gitclear>>, <<kruchten>>, <<letcher>>, <<lopopolo>>, <<morris>>, <<oreillycode>>
+<<anthropicharness>>, <<ashby>>, <<boeckelerharness>>, <<ford>>, <<gitclear>>, <<lopopolo>>, <<morris>>, <<oreillycode>>
 
 // tag::DE[]
 // silence asciidoctor warnings

@@ -1,7 +1,7 @@
 === {references}
 
-<<bass>>, <<beck>>, <<boeckelerspec>>, <<boeckelertovibe>>, <<brown>>,
-<<karpathyreview>>, <<kruchten>>, <<park>>, <<raschka>>, <<starke>>, <<willisonagentic>>
+<<bass>>, <<beck>>, <<boeckelerspec>>, <<boeckelertovibe>>, <<brown>>, <<feng>>
+<<karpathyreview>>, <<park>>, <<raschka>>, <<starke>>, <<willisonagentic>>, <<jahic>>, <<ouyang>>
 
 // tag::DE[]
 // silence asciidoctor warnings

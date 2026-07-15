@@ -1,6 +1,6 @@
 === {references}
 
-<<bass>>, <<clements>>, <<silva>>, <<toche>>, <<toth>>, <<yao>>
+<<bass>>, <<cui>>, <<dhar>>, <<diaz-pace>>, <<dieste>>, <<silva>>, <<toche>>, <<toth>>, <<wohlin>>, <<yao>>
 
 // tag::DE[]
 // silence asciidoctor warnings
