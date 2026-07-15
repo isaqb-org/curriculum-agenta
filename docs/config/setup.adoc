@@ -15,11 +15,11 @@
 :curriculum-short: AGENTA
 
 ifeval::["{language}" == "DE"]
-:curriculum-name: Architektur für Agentic Engineering Kontexte
+:curriculum-name: Architektur im Kontext Agentischer Softwareentwicklung
 :curriculum-header-title: iSAQB-Curriculum für Advanced Level: {curriculum-short}
 endif::[]
 
 ifeval::["{language}" == "EN"]
-:curriculum-name: Architecture for Agentic Engineering Contexts
+:curriculum-name: Architecture for Agentic Software Engineering Contexts
 :curriculum-header-title: iSAQB curriculum for Advanced Level: {curriculum-short}
 endif::[]

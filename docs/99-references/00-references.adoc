@@ -65,7 +65,7 @@ Specification and documentation: modelcontextprotocol.io. https://modelcontextpr
 
 **I**
 
-- [[[infoq,InfoQ 2025]]] Holliday, D., Gonçalves, J. C. & Yadav, M. K. (2025): "Where Architects Sit in the Era of AI." infoq.com, 19 December 2025. https://www.infoq.com/articles/architects-ai-era/
+- [[[holliday,Holliday et. al. 2025]]] Holliday, D., Gonçalves, J. C. & Yadav, M. K. (2025): "Where Architects Sit in the Era of AI." infoq.com, 19 December 2025. https://www.infoq.com/articles/architects-ai-era/
 
 **J**
 
