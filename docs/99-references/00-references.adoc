@@ -16,7 +16,6 @@ This section contains references that are cited in the curriculum.
 - [[[aiact,AI Act 2024]]] EU AI Act — Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence. Official Journal of the EU, 12 July 2024. https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng
 - [[[anthropicagentic,Anthropic 2026]]] Anthropic (2026): "2026 Agentic Coding Trends Report: How Coding Agents Are Reshaping Software Development." resources.anthropic.com. https://resources.anthropic.com/2026-agentic-coding-trends-report
 - [[[anthropiceffective,Anthropic 2025a]]] Anthropic (2025): "Effective context engineering for AI agents." anthropic.com/engineering, 29 September 2025. https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents
-// TODO(review): verify this is not confused with the similarly named "Harness design for long-running application development," also on anthropic.com/engineering.
 - [[[anthropicharness,Anthropic 2025b]]] Anthropic (2025): "Effective harnesses for long-running agents." anthropic.com/engineering, 26 November 2025. https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents
 - [[[anthropicmcp,Anthropic 2024]]] Anthropic (2024): "Introducing the Model Context Protocol." anthropic.com/news, 25 November 2024. https://www.anthropic.com/news/model-context-protocol +
 Specification and documentation: modelcontextprotocol.io. https://modelcontextprotocol.io
@@ -26,31 +25,30 @@ Specification and documentation: modelcontextprotocol.io. https://modelcontextpr
 
 - [[[bass,Bass et al. 2021]]] Bass, L., Clements, P. & Kazman, R. (2021): Software Architecture in Practice. 4th Edition. Addison-Wesley Professional. ISBN 978-0-13-688609-9. https://www.informit.com/store/software-architecture-in-practice-9780136886099
 - [[[beck,Beck 2025]]] Beck, K. (2025): "Augmented Coding: Beyond the Vibes." Tidy First? (newsletter.kentbeck.com), 25 June 2025. https://newsletter.kentbeck.com/p/augmented-coding-beyond-the-vibes
-
-// TODO(review Gernot): I consider such a company-sponsored downloadable asset not a valid reference for iSAQB curricula.
-// Anthropic and OpenAI might be different, as they are core tech providers, but who-the-hell is bishopfox?? remove.
-- [[[bishopfox,Bishop Fox 2025]]] Bishop Fox (2025): "Secure AI-Assisted Development: 15 Guardrails for Shipping AI-Generated Code." bishopfox.com. https://bishopfox.com/resources/security-guardrails-ai-code-checklist
 - [[[boeckeleranchoring,Boeckeler 2025a]]] Böckeler, B. (2025): "Anchoring AI to a reference application." martinfowler.com, 25 September 2025. https://martinfowler.com/articles/exploring-gen-ai/anchoring-to-reference.html
 - [[[boeckelerrole,Boeckeler 2025b]]] Böckeler, B. (2025): "The role of developer skills in agentic coding." martinfowler.com, 25 March 2025. https://martinfowler.com/articles/exploring-gen-ai/13-role-of-developer-skills.html
 - [[[boeckelerspec,Boeckeler 2025c]]] Böckeler, B. (2025): "Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl." martinfowler.com, 15 October 2025. https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html
 - [[[boeckelertovibe,Boeckeler 2025d]]] Böckeler, B. (2025): "To vibe or not to vibe." martinfowler.com, 23 September 2025. https://martinfowler.com/articles/exploring-gen-ai/to-vibe-or-not-vibe.html
 - [[[boeckelercontext,Boeckeler 2026a]]] Böckeler, B. (2026): "Context Engineering for Coding Agents." martinfowler.com, 5 February 2026. https://martinfowler.com/articles/exploring-gen-ai/context-engineering-coding-agents.html
 - [[[boeckelerharness,Boeckeler 2026b]]] Böckeler, B. (2026): "Harness engineering for coding agent users." martinfowler.com, 2 April 2026. https://martinfowler.com/articles/harness-engineering.html
-
 - [[[boeckelerpodcast,Boeckeler and Thiagarajan 2025]]] Böckeler, B. & Thiagarajan, C. (2025): "Context engineering: Tackling legacy systems with generative AI." ThoughtWorks Technology Podcast, 21 August 2025. https://www.thoughtworks.com/insights/podcasts/technology-podcasts/context-engineering-tackling-legacy-systems-generative-ai
 - [[[brown,Brown et al. 2020]]] Brown, T. B. et al. (2020): "Language Models are Few-Shot Learners." arXiv:2005.14165. https://arxiv.org/abs/2005.14165
-
 - [[[sbrown,Brown 2026]]] Brown, S. (2026): The C4 Model: Visualizing Software Architecture. O'Reilly Media. ISBN 979-8-3416-6011-3. https://www.oreilly.com/library/view/the-c4-model/9798341660113/
 
 **C**
 
-// TODO(review): no connection to AGENTA module, remove
 - [[[clements,Clements et al. 2003]]] Clements, P., Bachmann, F., Bass, L., Garlan, D., Ivers, J. et al. (2003): Documenting Software Architectures – Views and Beyond. Addison-Wesley Professional. ISBN 978-0-201-70372-6. https://www.informit.com/store/documenting-software-architectures-views-and-beyond-9780201703726
+- [[[cui,Cui et al. 2026]]] Kevin Zheyuan Cui, Mert Demirer, Sonia Jaffe, Leon Musolff, Sida Peng, Tobias Salz (2026) The Effects of Generative AI on High-Skilled Work: Evidence from Three Field Experiments with Software Developers. Management Science 0(0). https://doi.org/10.1287/mnsc.2025.00535
 
-**E**
-https://www.equalexperts.com/blog/our-thinking/accelerating-architectural-decision-records-adrs-with-generative-ai
+**D**
+
+- [[[dhar,Dhar et al. 2024]]] Dhar, R., Vaidhyanathan, K., Varma, V.: Can LLMs Generate Architectural Design Decisions? - An Exploratory Empirical Study. In: 2024 IEEE 21st International Conference on Software Architecture (ICSA), pp. 79–89 (2024). https://doi.org/ 10.1109/ICSA59870.2024.00016 https://www.researchgate.net/publication/378693248_Can_LLMs_Generate_Architectural_Design_Decisions_-An_Exploratory_Empirical_study
+- [[[diaz-pace,Diaz-Pace et al. 2024]]] Díaz-Pace, J.A., Tommasel, A., Capilla, R.: Helping Novice Architects to Make Quality Design Decisions Using an LLM-Based Assistant. In: Software Architecture: 18th European Conference, ECSA 2024, Luxembourg City, Luxembourg, September 3–6, 2024, Proceedings, pp. 324–332. Springer-Verlag, Luxembourg City, Luxembourg (2024). https://doi.org/10.1007/978-3-031-70797-1_21
+- [[[dieste,Dieste et al. 2024]]] Dieste, O., Grimán, A., Juristo, N.: Developing search strategies for detecting relevant experiments. Empirical Software Engineering 14, 513–539 (2009)
 **F**
 
+- [[[fang,Fang et al. 2025]]] Fang, H. et al.: A Holistic Approach to Design Understanding Through Concept Explanation. IEEE Transactions on Software Engineering 51(2), 449–465 (2025). https://doi.org/10.1109/TSE.2024.3522973
+- [[[feng,Feng et al. 2025]]] Kevin Feng, David W. McDonald, and Amy X. Zhang, Levels of Autonomy for AI Agents, 25-15 Knight First Amend. Inst. (July 28, 2025), https://knightcolumbia.org/content/levels-of-autonomy-for-ai-agents-1 [https://perma.cc/ETV7-M4Q9].
 - [[[ford,Ford et al. 2023]]] Ford, N., Parsons, R., Kua, P. & Sadalage, P. (2023): Building Evolutionary Architectures: Automated Software Governance. 2nd Edition. O'Reilly Media. https://www.oreilly.com/library/view/building-evolutionary-architectures/9781492097532/
 - [[[fowlerabstraction,Fowler 2025a]]] Fowler, M. (2025): "LLMs bring new nature of abstraction." martinfowler.com, 24 June 2025. https://martinfowler.com/articles/2025-nature-abstraction.html
 - [[[fowlerthoughts,Fowler 2025b]]] Fowler, M. (2025): "Some thoughts on LLMs and Software Development." martinfowler.com, 28 August 2025. https://martinfowler.com/articles/202508-ai-thoughts.html
@@ -58,18 +56,12 @@ https://www.equalexperts.com/blog/our-thinking/accelerating-architectural-decisi
 **G**
 
 - [[[gitclear,GitClear 2025]]] GitClear (2025): "AI Copilot Code Quality: 2025 Data Suggests 4x Growth in Code Clones." gitclear.com. https://www.gitclear.com/ai_assistant_code_quality_2025_research
-
 - [[[gudomain,Gu et al. 2025]]] Gu, X., Chen, M., Lin, Y., Hu, Y., Zhang, H., Wan, C., Wei, Z., Xu, Y. & Wang, J. (2025): "On the Effectiveness of Large Language Models in Domain-Specific Code Generation." ACM Transactions on Software Engineering and Methodology (TOSEM). DOI: 10.1145/3697012. https://doi.org/10.1145/3697012 (preprint: https://arxiv.org/abs/2312.01639)
-
 - [[[gumbley,Gumbley and Ryan 2025]]] Gumbley, J. & Ryan, L. (2025): "Coding Assistants Threaten the Software Supply Chain." martinfowler.com, 13 May 2025. https://martinfowler.com/articles/exploring-gen-ai/software-supply-chain-attack-surface.html
 
 **H**
 
-// TODO: no connection to module content, remove
 - [[[hargis,Hargis et al. 2004]]] Hargis, G., Carey, M., Hernandez, A. K., Hughes, P., Longo, D., Rouiller, S. & Wilde, E. (2004): Developing Quality Technical Information: A Handbook for Writers and Editors. 2nd Edition. IBM Press / Prentice Hall. ISBN 978-0-13-147749-0. https://www.informit.com/store/developing-quality-technical-information-a-handbook-9780131477490
-
-// TODO as much as I admire Gregors writings, the elevator seems not adequate for this module, remove
-- [[[hohpe,Hohpe 2020]]] Hohpe, G. (2020): The Software Architect Elevator: Redefining the Architect's Role in the Digital Enterprise. O'Reilly Media. https://www.oreilly.com/library/view/the-software-architect/9781492077534/
 
 **I**
 
@@ -77,8 +69,10 @@ https://www.equalexperts.com/blog/our-thinking/accelerating-architectural-decisi
 
 **J**
 
+- [[[jahic,Jahic et al. 2024]]] Jahić, J., Sami, A.: State of Practice: LLMs in Software Engineering and Software Architecture. In: 2024 IEEE 21st International Conference on Software Architecture Companion (ICSA-C), pp. 311–318 (2024). https://doi.org/10.1109/ICSAC63560.2024.00059
 - [[[joern,Joern]]] Joern — The Bug Hunter's Workbench: an open-source platform for static code analysis based on code property graphs (CPGs), supporting multiple languages. https://joern.io +
 Documentation: https://docs.joern.io — Source: https://github.com/joernio/joern
+- [[[johansson,Johansson et al. 2024]]] Johansson, N., Caporuscio, M., Olsson, T.: Mapping Source Code to Software Architecture by Leveraging Large Language Models. In: Software Architecture. ECSA 2024 Tracks and Workshops: Luxembourg City, Luxembourg, September 3–6, 2024, Proceedings, pp. 133–149. Springer-Verlag, Luxembourg City, Luxembourg (2024). https://doi.org/10.1007/978-3-031-71246-3_13
 
 **K**
 
@@ -87,19 +81,12 @@ Quoted in: Willison, S., "Context engineering," simonwillison.net, 27 June 2025 
 - [[[karpathyreview,Karpathy 2025b]]] Karpathy, A. (2025): "2025 LLM Year in Review." karpathy.bearblog.dev, 19 December 2025. https://karpathy.bearblog.dev/year-in-review-2025/
 - [[[kimdora,Kim 2025]]] Kim, G. (2025): "Potential GenAI Impact On DORA Metrics: Five Dimensions Of Value For Developers—Especially Creating Option Value!" itrevolution.com, 9 January 2025. https://itrevolution.com/articles/genai-metrics-of-value-for-developers-option-value-dora/
 - [[[kimspear,Kim and Spear 2023]]] Kim, G. & Spear, S. J. (2023): Wiring the Winning Organization: Liberating Our Collective Greatness through Slowification, Simplification, and Amplification. IT Revolution Press. https://itrevolution.com/product/wiring-the-winning-organization/
-
-// TODO(review): title corrected from "4-1" (typo) to "4+1"; "Software" restored in the subtitle.
-// no connection to AGENTA, remove
-- [[[kruchten,Kruchten 1995]]] Kruchten, P. (1995): Architectural Blueprints — The "4+1" View Model of Software Architecture. IEEE Software, 12(6), November 1995, pp. 42-50. DOI: 10.1109/52.469759. https://doi.org/10.1109/52.469759
+- [[[konrad,Konrad et al. 2026]]] Konrad, Phongsakon & Adam, Tim & Terrenzi, Riccardo & Ayvaz, Serkan. (2026). Architecture Without Architects: How AI Coding Agents Shape Software Architecture. 10.48550/arXiv.2604.04990. https://www.researchgate.net/publication/403604864_Architecture_Without_Architects_How_AI_Coding_Agents_Shape_Software_Architecture 
 
 **L**
 
 - [[[langchain,LangChain 2025]]] LangChain (2025): "Context Engineering for Agents." langchain.com, 2 July 2025. https://www.langchain.com/blog/context-engineering-for-agents (four strategies: write, select, compress, isolate)
-
-// TODO(review): no independent Letcher publication could be found. Full name is Ned Letcher; this is an oral/personal-communication credit inside the Böckeler article, not a standalone citable source. Consider merging into boeckelerharness or removing this as a separate bibliography entry.
-- [[[letcher,Letcher 2026]]] Letcher, N. (2026): Term "ambient affordances" (personal communication), cited in: Böckeler, B. (2026), "Harness engineering for coding agent users," martinfowler.com (see <<boeckelerharness>>)
 - [[[lopopolo,Lopopolo 2026]]] Lopopolo, R. (2026): "Harness engineering: leveraging Codex in an agent-first world." openai.com, 11 February 2026. https://openai.com/index/harness-engineering/
-
 - [[[marco,Marco 2026]]] Marco, E. (2026): Agentic Coding with Claude Code: The Everyday Developer's Guide to Agentic Coding with Claude Code. Packt, 27 March 2026. https://www.packtpub.com/en-us/product/agentic-coding-with-claude-code-9781806022595
 
 **M**
@@ -114,6 +101,7 @@ Quoted in: Willison, S., "Context engineering," simonwillison.net, 27 June 2025 
 
 **O**
 
+- [[[ouyang,Ouyang 2025]]] Shuyin Ouyang, Jie M. Zhang, Mark Harman, and Meng Wang. 2025. An Empirical Study of the Non-Determinism of ChatGPT in Code Generation. ACM Trans. Softw. Eng. Methodol. 34, 2, Article 42 (February 2025), 28 pages. https://doi.org/10.1145/3697010
 - [[[oreillycode,OReilly 2026a]]] Ford, N. & Richards, M. (2026): "Architecture as Code to Teach Humans and Agents About Architecture." O'Reilly Radar, 9 April 2026. https://www.oreilly.com/radar/architecture-as-code-to-teach-humans-and-agents-about-architecture/
 - [[[oreillygov,OReilly 2025b]]] Ford, N. & Richards, M. (2025): "How Agentic AI Empowers Architecture Governance." O'Reilly Radar, 19 November 2025. https://www.oreilly.com/radar/how-agentic-ai-empowers-architecture-governance/
 - [[[owaspllm,OWASP 2026]]] OWASP (2026): "OWASP Top 10 for LLM Applications" . https://genai.owasp.org/llm-top-10/ 
@@ -122,6 +110,10 @@ Quoted in: Willison, S., "Context engineering," simonwillison.net, 27 June 2025 
 
 - [[[park,Park et. al. 2023]]] Park, J. S., O'Brien, J. C., Cai, C. J., Morris, M. R., Liang, P. & Bernstein, M. S. (2023): "Generative Agents: Interactive Simulacra of Human Behavior." UIST '23: Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology, Article No. 2, pp. 1-22. DOI: 10.1145/3586183.3606763. https://doi.org/10.1145/3586183.3606763 (preprint: https://arxiv.org/abs/2304.03442)
 
+**Q**
+
+- [[[qishuo,Qishuo et. al. 2025]]] Qishuo, Hua & Ye, Lyumanshan & Fu, Dayuan & Xiao, Yang & Cai, Xiaojie & Wu, Yunze & Lin, Jifan & Wang, Junfei & Liu, Pengfei. (2025). Context Engineering 2.0: The Context of Context Engineering. 10.48550/arXiv.2510.26493. https://www.researchgate.net/publication/397088090_Context_Engineering_20_The_Context_of_Context_Engineering 
+
 **R**
 
 - [[[raschka,Raschka 2026]]] Raschka, S. (2026): "Components of A Coding Agent." Ahead of AI (Substack), 4 April 2026. https://magazine.sebastianraschka.com/p/components-of-a-coding-agent
@@ -129,7 +121,7 @@ Quoted in: Willison, S., "Context engineering," simonwillison.net, 27 June 2025 
 
 **S**
 
-// TODO (remove): I'm the author, but that book is not helpful for AGENTA
+- [[[shamsujjoha,Shamsujjoha et al. 2025]]] Shamsujjoha, M. et al.: Swiss Cheese Model for AI Safety: A Taxonomy and Reference Architecture for Multi-Layered Guardrails of Foundation Model Based Agents. In: 22nd IEEE International Conference on Software Architecture (ICSA 2025). Institute of Electrical and Electronics Engineers (IEEE) (2025). https : //arxiv.org/abs/2408.02205
 - [[[starke,Starke 2024]]] Starke, G. (2002): Effektive Softwarearchitekturen – Ein praktischer Leitfaden. 10. Auflage 2024, Carl Hanser Verlag, München. ISBN 978-3-446-47672-1. https://www.hanser-fachbuch.de/Effektive-Softwarearchitekturen/978-3-446-47672-1
 - [[[silva,Silva et al. 2025]]] Silva, K., Melegati, J., Silveira, F., Wang, X., Ferreira, M. & Guerra, E. (2025): "ArchHypo: Managing Software Architecture Uncertainty Using Hypotheses Engineering." IEEE Transactions on Software Engineering, 51(2), pp. 430-448. DOI: 10.1109/TSE.2024.3520477. https://doi.org/10.1109/TSE.2024.3520477
 
@@ -148,6 +140,7 @@ Quoted in: Willison, S., "Context engineering," simonwillison.net, 27 June 2025 
 - [[[willisoncontext,Willison 2025b]]] Willison, S. (2025): "Context engineering." simonwillison.net, 27 June 2025. https://simonwillison.net/2025/Jun/27/context-engineering/
 - [[[willisoninjection,Willison Various]]] Willison, S.: Writings on prompt injection and the lethal trifecta. Tag archive (150+ posts, 2022–present): https://simonwillison.net/tags/prompt-injection/ +
 Key post: Willison, S. (2025): "The lethal trifecta for AI agents: private data, untrusted content, and external communication." simonwillison.net, 16 June 2025. https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/
+- [[[wohlin,Wohlin et. al. 2012]]] Wohlin, C. et al.: Experimentation in Software Engineering. Springer Berlin Heidelberg, Berlin, Heidelberg (2012)
 
 **Y**
 

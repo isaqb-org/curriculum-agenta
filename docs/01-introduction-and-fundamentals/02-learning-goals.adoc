@@ -73,7 +73,7 @@ Participants can distinguish the following important disciplines in the context 
 * Participants can explain the terms AI, ML, GenAI, and LLMs and classify how they relate to each other.
 * Participants know the terms data, model, training, and inference.
 * Participants know that data is the central foundation of AI (garbage in, garbage out).
-* Participants understand LLMs as probabilistic tools and can explain the implications for architecture work.
+* Participants understand LLMs as probabilistic tools whose outputs are samples from a distribution and can explain the implications for architecture work.
 * Participants know basic concepts of LLMs such as tokens, prompts, context, and reasoning.
 * Participants know the most important characteristics of LLMs and can make well-founded decisions about using specific providers and models.
 * Participants know the capabilities (e.g., language, knowledge, structured output) and limitations of LLMs (e.g., hallucinations, bias, knowledge cutoff, context window).

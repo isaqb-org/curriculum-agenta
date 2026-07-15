@@ -1,6 +1,6 @@
 === {references}
 
- <<equalexperts>>, <<joern>>, <<marco>>, <<newman>>, <<nygard>>, <<sbrown>>, <<zoerner>>
+ <<clements>>, <<equalexperts>>, <<joern>>, <<johansson>>, <<marco>>, <<newman>>, <<nygard>>, <<sbrown>>, <<zoerner>>
 
 // tag::DE[]
 // silence asciidoctor warnings

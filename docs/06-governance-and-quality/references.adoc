@@ -1,6 +1,6 @@
 === {references}
 
-<<aiact>>, <<bishopfox>>, <<gumbley>>, <<mitre>>, <<oreillygov>>, <<owaspllm>>, <<vries>>, <<willisoninjection>>
+<<aiact>>, <<gumbley>>, <<mitre>>, <<oreillygov>>, <<owaspllm>>, <<shamsujjoha>>, <<vries>>, <<willisoninjection>>
 
 // tag::DE[]
 // silence asciidoctor warnings
