@@ -20,19 +20,24 @@
 // tag::EN[]
 === Curriculum Structure and Recommended Durations
 
-[cols="<,>", options="header"]
+[cols="<4,>1,>1,>1", options="header"]
 |===
 | Content
-| Recommended minimum duration (minutes)
-| 1. Introduction and Fundamentals | 60
-| 2. AI-Assisted Architectural Decision-Making | 150
-| 3. Providing Architectural Knowledge to Agents | 210
-| 4. Keeping Agents Aligned with Architectural Goals | 150
-| 5. Architecture Information Extraction | 180
-| 6. Governance and Quality Gates for AI Usage | 90
-| 7. The Evolving Discipline of Software Architecture | 60
-| |
-| Total | 900 (15.00h)
+| Duration +
+(minutes)
+| Practice +
+(minutes)
+| Total +
+(minutes)
+| 1. Introduction and Fundamentals | 60 | 0 | 60
+| 2. AI-Assisted Architectural Decision-Making | 150 | 60 | 210
+| 3. Providing Architectural Knowledge to Agents | 210 | 60 | 270
+| 4. Keeping Agents Aligned with Architectural Goals | 150 | 60 | 210
+| 5. Architecture Information Extraction | 180 | 75 | 255
+| 6. Governance and Quality Gates for AI Usage | 90 | 30 | 120
+| 7. The Evolving Discipline of Software Architecture | 60 | 45 | 105
+| | | |
+| Total | 900 | 330 | 1230
 
 |===
 
