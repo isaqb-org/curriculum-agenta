@@ -4,6 +4,10 @@
 :imagesdir: images
 :!chapter-signifier:
 
+ifdef::prepress[]
+:media: prepress
+endif::[]
+
 // ":language:" denotes the language or the target document.
 // currently only DE and EN are supported
 :language: DE
@@ -16,10 +20,22 @@
 
 ifeval::["{language}" == "DE"]
 :curriculum-name: Architektur im Kontext Agentischer Softwareentwicklung
-:curriculum-header-title: iSAQB-Curriculum für Advanced Level: {curriculum-short}
+:curriculum-header-title: iSAQB® Curriculum für Advanced Level: {curriculum-short}
 endif::[]
 
 ifeval::["{language}" == "EN"]
 :curriculum-name: Architecture for Agentic Software Engineering Contexts
-:curriculum-header-title: iSAQB curriculum for Advanced Level: {curriculum-short}
+:curriculum-header-title: iSAQB® Curriculum for Advanced Level: {curriculum-short}
 endif::[]
+
+// title definitions for proper formatting in PDF and HTML – DO NOT TOUCH
+ifdef::backend-pdf[]
+:title-break: :{sp}
+:toc: macro
+:toc-placement: macro
+endif::[]
+ifndef::backend-pdf[]
+:title-break: pass:q[<br>]
+:toc: left
+endif::[]
+
