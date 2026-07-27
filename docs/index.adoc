@@ -1,6 +1,6 @@
 include::config/setup.adoc[]
 
-= image:isaqb-logo.jpg[width=150]Certified Professional for Software Architecture^(R)^ (CPSA)
+= image:isaqb-logo.png[width=150,role=theme-swap] Certified Professional for Software Architecture^(R)^ (CPSA)
 Curriculum {curriculum-name} [{curriculum-short}]
 :!toc:
 
@@ -17,9 +17,9 @@ Maintainers and volunteer reviewers collaborate on GitHub to improve the curricu
 |===
 | Version | HTML | PDF
 
-| German
-| link:{curriculumFileName}-de.html[HTML]
-| link:{curriculumFileName}-de.pdf[PDF]
+| Deutsch
+| aktuell nicht verfügbar
+| aktuell nicht verfügbar
 
 | English
 | link:{curriculumFileName}-en.html[HTML]
