@@ -87,7 +87,7 @@ Quoted in: Willison, S., "Context engineering," simonwillison.net, 27 June 2025 
 - [[[karpathyreview,Karpathy 2025b]]] Karpathy, A. (2025): "2025 LLM Year in Review." karpathy.bearblog.dev, 19 December 2025. https://karpathy.bearblog.dev/year-in-review-2025/
 - [[[kimdora,Kim 2025]]] Kim, G. (2025): "Potential GenAI Impact On DORA Metrics: Five Dimensions Of Value For Developers—Especially Creating Option Value!" itrevolution.com, 9 January 2025. https://itrevolution.com/articles/genai-metrics-of-value-for-developers-option-value-dora/
 - [[[kimspear,Kim and Spear 2023]]] Kim, G. & Spear, S. J. (2023): Wiring the Winning Organization: Liberating Our Collective Greatness through Slowification, Simplification, and Amplification. IT Revolution Press. https://itrevolution.com/product/wiring-the-winning-organization/
-- [[[konrad,Konrad et al. 2026]]] Konrad, Phongsakon & Adam, Tim & Terrenzi, Riccardo & Ayvaz, Serkan. (2026). Architecture Without Architects: How AI Coding Agents Shape Software Architecture. 10.48550/arXiv.2604.04990. https://www.researchgate.net/publication/403604864_Architecture_Without_Architects_How_AI_Coding_Agents_Shape_Software_Architecture 
+- [[[konrad,Konrad et al. 2026]]] Konrad, Phongsakon & Adam, Tim & Terrenzi, Riccardo & Ayvaz, Serkan. (2026). Architecture Without Architects: How AI Coding Agents Shape Software Architecture. 10.48550/arXiv.2604.04990. https://www.researchgate.net/publication/403604864_Architecture_Without_Architects_How_AI_Coding_Agents_Shape_Software_Architecture
 
 **L**
 
@@ -110,7 +110,7 @@ Quoted in: Willison, S., "Context engineering," simonwillison.net, 27 June 2025 
 - [[[ouyang,Ouyang 2025]]] Shuyin Ouyang, Jie M. Zhang, Mark Harman, and Meng Wang. 2025. An Empirical Study of the Non-Determinism of ChatGPT in Code Generation. ACM Trans. Softw. Eng. Methodol. 34, 2, Article 42 (February 2025), 28 pages. https://doi.org/10.1145/3697010
 - [[[oreillycode,OReilly 2026a]]] Ford, N. & Richards, M. (2026): "Architecture as Code to Teach Humans and Agents About Architecture." O'Reilly Radar, 9 April 2026. https://www.oreilly.com/radar/architecture-as-code-to-teach-humans-and-agents-about-architecture/
 - [[[oreillygov,OReilly 2025b]]] Ford, N. & Richards, M. (2025): "How Agentic AI Empowers Architecture Governance." O'Reilly Radar, 19 November 2025. https://www.oreilly.com/radar/how-agentic-ai-empowers-architecture-governance/
-- [[[owaspllm,OWASP 2026]]] OWASP (2026): "OWASP Top 10 for LLM Applications" . https://genai.owasp.org/llm-top-10/ 
+- [[[owaspllm,OWASP 2026]]] OWASP (2026): "OWASP Top 10 for LLM Applications" . https://genai.owasp.org/llm-top-10/
 
 **P**
 
@@ -118,7 +118,7 @@ Quoted in: Willison, S., "Context engineering," simonwillison.net, 27 June 2025 
 
 **Q**
 
-- [[[qishuo,Qishuo et. al. 2025]]] Qishuo, Hua & Ye, Lyumanshan & Fu, Dayuan & Xiao, Yang & Cai, Xiaojie & Wu, Yunze & Lin, Jifan & Wang, Junfei & Liu, Pengfei. (2025). Context Engineering 2.0: The Context of Context Engineering. 10.48550/arXiv.2510.26493. https://www.researchgate.net/publication/397088090_Context_Engineering_20_The_Context_of_Context_Engineering 
+- [[[qishuo,Qishuo et. al. 2025]]] Qishuo, Hua & Ye, Lyumanshan & Fu, Dayuan & Xiao, Yang & Cai, Xiaojie & Wu, Yunze & Lin, Jifan & Wang, Junfei & Liu, Pengfei. (2025). Context Engineering 2.0: The Context of Context Engineering. 10.48550/arXiv.2510.26493. https://www.researchgate.net/publication/397088090_Context_Engineering_20_The_Context_of_Context_Engineering
 
 **R**
 
