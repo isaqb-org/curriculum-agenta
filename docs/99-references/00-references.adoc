@@ -45,6 +45,11 @@ Specification and documentation: modelcontextprotocol.io. https://modelcontextpr
 - [[[dhar,Dhar et al. 2024]]] Dhar, R., Vaidhyanathan, K., Varma, V.: Can LLMs Generate Architectural Design Decisions? - An Exploratory Empirical Study. In: 2024 IEEE 21st International Conference on Software Architecture (ICSA), pp. 79–89 (2024). https://doi.org/ 10.1109/ICSA59870.2024.00016 https://www.researchgate.net/publication/378693248_Can_LLMs_Generate_Architectural_Design_Decisions_-An_Exploratory_Empirical_study
 - [[[diaz-pace,Diaz-Pace et al. 2024]]] Díaz-Pace, J.A., Tommasel, A., Capilla, R.: Helping Novice Architects to Make Quality Design Decisions Using an LLM-Based Assistant. In: Software Architecture: 18th European Conference, ECSA 2024, Luxembourg City, Luxembourg, September 3–6, 2024, Proceedings, pp. 324–332. Springer-Verlag, Luxembourg City, Luxembourg (2024). https://doi.org/10.1007/978-3-031-70797-1_21
 - [[[dieste,Dieste et al. 2024]]] Dieste, O., Grimán, A., Juristo, N.: Developing search strategies for detecting relevant experiments. Empirical Software Engineering 14, 513–539 (2009)
+
+**E**
+
+- [[[equalexperts,Equal Experts 2025]]] Louw, T., Hmeid, R. & Brabban, P. (2025): "Accelerating Architectural Decision Records (ADRs) with Generative AI." Equal Experts blog, 27 October 2025. https://www.equalexperts.com/blog/our-thinking/accelerating-architectural-decision-records-adrs-with-generative-ai/
+
 **F**
 
 - [[[fang,Fang et al. 2025]]] Fang, H. et al.: A Holistic Approach to Design Understanding Through Concept Explanation. IEEE Transactions on Software Engineering 51(2), 449–465 (2025). https://doi.org/10.1109/TSE.2024.3522973
@@ -62,6 +67,7 @@ Specification and documentation: modelcontextprotocol.io. https://modelcontextpr
 **H**
 
 - [[[hargis,Hargis et al. 2004]]] Hargis, G., Carey, M., Hernandez, A. K., Hughes, P., Longo, D., Rouiller, S. & Wilde, E. (2004): Developing Quality Technical Information: A Handbook for Writers and Editors. 2nd Edition. IBM Press / Prentice Hall. ISBN 978-0-13-147749-0. https://www.informit.com/store/developing-quality-technical-information-a-handbook-9780131477490
+- [[[hohpe,Hohpe 2020]]] Hohpe, G. (2020): The Software Architect Elevator: Redefining the Architect's Role in the Digital Enterprise. O'Reilly Media. https://www.oreilly.com/library/view/the-software-architect/9781492077534/
 
 **I**
 
