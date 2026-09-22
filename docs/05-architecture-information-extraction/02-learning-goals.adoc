@@ -30,7 +30,7 @@ Participants can distinguish key types of architecture documentation and underst
 * Know that agent-facing documentation (e.g. as context for coding agents or AI-assisted workflows) has more options than traditional formats or templates, and that concise, machine-readable representations often outperform traditional documents
 
 [[LG-5-2]]
-==== LG 5-2: Understand how they maintain architectural decisions and documentation through agentic development loops
+==== LG 5-2: Understand how to maintain architectural decisions and documentation through agentic development loops
 
 Participants understand that agentic development loops continuously evolve the system architecture — often implicitly. They know how to accompany these loops with appropriate decision tracking and documentation practices that ensure traceability and human accountability without becoming a bottleneck.
 
