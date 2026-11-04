@@ -4,7 +4,7 @@
 |===
 
 === Begriffe und Konzepte
-Begriff 1, Begriff 2, Begriff 3
+Architecture Discovery, Architecture Recovery, Technologieerkennung, Mustererkennung, Extraktion von Geschäftsregeln, Architektursichten, Dokumentationsvorlagen, Living Documentation, Architecture Decision Records (ADRs), Knowledge Graphs
 
 // end::DE[]
 

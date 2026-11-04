@@ -3,7 +3,7 @@
 // ====================================================
 
 // tag::DE[]
-== Architekturwissen extrahieren und aufbereiten
+== Governance und Qualitätssicherung bei KI-Nutzung
 // end::DE[]
 
 // tag::EN[]

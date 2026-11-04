@@ -4,7 +4,7 @@
 |===
 
 === Begriffe und Konzepte
-Begriff 1, Begriff 2, Begriff 3
+Context Engineering, Bereitstellung von Architekturwissen für KI-Agenten, agentenlesbare Architekturartefakte
 
 
 // end::DE[]

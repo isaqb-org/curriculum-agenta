@@ -2,42 +2,42 @@
 
 // tag::DE[]
 
-[[LZ-6-1]]
-==== LZ 6-1: Rechtliche Rahmenbedingungen beim Einsatz von KI-Tools verstehen, einordnen und in der Organisation richtig adressieren
+[[LG-6-1]]
+==== LG 6-1: Rechtliche Rahmenbedingungen beim Einsatz von KI-Tools verstehen, einordnen und in der Organisation richtig adressieren
 - Die Kursteilnehmenden können Copyright-Problematiken wie beispielsweise Copyleft-Lizenzen erklären und beurteilen, welche Pflichten (z.B. Lizenzhinweise, Bereitstellung von Quelltext bei Weitergabe abgeleiteter Werke) beim Einsatz, der Anpassung und insbesondere bei der Verteilung von Software/Artefakten im KI-Kontext entstehen können.
 - Die Kursteilnehmenden sind sich der daraus resultierenden rechtlichen Risiken bewusst und verstehen, dass ein KI-gestützter Architekturprozess Kontrollen und Prozesse etablieren muss, die den generierten Code und die Artefakte vor Copyright-bezogenen Haftungsrisiken schützen.
 - Die Kursteilnehmenden können beim Einsatz von KI-Tools datenschutzrechtlich prüfen, ob und welche personenbezogenen Daten verarbeitet werden, die Rollen und Verantwortlichkeiten (Verantwortlicher/Auftragsverarbeiter) einordnen und ableiten, wann vertragliche Anforderungen zu klären sind. 
 - Die Kursteilnehmenden können den EU AI Act in seinen Grundzügen (Rollen, Risiko-Logik, stufenweise Geltung) auf typische KI-Tool-Szenarien übertragen und den zeitlichen Anwendungsfahrplan mit Schlüsseldaten erklären.
 - Die Kursteilnehmenden können für konkrete Vorhaben entscheiden, wann sie welche internen und externen Stellen einbinden müssen (z.B. Datenschutzbeauftragte/r, Informationssicherheit) und können die Ergebnisse so dokumentieren, dass sie audit- und entscheidungsfähig sind.
 
-[[LZ-6-2]]
-==== LZ 6-2 Traceability von KI-generierten Ausgaben und ihrem Kontext sicherstellen
+[[LG-6-2]]
+==== LG 6-2: Traceability von KI-generierten Ausgaben und ihrem Kontext sicherstellen
 - Die Kursteilnehmenden können erklären, was unter Traceability von KI-Outputs zu verstehen ist und begründen, warum dies für Qualitätssicherung, Incident-Analyse, Governance und Auditierbarkeit wichtig ist.
 - Die Kursteilnehmenden können konkrete Maßnahmen zur Sicherstellung von Traceability in einem Systemkontext bewerten und gegeneinander abwägen, insbesondere *structured logging*, *konsistentes Referenzieren* von Kontextartefakten, sowie *Quoting & Citation* als Mechanismus zur belegbaren Herkunft von Aussagen. 
 - Die Kursteilnehmenden können erläutern, warum Versionierung und Observability für KI-Anwendungen notwendig sind, und zentrale Bestandteile wie Prompt-/Template-Versionierung, Modell-/Konfigurationsstände, nachvollziehbare Änderungen sowie Logging, Tracing oder Monitoring benennen.
 
-[[LZ-6-3]]
-==== LZ 6-3 Skalierung von AI-Governance über Teams und Prozesse hinweg konsistent gestalten
+[[LG-6-3]]
+==== LG 6-3: Skalierung von KI-Governance über Teams und Prozesse hinweg konsistent gestalten
 - Die Kursteilnehmenden können Token-basierte Abrechnungsmodelle gegenüber Subscription-/Seat-basierten Modellen einordnen und vergleichen und für unterschiedliche Team- und Use-Case-Kontexte ein geeignetes Governance- und Budgetierungsmodell auswählen.
 - Die Kursteilnehmer können Abhängigkeitsrisiken (Vendor Lock-In) und Datenhoheit bei der Auswahl von LLM-Anbietern berücksichtigen und wissen um die Wichtigkeit von flexiblen Anbieterwechselmöglichkeiten.
 - Die Kursteilnehmenden können erläutern, warum Guardrails bei Agenten- und Tool-Nutzung wichtig sind, und benennen, wie sie zur Reduktion von Risiken wie Compliance-Verstößen, Datenabfluss oder Missbrauch beitragen können.
 - Die Kursteilnehmenden können eine Allowlist/Whitelist-Strategie für Tool-Integrationen umsetzen, passende Berechtigungs- und Freigabeprozesse beschreiben, und die Trade-offs zwischen Flexibilität und Kontrolle für verschiedene Organisationsbereiche begründen.
 
-[[LZ-6-4]]
-==== LZ 6-4 Umweltkosten von KI-gestützter Softwareentwicklung verstehen und nachhaltige Nutzungsstrategien ableiten
+[[LG-6-4]]
+==== LG 6-4: Umweltkosten von KI-gestützter Softwareentwicklung verstehen und nachhaltige Nutzungsstrategien ableiten
 - Die Kursteilnehmenden können die zentralen Umweltauswirkungen von KI-gestützter Entwicklung entlang des Lebenszyklus erklären und voneinander abgrenzen und typische Fehlannahmen dazu einordnen.
-- Die Kursteilnehmenden können die wichtigsten Treiber für Energie- und Emissionswirkung bei AI-assisted Development identifizieren und bewerten (z. B. Modellgröße, mehrstufige/agentische Workflows) und dafür innerhalb der Organisation ein Bewusstsein schaffen.
+- Die Kursteilnehmenden können die wichtigsten Treiber für Energie- und Emissionswirkung bei KI-gestützter Entwicklung identifizieren und bewerten (z. B. Modellgröße, mehrstufige/agentische Workflows) und dafür innerhalb der Organisation ein Bewusstsein schaffen.
 
 
-[[LZ-6-5]]
-==== LZ 6-5 Sensible Informationen beim Einsatz von KI-Tools sicher, vertraulich und datenschutzkonform handhaben
-- Die Kursteilnehmenden können sensible Informationsarten (z.B. Zugangsdaten/API-Keys) identifizieren und entscheiden, was nicht in Prompts, Beispielcode, Tickets oder Chat-Verläufe gehört; sie können stattdessen geeignete Alternativen (z.B. Anonymisierung/Synthetisierung) anwenden.
-- Die Kursteilnehmenden können konkrete Maßnahmen umsetzen, um Secrets nicht zu leaken (z.B. keine Credentials im Repo, Secrets über Secret-Management/Umgebungsvariablen bereitstellen).
-- Die Kursteilnehmenden können Datenflüsse und Aufbewahrung beim Einsatz verschiedener LLM-Provider bewerten (z.B. Unterschiede zwischen Trainingsnutzung/Opt-in, Logging/Retention, Optionen wie „Zero Data Retention“) und daraus teamtaugliche Regeln für Tool-Auswahl und Konfiguration ableiten.
+[[LG-6-5]]
+==== LG 6-5: Sensible Informationen beim Einsatz von KI-Tools sicher, vertraulich und datenschutzkonform handhaben
+- Die Kursteilnehmenden können sensible Informationen identifizieren und klassifizieren und entscheiden, was nicht mit KI-Tools geteilt werden darf.
+- Die Kursteilnehmenden können Datenflüsse und Datenaufbewahrung bei der Nutzung von KI-Tools bewerten und zentrale Risiken identifizieren.
+- Die Kursteilnehmenden können teamtaugliche Regeln für die Auswahl und Nutzung von KI-Tools auf sichere und datenschutzkonforme Weise definieren.
 
-[[LZ-6-6]]
-==== LZ 6-6 Sicherheit von Agenten- und Tool-Integrationen gewährleisten (Prompt Injection, Tool-Misuse, Sandboxing)
-- Die Kursteilnehmenden kennen die OWASP LLM Top 10 und wissen welche Gefahren beim Agentic Engineering relevant sind (u. a. Prompt Injection und Tool-Missuse).
+[[LG-6-6]]
+==== LG 6-6: Sicherheit von Agenten- und Tool-Integrationen gewährleisten (Prompt Injection, Tool-Misuse, Sandboxing)
+- Die Kursteilnehmenden kennen die OWASP LLM Top 10 und wissen, welche Gefahren beim Agentic Engineering relevant sind (u. a. Prompt Injection und Tool-Misuse). Sie haben außerdem von der MITRE-ATLAS-Wissensdatenbank gehört.
 - Die Kursteilnehmenden können Prompt-Injection-Angriffe (direkt und indirekt) in agentischen Systemen erkennen, das damit verbundene „confused deputy“-Risiko erklären und daraus Anforderungen an robuste Prompt-/Kontext-Grenzen ableiten (z.B. klare Trennung von Daten und Instruktionen, kein Vertrauen in extern bezogenen Content). 
 - Die Kursteilnehmenden kennen geeignete Maßnahmen um Gefahren zu reduzieren (z. B. Least Privilege, gescopte Credentials, explizite Freigaben/Human-in-the-Loop, Monitoring)
 - Die Kursteilnehmenden können geeignete Sandboxing-Strategien für Tool-Ausführung wählen und kennen Vor- und Nachteile von Container vs. VM-Basiereten Lösungen.

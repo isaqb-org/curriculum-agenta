@@ -3,7 +3,7 @@
 // ====================================================
 
 // tag::DE[]
-== Der Titel des siebten Moduls
+== Die sich wandelnde Disziplin der Softwarearchitektur
 // end::DE[]
 
 // tag::EN[]

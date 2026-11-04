@@ -4,7 +4,7 @@
 |===
 
 === Begriffe und Konzepte
-Begriff 1, Begriff 2, Begriff 3
+Hypothesengetriebene KI-Einführung, Orchestrierung KI-gestützter Entwicklung, Kompetenzerhalt und Deliberate Practice, Verantwortlichkeit im KI-gestützten Engineering, Blast-Radius- und risikobasiertes Denken, gemeinsame Terminologie und Domänenglossar, deterministisch überprüfbare Architekturregeln (Architekturtests, Linter, Fitness Functions), Set-Based Design, soziotechnische Kollaborationsmuster (Mensch + Mensch + KI), Architekturebenen (Software, Lösung, Unternehmen)
 
 
 // end::DE[]

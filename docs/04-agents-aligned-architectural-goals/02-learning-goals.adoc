@@ -1,32 +1,33 @@
 === {learning-goals}
 
 // tag::DE[]
-[[LZ-4-1]]
-==== LZ 4-1: Verstehen, warum KI-Agenten explizite architekturelle Leitplanken benötigen
+[[LG-4-1]]
+==== LG 4-1: Verstehen, warum KI-Agenten explizite architekturelle Leitplanken benötigen
 - Die Teilnehmer können erklären, warum KI-Agenten ohne explizite Leitplanken dazu neigen, Architekturentscheidungen zu verletzen, technische Schulden aufzubauen und Inkonsistenzen einzuführen.
 - Die Teilnehmer können die Faktoren beschreiben, die das Verhalten eines KI-Agenten bestimmen, z.B. Kontext und Tools. Sie können Stellen identifizieren, an denen Architekten am wirksamsten eingreifen können.
 - Die Teilnehmer verstehen, wie bereitgestelltes Architekturwissen das Verhalten von Agenten einschränkt. Sie können erklären, warum Wissen (z.B. im Kontext von Agenten) allein nicht ausreicht.
 - Die Teilnehmer verstehen, dass explizite architekturelle Leitplanken die Evolvierbarkeit behindern können und daher eine temporäre, "versinkende" Investition sind — sie werden nur gepflegt, bis Modelle und Agenten die Kontrollen zuverlässig selbst durchsetzen können, und mit wachsenden Fähigkeiten wieder abgebaut.
 
-[[LZ-4-2]]
-==== LZ 4-2: Mechanismen entwerfen können, die Architekturentscheidungen gegenüber KI-generiertem Code durchsetzen
+[[LG-4-2]]
+==== LG 4-2: Mechanismen entwerfen können, die Architekturentscheidungen gegenüber KI-generiertem Code durchsetzen
 - Die Teilnehmer können präventive und detektive Leitplanken entwerfen, die KI-Agenten innerhalb architektureller Grenzen halten.
 - Die Teilnehmer können die Trade-Offs zwischen verschiedenen Arten von Leitplanken beurteilen, insbesondere zwischen Präzision und Abdeckung sowie zwischen Geschwindigkeit und Analysetiefe.
 - Die Teilnehmer können geeignete Leitplanken für verschiedene architekturelle Belange auswählen (z.B. strukturelle Regeln, Qualitätsattribute) und erklären, warum manche schwerer durchzusetzen sind als andere — atomare strukturelle Regeln erlauben schnelle, deterministische Prüfungen, während holistische Qualitätsattribute wie Wartbarkeit oder Benutzbarkeit nur schwer automatisiert prüfbares, holistisches Feedback liefern (vgl. atomare vs. holistische Fitness Functions).
+- Die Teilnehmer kennen Beispiele für Durchsetzungsmechanismen, wie Architekturtests, statische Analyse, Linter, Abhängigkeitsregeln, Policy-Checks, Review-Gates, Sandboxing und manuelle Freigabe-Workflows.
 
-[[LZ-4-3]]
-==== LZ 4-3: Entscheiden können, an welcher Stelle im Entwicklungsprozess architekturelle Leitplanken greifen sollen
+[[LG-4-3]]
+==== LG 4-3: Entscheiden können, an welcher Stelle im Entwicklungsprozess architekturelle Leitplanken greifen sollen
 - Die Teilnehmer können architekturelle Leitplanken an geeigneten Stellen im Entwicklungs- und Deployment-Prozess platzieren, und begründen, warum unterschiedliche Leitplanken an unterschiedliche Stellen gehören.
 - Die Teilnehmer verstehen, dass KI-gestützte Entwicklung architekturellen Drift in einem Tempo verursachen kann, das traditionelle Review-Zyklen übersteigt, und können Mechanismen zur kontinuierlichen Überprüfung entwerfen.
 
-[[LZ-4-4]]
-==== LZ 4-4: Architekturelle Leitplanken für KI-Agenten in bestehende Codebasen einführen können
+[[LG-4-4]]
+==== LG 4-4: Architekturelle Leitplanken für KI-Agenten in bestehende Codebasen einführen können
 - Die Teilnehmer können beurteilen, wie gut eine bestehende Codebasis und ein bestehender Technologie-Stack für die architekturelle Kontrolle von KI-Agenten geeignet sind. Sie können die Eigenschaften identifizieren, die Kontrolle erleichtern oder erschweren.
 - Die Teilnehmer können eine Strategie zur schrittweisen Einführung architektureller Leitplanken in Systeme entwerfen, die nicht für KI-gestützte Entwicklung gebaut wurden. Sie können priorisieren, welche Leitplanken zuerst etabliert werden sollten.
-- Die Teilnehmer können den Trade-Off zwischen dem Aufwand der Einführung von Leitplanken und dem Risiko des Betriebs von KI-Agenten ohne diese Leitplanlen beurteilen.
+- Die Teilnehmer können den Trade-Off zwischen dem Aufwand der Einführung von Leitplanken und dem Risiko des Betriebs von KI-Agenten ohne diese Leitplanken beurteilen.
 
-[[LZ-4-5]]
-==== LZ 4-5: Prozesse entwerfen können, die architekturelle Leitplanken über die Zeit verbessern
+[[LG-4-5]]
+==== LG 4-5: Prozesse entwerfen können, die architekturelle Leitplanken über die Zeit verbessern
 - Die Teilnehmer können Feedback-Prozesse entwerfen, bei denen Fehler in KI-generierter Arbeit zu Verbesserungen des Kontrollsystems selbst führen.
 - Die Teilnehmer können beurteilen, inwieweit die Verbesserung von Leitplanken selbst automatisiert werden kann und wo menschliches architekturelles Urteilsvermögen unerlässlich bleibt.
 

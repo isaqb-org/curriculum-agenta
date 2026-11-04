@@ -3,17 +3,33 @@
 
 Teilnehmerinnen und Teilnehmer **sollten** folgende Kenntnisse und/oder Erfahrung mitbringen:
 
-- Voraussetzung 1
-- Voraussetzung 2, etc.
+- Praktische Erfahrung in der Softwareentwicklung oder Softwarearchitektur
+- Grundlegendes Verständnis von Softwarearchitekturkonzepten und typischen Architekturartefakten
+- Grundlegende Erfahrung mit modernen Softwareentwicklungsprozessen und der Zusammenarbeit in Entwicklungsteams
+- Grundlegendes Verständnis von Quellcode-Repositories, Build-Pipelines und gängigem Entwicklungswerkzeug
 
-**Hilfreich** für das Verständnis einiger Konzepte sind darüber hinaus:
+Kenntnisse in den folgenden Bereichen können für das Verständnis einiger Konzepte **hilfreich** sein:
 
-- Kenntnisgruppe 1:
-  * Kenntnis 1
-  * Erfahrung 2
-  * Kenntnis 3
-  * Erfahrung 4
-  * Wissen 5
+- Softwarearchitektur:
+* Erfahrung mit Architekturentscheidungen und Trade-off-Analysen
+* Kenntnis von Qualitätsanforderungen und Rahmenbedingungen
+* Erfahrung mit Architekturdokumentation, Sichten und Architecture Decision Records (ADRs)
+* Verständnis von Architekturreviews und der Modernisierung bestehender Systeme
+
+- Softwareentwicklung und -auslieferung:
+* Erfahrung mit Continuous Integration und Continuous Delivery
+* Kenntnis von statischer Analyse, Testing und Code-Review-Praktiken
+* Verständnis von Systemdekomposition, Schnittstellen und Integrationsstilen
+
+- KI-gestütztes Engineering:
+* Grundlegendes Verständnis von generativer KI und Large Language Models
+* Erste praktische Erfahrung mit KI-Assistenten oder Coding-Agenten
+* Bewusstsein für typische Grenzen von KI-Systemen, wie Halluzinationen und nicht-deterministisches Verhalten
+
+- Anforderungen und Domänenverständnis:
+* Erfahrung bei der Übersetzung von Geschäfts- oder Qualitätszielen in technische Entscheidungen
+* Verständnis von Domänenkonzepten, Geschäftsregeln und Stakeholder-Kommunikation
+
 // end::DE[]
 
 // tag::EN[]

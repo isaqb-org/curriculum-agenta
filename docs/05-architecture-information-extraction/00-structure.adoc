@@ -3,7 +3,7 @@
 // ====================================================
 
 // tag::DE[]
-== XXXX
+== Extraktion von Architekturinformationen
 // end::DE[]
 
 // tag::EN[]

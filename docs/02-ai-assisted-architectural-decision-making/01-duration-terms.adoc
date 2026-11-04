@@ -4,7 +4,7 @@
 |===
 
 === Begriffe und Konzepte
-Begriff 1, Begriff 2, Begriff 3
+Lebenszyklus von Architekturentscheidungen, evidenzbasierte Architekturarbeit, Architekturtreiber, Qualitätsszenarien, Fracture Planes, Set-Based Design, Trade-off-Analyse, hypothesengetriebene Entwicklung, Lightweight Experiments, Grenzen von LLM-Modellen, Wechsel von LLM-Modellen, Human-in-the-Loop
 
 
 // end::DE[]

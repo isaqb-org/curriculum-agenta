@@ -1,20 +1,34 @@
 === {learning-goals}
 
 // tag::DE[]
-[[LZ-3-1]]
-==== LZ 3-1: Dies ist das erste Lernziel in Kapitel 3, das mit xyz
+[[LG-3-1]]
+==== LG 3-1: Verstehen, warum und wie die einem KI-Agenten verfügbare Information die Qualität seiner Ausgabe bestimmt
 
-Hier wird beschrieben, was Teilnehmer:innen in diesem Lernziel lernen sollen. Das kann in Prosa-Text
-in ganzen Sätzen oder in Aufzählungen mit Unterpunkten erfolgen. Dabei kann auch unterschieden werden,
-wie wichtig einzelne Aspekte des Lernziels sind. Es kann hier bereits auf Literatur verwiesen werden.
+- Teilnehmer können den Zusammenhang zwischen der Information, die ein Agent erhält, und der Qualität sowie der architektonischen Konsistenz seiner Ausgabe erklären.
+- Teilnehmer verstehen, warum die Bereitstellung von Architekturwissen für Agenten ein Designproblem ist, das ingenieurmäßige Disziplin erfordert, und nicht nur das Verfassen von Anweisungen.
+- Teilnehmer können die inhärente Einschränkung erklären: Die Bereitstellung von Wissen erhöht die Wahrscheinlichkeit guter Ergebnisse, kann sie aber nicht garantieren.
 
-* Erstes Teilziel
-* Zweites Unterthema
-* Dritter Aspekt
+[[LG-3-2]]
+==== LG 3-2: Wissen, wie agentengerechte Repräsentationen von Architekturwissen gestaltet werden
 
-[[LZ-3-2]]
-==== LZ 3-2: Hier ist ein zweites Lernziel in diesem Kapitel
-tbd.
+- Teilnehmer können identifizieren, welche Architekturentscheidungen, Rahmenbedingungen, Qualitätsziele, Prinzipien, Domänenkonzepte, Integrationsregeln und Systemgrenzen für KI-Agenten in einer gegebenen Codebasis relevant sind, und können beurteilen, welche davon fehlen.
+- Teilnehmer können verschiedene Formen der Repräsentation von Architekturwissen für die Nutzung durch Agenten bewerten und deren Trade-offs hinsichtlich Präzision, Pflegbarkeit und Wirksamkeit einschätzen.
+- Teilnehmer können geeignete Repräsentationsformen auswählen, wie ADRs, Architekturregeln, Kontextdateien, Wissensdatenbanken, Retrieval-Indizes, Diagrams-as-Code oder strukturierte Constraints.
+
+[[LG-3-3]]
+==== LG 3-3: Können Bereitstellungsmechanismen entwerfen, die Architekturwissen Agenten zum richtigen Zeitpunkt verfügbar machen
+
+- Teilnehmer können verschiedene Strategien zur Bereitstellung von Architekturwissen für Agenten (z.B. Retrieval Augmented Generation, Skills) bewerten und geeignete Strategien für unterschiedliche Situationen auswählen.
+- Teilnehmer können beurteilen, wer oder was entscheiden sollte, wann bestimmtes Wissen geladen wird, und können die damit verbundenen Trade-offs erklären.
+- Teilnehmer verstehen die architektonischen Implikationen standardisierter Integrationsprotokolle (z.B. Model Context Protocol) für die Kommunikation zwischen Agent und Tool und können identifizieren, wo solche Mechanismen in einer Organisation Mehrwert schaffen.
+
+[[LG-3-4]]
+==== LG 3-4: Können beurteilen und verbessern, wie wirksam Architekturwissen Agenten in einem gegebenen Projekt erreicht
+
+- Teilnehmer können beurteilen, ob das Architekturwissen, das Agenten in einem Projekt derzeit zur Verfügung steht, ausreichend, gut strukturiert und wirksam bereitgestellt ist.
+- Teilnehmer verstehen, dass mehr Wissen nicht immer besser ist. Irrelevante oder widersprüchliche Informationen verschlechtern die Leistung von Agenten. Sie können Strategien entwerfen, die Vollständigkeit mit Signalqualität ausbalancieren.
+- Teilnehmer können einen iterativen Prozess zur Verbesserung der Bereitstellung von Architekturwissen basierend auf beobachtetem Agentenverhalten entwerfen.
+- Teilnehmer sind sich bewusst, dass gemeinsam genutzte Dokumente kein gemeinsames Verständnis bedeuten und dass die Etablierung eines solchen Verständnisses andere Disziplinen und Methoden erfordert (z.B. Domain-driven Design, Collaborative Modeling)
 
 // end::DE[]
 

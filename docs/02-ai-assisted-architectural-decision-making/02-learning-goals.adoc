@@ -1,13 +1,75 @@
 === {learning-goals}
 
 // tag::DE[]
-[[LZ-2-1]]
-==== LZ 2-1: LZ
-tbd.
+[[LG-2-1]]
+==== LG 2-1: Verstehen den Einfluss von KI auf den Lebenszyklus von Architekturentscheidungen
 
-[[LZ-2-2]]
-==== LZ 2-2: LZ
-tbd.
+Teilnehmer verstehen die Phasen des Lebenszyklus einer Architekturentscheidung, von der Problemidentifikation bis zur eventuellen Ablösung (Deprecation). Sie verstehen, dass dieser Lebenszyklus zyklisch und nicht linear ist, und können erklären, wie Agentic Engineering diesen Lebenszyklus beeinflusst (Effekte, Risiken und Chancen).
+Im Detail können die Teilnehmer:
+
+* die Phasen des Entscheidungszyklus benennen: Problemidentifikation, Exploration von Optionen, (In-)Validierung von Alternativen, Entscheidungsfindung, Etablierung der Entscheidung, Ablösung und Iteration
+* den Effekt von Agentic Engineering verstehen: Es kann Exploration und (Prototyp-)Entwicklung beschleunigen und – gepaart mit kontinuierlicher Validierung – die Frequenz der Entscheidungszyklen erhöhen
+* verstehen, warum es wichtig ist, Feedback-Schleifen aus Entwicklung, Testing und Betrieb in das laufende architektonische Denken zu etablieren
+* erklären, wie diese Effekte einen kontinuierlichen, evidenzbasierten Architekturprozess ermöglichen und warum dies vorteilhaft ist
+
+[[LG-2-2]]
+==== LG 2-2: Können Qualitätsziele top-down zu Architekturtreibern verfeinern
+
+Teilnehmer sind in der Lage, Qualitätsziele in konkrete Architekturtreiber zu zerlegen und diese zu nutzen, um die Ergebnisse agentischer Entwicklung zu beurteilen. Sie verstehen, warum es wichtig ist, diese Treiber und die daraus resultierenden Architekturentscheidungen getrennt und unterscheidbar zu behandeln.
+Im Detail können die Teilnehmer:
+
+* Qualitätsziele in konkrete, bewertbare Kriterien wie Qualitätsszenarien zerlegen
+* Konflikte oder Widersprüche zwischen Qualitätszielen, Rahmenbedingungen und architektonischen Absichten identifizieren
+* diese Treiber nutzen, um zielorientiertes Design und zielorientierte Entwicklung von Softwarelösungen zu unterstützen (siehe Kapitel 3)
+* verstehen, warum es wichtig ist, im agentischen Workflow unterschiedliche Konzepte für die Behandlung von Architekturtreibern und -zielen auf der einen Seite und Architekturentscheidungen und -konzepten auf der anderen Seite zu haben
+
+[[LG-2-3]]
+==== LG 2-3: Können architektonische/strukturelle Schwachstellen bottom-up identifizieren
+
+Teilnehmer sind in der Lage, Architekturtreiber und strukturelle Schwachstellen mithilfe einer Mischung aus etablierten Werkzeugen und KI-gestützten Techniken zu identifizieren.
+
+* können bottom-up entstehenden Bedarf für Architekturarbeit erklären, insbesondere in agentischen Engineering-Kontexten: strukturelle Schwächen, unbeabsichtigter Drift oder entstehende Komplexität in sich entwickelnden Systemen
+* kennen etablierte Werkzeuge zur Identifikation von Architekturtreibern: Bewertung technischer Schulden, statische Strukturanalyse, monitoring-basiertes Feedback und dynamische Analyse, Metriken und Testabdeckungsanalyse, Architekturreviews
+* können KI-gestützte Techniken zur Unterstützung der bottom-up-Treiberidentifikation nutzen: KI-gestützte Architekturreviews und Strukturbewertungen, Konsistenzprüfungen und Qualitätsbewertungen
+
+[[LG-2-4]]
+==== LG 2-4: Können KI für Design-Exploration und die Generierung von Architekturvarianten nutzen
+
+Teilnehmer sind in der Lage, KI zur Unterstützung der Exploration architektonischer Optionen zu nutzen. Sie verstehen, warum Architekturtreiber, Rahmenbedingungen, bestehende Entscheidungen und Architekturprinzipien für die Generierung von Architekturvarianten wichtig sind.
+
+* Generieren und Verfeinern architektonischer Optionen für eine gegebene Problemstellung
+* Bewerten von Kandidatenoptionen gegen Treiber, bestehende Entscheidungen, Rahmenbedingungen und Architekturprinzipien
+* Verstehen der Grenzen KI-generierter Vorschläge und der allgegenwärtigen Natur von Trade-offs bei Architekturentscheidungen
+
+[[LG-2-5]]
+==== LG 2-5: Können Architekturentscheidungen als testbare Hypothesen behandeln
+
+Teilnehmer können Architekturentscheidungen als Hypothesen mit expliziten Annahmen, erwarteten Auswirkungen auf die Qualitätsmerkmale des Systems, Risiken und Validierungskriterien formulieren. Sie können Lightweight Experiments gestalten und die Ergebnisse nutzen, um architektonische Optionen zu unterstützen, zu überarbeiten oder zu verwerfen.
+
+* Formulieren von Architekturentscheidungen als Hypothesen mit Annahmen, erwarteten Ergebnissen und messbaren Kriterien für Validierung oder Falsifikation
+* Ersetzen möglicherweise bestehender meeting-basierter Ansätze für Architekturdesign durch experimentelle Schleifen
+* Gestalten von Lightweight Experiments wie Spikes, Simulationen, Prototypen und Side-by-Side-Variantenvergleichen
+* Identifizieren architektonischer Risiken und Einsatz gezielter Experimente, um diese zu adressieren
+* Nutzen experimenteller Ergebnisse, um Architekturentscheidungen zu unterstützen, zu schwächen, zu überarbeiten oder zu revidieren, und Verstehen, dass diese agentischen Experimente kostengünstiger sein können als aufwändig ausgearbeitete „Specs“
+
+[[LG-2-6]]
+==== LG 2-6: Verstehen die Grenzen von KI bei der Unterstützung architektonischer Entscheidungen
+
+Teilnehmer verstehen die Grenzen von KI beim architektonischen Denken und bei der Unterstützung der Entscheidungsfindung. Sie wissen, warum KI-generierte Ergebnisse einer kritischen Überprüfung bedürfen, und verstehen die Notwendigkeit, menschliche Verantwortung für folgenreiche Architekturentscheidungen zu bewahren.
+
+* Bekannte Risiken umfassen modellinhärente Aspekte, die Aufmerksamkeit erfordern: Halluzinationen, Bias, Empfindlichkeit gegenüber Prompt-Struktur und Reihenfolge der Instruktionen, Unterschiede in der Kontexteffektivität, möglicherweise gesponserte Technologien, ...
+* Teilnehmer kennen den Wert und die Risiken eines Modellwechsels während eines Entscheidungsprozesses
+* Teilnehmer sind in der Lage, Review-Checkpoints zu definieren und wissen, wie menschliche Verantwortung über folgenreiche Architekturentscheidungen durch die Durchsetzung dieser Checkpoints und zusätzlicher Methoden (z.B. Festlegen von Grenzen für agentische Entscheidungen, Durchsetzen von Guardrails) bewahrt werden kann
+
+[[LG-2-7]]
+==== LG 2-7: Können Architekturarbeit von Implementierung zu Orchestrierung verschieben
+
+* Die Kursteilnehmenden können unterscheiden, ob sie Agenten über einen festen Plan steuern oder den Agenten-Workflow selbst gestalten, und können den passenden Stil für einen gegebenen Kontext auswählen.
+* Die Kursteilnehmenden können die Effekte von Orchestrierung auf den Durchsatz (insbesondere, dass weniger Hand-offs zu weniger Friktion führen), Nachvollziehbarkeit und den Entwicklungsprozess als Ganzes beurteilen.
+* Die Kursteilnehmenden kennen Orchestrierungsvarianten und können sinnvolle Checkpoints identifizieren, an denen menschliches Urteilsvermögen erforderlich ist.
+* Die Kursteilnehmenden können orchestrierungsspezifische Fehlermodi identifizieren (z.B. außer Kontrolle geratene Agenten, Endlosschleifen, verlorene menschliche Eingriffspunkte, kaskadierende Fehler über orchestrierte Schritte) und können Eindämmungsmechanismen entwerfen, die deren Auswirkungen begrenzen.
+* Die Kursteilnehmenden können Ziele, Rahmenbedingungen und Abnahmekriterien spezifizieren, anstatt den exakten Weg vorzugeben, und können erklären, warum diese Art der Steuerung bei der Arbeit mit KI-Agenten wirksamer ist.
+* Die Kursteilnehmenden verstehen, dass das Design von Orchestrierung direkte Auswirkungen auf Kosten und Nachhaltigkeit hat (Token-Verbrauch, Länge der agentischen Loop, Häufigkeit von Tool-Aufrufen) und können dies bei der Gestaltung von Orchestrierungsmustern berücksichtigen. Siehe auch <<LG-7-4,LG 7-4>>.
 
 // end::DE[]
 

@@ -1,20 +1,43 @@
 === {learning-goals}
 
 // tag::DE[]
-[[LZ-7-1]]
-==== LZ 7-1: Dies ist das erste Lernziel in Kapitel 7, das mit xyz
 
-Hier wird beschrieben, was Teilnehmer:innen in diesem Lernziel lernen sollen. Das kann in Prosa-Text
-in ganzen Sätzen oder in Aufzählungen mit Unterpunkten erfolgen. Dabei kann auch unterschieden werden,
-wie wichtig einzelne Aspekte des Lernziels sind. Es kann hier bereits auf Literatur verwiesen werden.
+[[LG-7-1]]
+==== LG 7-1: Wissen um die Bedeutung von Code-Ownership und den Erhalt analytischer Fähigkeiten
 
-* Erstes Teilziel
-* Zweites Unterthema
-* Dritter Aspekt
+- Teilnehmer verstehen, dass die Entwicklerin oder der Entwickler für das Ergebnis verantwortlich bleibt: „you push it, you own it“.
+- Teilnehmer verstehen das Risiko des Verlusts von Fähigkeiten (Skill Atrophy) durch übermäßiges Vertrauen auf KI und können persönliche und Team-Praktiken entwerfen (z.B. bewusste KI-freie Übung, Human-first/AI-second-Denkweisen, traditionelle und KI-gestützte Katas, Nutzung von KI als Lerninstrument zum Erklären, Zusammenfassen und Hinterfragen), um zentrale Engineering-Fähigkeiten zu erhalten.
+- Teilnehmer verstehen die fortbestehende Bedeutung kritischen Denkens (weiterhin Fragen stellen und recherchieren, bis ein Verständnis des Problems erreicht ist, sowie „KI-generierte Ergebnisse“ gegen das eigene Wissen und eigene Beobachtungen prüfen und hinterfragen)
 
-[[LZ-7-2]]
-==== LZ 7-2: Hier ist ein zweites Lernziel in diesem Kapitel
-tbd.
+[[LG-7-2]]
+==== LG 7-2: Können architektonisches Urteilsvermögen bei der Nutzung von Coding-Agenten bewahren
+
+- Teilnehmer verstehen, dass Agentenentscheidungen sowohl durch den verfügbaren Kontext als auch durch Verzerrungen (Bias) in den Trainingsdaten (z.B. Gewichtung zugunsten bestimmter Anbieter, Frameworks oder Stacks) und durch Verzerrungen in bestehenden Artefakten der eigenen Organisation geprägt werden, und können Situationen identifizieren, in denen solche Verzerrungen architektonische Entscheidungen verfälschen.
+- Teilnehmer können KI-gestütztes Denken von delegierter Entscheidungsfindung unterscheiden.
+- Teilnehmer können identifizieren, welche Architekturtätigkeiten in menschlicher Hand bleiben müssen, und wissen, dass sich dies in Zukunft ändern kann.
+- Teilnehmer wissen, dass gemeinsame Terminologie und ein konsistentes Domänenvokabular (z.B. ein Domänenglossar, Ubiquitous Language) als Ankerpunkte wirken, die Agentenentscheidungen vorhersehbarer und stärker am Systemdesign ausgerichtet machen (siehe <<gudomain>>).
+- Teilnehmer kennen Indikatoren dafür, ob Teams ihre architektonische Fähigkeit verbessern und nicht nur schneller Ergebnisse produzieren, und wissen, dass das Ziel die Maximierung von Outcome und Impact für die Nutzerin oder den Nutzer ist, nicht von bloßem Output (um das zu vermeiden, was zunehmend als „AI Slop“ bezeichnet wird)
+
+[[LG-7-3]]
+==== LG 7-3: Wissen, was die Einführung KI-gestützter Entwicklungspraktiken in Organisationen antreibt
+
+- Teilnehmer können einen hypothesengetriebenen Ansatz zur KI-Einführung anwenden (Problem identifizieren, Hypothesen formulieren, Experimente durchführen, Ergebnisse messen) und erklären, warum dies breiten, ungezielten Rollouts vorzuziehen ist.
+- Teilnehmer verstehen KI-Einführung als kontinuierlichen, mehrstufigen Prozess (z.B. Zugang, Adoption, Kompetenz, Arbeitsweisen, organisatorischer Wandel) statt als einmalige Initiative und können eine Organisation innerhalb eines solchen Modells einordnen.
+- Teilnehmer kennen fördernde Maßnahmen wie Schulungen, Hackathons und dedizierte Zeit für Experimente und können begründen, warum geschützte Lernzeit eine Voraussetzung für nachhaltige Einführung ist.
+- Teilnehmer wissen, dass eine explizite Verantwortlichkeit (Ownership) für die KI-Einführung innerhalb eines Teams oder einer Organisation entscheidend für deren Erfolg ist.
+- Teilnehmer verstehen die Bedeutung einer Lernkultur, die Fehler toleriert und psychologische Sicherheit für das Stellen von Fragen schafft, und können kulturelle Anti-Patterns identifizieren, die die Einführung blockieren.
+- Teilnehmer können einfachen Zugang (durch Empfehlung sinnvoller Standard-Tools) mit Offenheit für Alternativen abwägen und diesen Trade-off begründen.
+- Teilnehmer können den Wandel der Engineering-Identität vom Schreiben von Code hin zum Liefern von Ergebnissen (Outcomes) unterstützen und dessen Implikationen für Einzelpersonen und Teams erklären.
+- Teilnehmer kennen aussagekräftige Indikatoren für den Erfolg der KI-Einführung (z.B. DORA-Metriken, Lead Time, Change Failure Rate, Signale zur Developer Experience) und können sie nutzen, um die der Einführung zugrunde liegenden Hypothesen zu validieren.
+
+[[LG-7-4]]
+==== LG 7-4: Wissen um sich wandelnde Rollen, Teams und architektonischen Geltungsbereich in KI-gestützten Organisationen
+
+- Teilnehmer kennen neue Kollaborationsmuster, die Menschen und KI kombinieren (z.B. Human + Human + AI Pairing), und können Schutzmaßnahmen identifizieren, die sicherstellen, dass Menschen weiterhin miteinander sprechen und nicht nur mit dem Agenten, und dass Erkenntnisse aus einer KI-Sitzung mit dem menschlichen Entwicklungsteam geteilt werden. Entsprechend kennen die Teilnehmer Agenten-Topologien (z.B. Solo, Sub-Agent, Agent Teams)
+- Teilnehmer wissen, dass Kollaborationsmuster zum Teamkontext passen müssen und dass unterschiedliche Teamrollen unterschiedliche KI-gestützte Tätigkeiten ausführen können (z.B. dass Produktrollen Agenten-Workflows anstoßen oder Entwickler Feature-Entwürfe erstellen könnten).
+- Teilnehmer können ihren eigenen Fokus von codenaher Arbeit hin zu einem breiteren architektonischen, generalistischen und produktzentrierten Denken verschieben und können die Implikationen dieser Verschiebung für Einstellung, Kompetenzentwicklung sowie Teamgröße und -zusammensetzung antizipieren.
+- Teilnehmer verstehen, dass sich etablierte agile Praktiken unter KI-gestützter Entwicklung weiterentwickeln (z.B. Größe von Pull Requests, schnellere Feedback-Schleifen, veränderter Takt).
+- Teilnehmer können über die sich wandelnde Rolle der Architektin oder des Architekten über Architekturebenen hinweg (Software, Lösung, Unternehmen) reflektieren und identifizieren, wo KI-Unterstützung auf jeder Ebene den größten Hebel hat.
 
 // end::DE[]
 
