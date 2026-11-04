@@ -3,7 +3,7 @@
 // ====================================================
 
 // tag::DE[]
-== AI-unterstützte Architekturentscheidungen
+== KI-gestützte architektonische Entscheidungsfindung
 // end::DE[]
 
 // tag::EN[]

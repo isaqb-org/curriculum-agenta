@@ -1,8 +1,9 @@
 // tag::DE[]
 === Was vermittelt das Modul „{curriculum-short}“?
 
-Das Modul präsentiert den Teilnehmerinnen und Teilnehmern {curriculum-name} als …
-Am Ende des Moduls kennen die Teilnehmerinnen und Teilnehmer … und können …
+Das Modul präsentiert den Teilnehmerinnen und Teilnehmern {curriculum-short} als einen fortgeschrittenen Ansatz der Softwarearchitektur in Kontexten, in denen generative KI, LLMs und Agenten als Arbeitswerkzeuge in der Softwareentwicklung eingesetzt werden. Es behandelt, wie Softwareentwickler und Architekten KI zur Unterstützung ihrer Architekturarbeit nutzen können, wie Architekturwissen und Rahmenbedingungen Agenten zur Verfügung gestellt werden können und wie architektonische Kontrolle, Governance und Verantwortlichkeit in KI-gestützten Entwicklungsumgebungen erhalten bleiben. Das Modul behandelt außerdem die Extraktion von Architekturinformationen aus bestehenden Systemen sowie die sich verändernde Rolle von Architektinnen und Architekten in Organisationen, die zunehmend auf KI-gestützte Entwicklung setzen.
+
+Am Ende des Moduls kennen die Teilnehmerinnen und Teilnehmer die grundlegenden Konzepte, Chancen und Grenzen von KI-gestütztem und agentischem Engineering im Kontext der Softwarearchitektur. Sie sind in der Lage, KI zur Unterstützung architektonischer Entscheidungsfindung einzusetzen, Agenten Architekturwissen bereitzustellen, Mechanismen zu etablieren, die KI-generierte Arbeit an Architekturzielen ausrichten, und architektonische Erkenntnisse sowie Dokumentation aus bestehenden Entwicklungsartefakten abzuleiten. Sie wissen außerdem, wie Governance, Nachvollziehbarkeit und Qualitätskontrollen für die KI-Nutzung eingeführt werden, und sind in der Lage, Architekturarbeit, Zusammenarbeit und Verantwortlichkeiten an Organisationen anzupassen, in denen KI Teil der alltäglichen Entwicklungspraxis wird.
 // end::DE[]
 
 // tag::EN[]

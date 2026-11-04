@@ -2,20 +2,51 @@
 
 
 // tag::DE[]
-[[LZ-5-1]]
-==== LZ 5-1: Dies ist das erste Lernziel in Kapitel 5, lorem ipsum sit dolor
+[[LG-5-1]]
+==== LG 5-1: Verstehen den Unterschied zwischen As-Is-, To-Be-, menschen- und agentengerechter Architekturdokumentation
 
-Hier wird beschrieben, was Teilnehmer:innen in diesem Lernziel lernen sollen. Das kann in Prosa-Text
-in ganzen Sätzen oder in Aufzählungen mit Unterpunkten erfolgen. Dabei kann auch unterschieden werden,
-wie wichtig einzelne Aspekte des Lernziels sind. Es kann hier bereits auf Literatur verwiesen werden.
+Teilnehmer können zentrale Arten von Architekturdokumentation unterscheiden und verstehen die unterschiedliche Rolle, die KI bei deren Erstellung und Pflege jeweils spielt. Sie verstehen, dass Dokumente ein Mittel zum gemeinsamen Verständnis sind und kein Selbstzweck — und dass dieses Prinzip besonders in agentischen Kontexten gilt.
 
-* Erstes Teilziel
-* Zweites Unterthema
-* Dritter Aspekt
+* Unterscheiden von *As-Is*-Dokumentation (aktueller Systemzustand — profitiert am stärksten von KI-Tool-Unterstützung) von *To-Be*-Dokumentation (Vision, Zielarchitektur — KI spielt eine grundlegend andere und kleinere Rolle)
+* Verstehen, dass Visionsdokumente aktive menschliche Prozesse erfordern: Sprechen, Diskutieren, Bewerten, Entscheiden. Die Qualität des resultierenden Dokuments hängt von der Qualität dieser menschlichen Interaktionen ab — KI kann diese unterstützen, aber nicht ersetzen
+* Wissen, dass bei menschengerechter Dokumentation das zielgruppenorientierte Format (wer liest es, zu welchem Zweck, in welchem Kontext) mindestens so wichtig ist wie die Menge
+* Wissen, dass agentengerechte Dokumentation (z.B. als Kontext für Coding-Agenten oder KI-gestützte Workflows) mehr Optionen bietet als traditionelle Formate oder Vorlagen und dass knappe, maschinenlesbare Repräsentationen traditionelle Dokumente oft übertreffen
 
-[[LZ-5-2]]
-==== LZ 5-2: Hier ist ein zweites Lernziel in diesem Kapitel
-tbd.
+[[LG-5-2]]
+==== LG 5-2: Verstehen, wie Architekturentscheidungen und Dokumentation durch agentische Entwicklungsschleifen gepflegt werden
+
+Teilnehmer verstehen, dass agentische Entwicklungsschleifen die Systemarchitektur kontinuierlich weiterentwickeln — oft implizit. Sie wissen, wie diese Schleifen durch geeignete Praktiken zur Entscheidungsverfolgung und Dokumentation begleitet werden, die Nachvollziehbarkeit und menschliche Verantwortlichkeit sicherstellen, ohne zum Engpass zu werden.
+
+* Verstehen, dass lange agentische Iterationsschleifen die Architektur von ursprünglichen Entscheidungen wegdriften lassen können, und wissen, warum dies bewusst verfolgt und sichtbar gemacht werden muss
+* Wissen, wie KI helfen kann zu erkennen, wenn bestehende Entscheidungen während agentischer Entwicklung implizit verändert werden, und dies für menschliches Review zu markieren
+* Nutzen ADRs als zentrales Werkzeug, um Entscheidungen zu erfassen, die aus agentischen Entwicklungsschleifen entstehen: Kontext, Alternativen, Begründung und Konsequenzen — einschließlich Entscheidungen, die inkrementell und nicht in einem einzelnen Moment entstehen
+* Wissen, wie KI die Erstellung von ADR-Entwürfen unterstützen kann, indem sie Informationen aus verschiedenen agentischen Kontextquellen sammelt und zusammenführt: Kontext-Logs, Guardrail-Ausgaben, Chat-Verläufe, E-Mails und Besprechungsprotokolle. Verstehen, dass der resultierende Entwurf ein Human-in-the-Loop-Review durchlaufen muss — zur Validierung, Korrektur und Vervollständigung
+* Verstehen die Grenzen KI-generierter ADR-Inhalte: organisationales Commitment, Zustimmung der Stakeholder, implizites Wissen und der soziale Vertrag, der eine Entscheidung verbindlich macht, können von KI nicht generiert oder ersetzt werden — diese erfordern menschliche Prozesse
+* Verstehen, wie Nachvollziehbarkeit zwischen Implementierungsartefakten und den Entscheidungen, die sie geprägt haben, aufrechterhalten werden kann, selbst wenn diese Entscheidungen über viele kurze agentische Iterationen hinweg getroffen wurden
+* Wissen, wo in agentischen Schleifen menschliche Review-Checkpoints zu platzieren sind, damit die Verantwortlichkeit für folgenreiche Architekturentscheidungen niemals vollständig an den Agenten delegiert wird
+
+[[LG-5-3]]
+==== LG 5-3: Wissen, wie KI und Agenten genutzt werden können, um Architekturinformationen aus bestehenden Systemteilen zu extrahieren
+
+Teilnehmer wissen, wie KI-Tools und Agenten relevante Architekturinformationen aus bestehenden Systemartefakten extrahieren können. Sie verstehen, welche Arten von Informationen rekonstruiert werden können, welche Techniken verfügbar sind und wie Befunde validiert und kombiniert werden — einschließlich der Stärken und Grenzen jedes Ansatzes.
+
+* Zusammenfassen und Analysieren verfügbarer Systemartefakte: Quellcode, Deployment-Deskriptoren, Konfiguration, Tests und Schnittstellen
+* Interpretieren struktureller Informationen aus Code, Repositories, Schnittstellen und Abhängigkeitsgraphen; Kombinieren der Befunde zu nutzbaren Repräsentationen wie Knowledge Graphs oder Strukturmodellen und kontinuierliches Aktuellhalten
+* Kombinieren von KI-generierten Erkenntnissen mit traditioneller statischer und dynamischer Analyse, um Genauigkeit und Abdeckung zu verbessern
+* Erkennen von Technologien und Frameworks mittels Code Property Graphs (z.B. Joern, siehe <<joern>>) oder KI-Coding-Agenten; domänenbewusstes Erkennen wiederkehrender Architektur- und Entwurfsmuster; Beziehen der Befunde auf Architekturstrukturen und Modernisierungsanliegen
+* Extrahieren von Kandidaten für Geschäftsregeln aus Code, Tests und Konfiguration; Beziehen dieser auf dokumentierte Domänenkonzepte und Geschäftsprozesse; Vorbereiten für die Validierung mit Domänenexperten und Stakeholdern
+* Identifizieren von Lücken, Inkonsistenzen und Unsicherheiten in rekonstruierten Informationen und Validieren der Befunde mittels statischer/dynamischer Analysewerkzeuge, Code-Inspektion und Stakeholder-Kommunikation
+
+[[LG-5-4]]
+==== LG 5-4: Verstehen, wie Architektursichten aus gesammelten Architekturinformationen generiert werden
+
+Teilnehmer verstehen, wie KI die Erstellung und laufende Pflege von Architektursichten und Dokumentation unterstützen kann. Sie wissen, wie KI-generierte Erkenntnisse mit statischer und dynamischer Analyse kombiniert werden, um genaue, aktuelle Architekturrepräsentationen abzuleiten.
+
+* Generieren architekturbezogener Dokumentation und Sichten aus Code, Repositories, Schnittstellen und anderen Entwicklungsartefakten, einschließlich Wissensrepräsentationen dieser Artefakte
+* Rekonstruieren und Pflegen relevanter Systemsichten im Einklang mit der Systementwicklung; Verstehen des Wertes textbasierter Diagrammformate (z.B. Mermaid, Structurizr) für versionierbare, lebende Dokumentation
+* Validieren generierter Sichten und Dokumentation gegen das Wissen der Entwickler und das tatsächliche Systemverhalten
+* Verstehen des Wertes aktueller Systemsichten für Analyse, Kommunikation und Modernisierungsplanung
+
 // end::DE[]
 
 // tag::EN[]

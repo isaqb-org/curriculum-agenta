@@ -4,7 +4,7 @@
 |===
 
 === Begriffe und Konzepte
-Begriff 1, Begriff 2, Begriff 3
+KI-Governance, Compliance, EU AI Act, OWASP Top 10 LLM, MITRE ATLAS, Human-in-the-Loop, Prompt Injection, Souveränität, Nachhaltigkeit von LLMs, LLM-Footprint
 
 // end::DE[]
 

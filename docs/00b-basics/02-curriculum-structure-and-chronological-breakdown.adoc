@@ -1,17 +1,24 @@
 // tag::DE[]
 === Struktur des Lehrplans und empfohlene zeitliche Aufteilung
 
-[cols="<,>", options="header"]
+[cols="<4,>1,>1,>1", options="header"]
 |===
-| Inhalt | Empfohlene Mindestdauer (min)
-| 1. Thema mit Einleitung | 180
-| 2. Thema über xz | 150
-| 3. Thema mit viel Theorie | 120
-| 4. Thema mit xy und Beispiel | 180
-| 5. Thema mit abc und d | 210
-| 6. Thema mit Abschlussbeispiel | 120
-| |
-| Summe | 900 (15h)
+| Inhalt
+| Dauer +
+(Minuten)
+| Übungszeit +
+(Minuten)
+| Gesamt +
+(Minuten)
+| 1. Einführung und Grundlagen | 60 | 0 | 60
+| 2. KI-gestützte architektonische Entscheidungsfindung | 90 | 60 | 150
+| 3. Architekturwissen für Agenten bereitstellen | 150 | 60 | 210
+| 4. Agenten an Architekturzielen ausrichten | 90 | 60 | 150
+| 5. Extraktion von Architekturinformationen | 105 | 75 | 180
+| 6. Governance und Qualitätssicherung bei KI-Nutzung | 60 | 30 | 90
+| 7. Die sich wandelnde Disziplin der Softwarearchitektur | 30 | 30 | 60
+| | | |
+| Summe | 585 | 315 | 900
 
 |===
 
